@@ -24,21 +24,21 @@
 #let project(title: "", author: (name: ""), body) = {
   // Set the document's basic properties.
   set document(author: author.name, title: title)
-  set page(margin: (x: 0.75in, y: 0.4in))
-  set text(font: serif, lang: "es", size: 10.5pt)
+  set page(margin: (x: 0.7in, y: 0.3in))
+  set text(font: serif, lang: "es", size: 10pt)
   show math.equation: set text(weight: 400)
 
   // Title row.
   align(center)[
-    #block(text(font: titlefont, weight: 700, 1.75em, smallcaps(title)))
+    #block(text(font: titlefont, weight: 700, 1.55em, smallcaps(title)))
   ]
 
   // Author information.
   pad(top: -0.3em, bottom: -0.5em, x: 2em, info(author))
 
   // Main body.
-  set par(justify: true, leading: 0.55em)
-  set list(spacing: 0.45em)
+  set par(justify: true, leading: 0.5em)
+  set list(spacing: 0.36em)
 
   body
 }
@@ -69,7 +69,7 @@
 }
 
 #let group(terms) = {
-  v(1.35em)
+  v(1.05em)
 
   grid(columns: (2fr, 8fr), column-gutter: 2em, row-gutter: 2em, ..terms)
 }

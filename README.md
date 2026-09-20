@@ -6,6 +6,16 @@ CV generado con [Typst](https://typst.app/) a partir de la plantilla
 Cada cambio se compila automáticamente con **GitHub Actions** y se publica en
 **GitHub Pages**.
 
+## 🚀 Arrancá por acá (reanudar sesión)
+
+1. Leé [`estado-busqueda.md`](estado-busqueda.md) — estado de la búsqueda,
+   checklist pendiente y banco de respuestas para formularios.
+2. Revisá [`reports/jobs-latest.md`](reports/jobs-latest.md) — ofertas nuevas
+   del día (lo actualiza un bot todos los días a las 08:15).
+3. Postulá usando [`fuentes-empleo.md`](fuentes-empleo.md) (sección 0 = ofertas
+   activas para postular hoy) y [`perfil-bumeran.md`](perfil-bumeran.md) (contenido
+   listo para pegar en Bumeran).
+
 ## Estructura
 
 | Archivo              | Para qué sirve                                |
@@ -15,7 +25,28 @@ Cada cambio se compila automáticamente con **GitHub Actions** y se publica en
 | `template.typ`       | Plantilla de diseño (no hace falta tocarla)  |
 | `cv_es.typ`          | Genera `cv_es.pdf`                            |
 | `cv_en.typ`          | Genera `cv_en.pdf`                            |
+| `carta_ey.typ`       | Carta de presentación específica para EY      |
+| `carta_generica.typ` | Carta genérica ES (placeholders + 3 variantes según el puesto) |
+| `carta_generica_en.typ` | Carta genérica EN (ofertas remotas)        |
+| `perfil-bumeran.md`  | Contenido listo para copiar y pegar en Bumeran |
+| `fuentes-empleo.md`  | Fuentes: ofertas activas, portales, trainee programs, correos de contacto |
+| `estado-busqueda.md` | Estado vivo de la búsqueda + checklist + respuestas para formularios |
+| `reports/`           | Digest diario automático de ofertas de empleo |
+| `scripts/jobs.sh`    | Script del digest diario de ofertas (LinkedIn + Exa) |
 | `*.svg`              | Iconos (email, teléfono, GitHub, LinkedIn…)  |
+
+## Búsqueda laboral automática
+
+El workflow [`.github/workflows/jobs-daily.yml`](.github/workflows/jobs-daily.yml)
+corre todos los días a las **08:15 (hora de Buenos Aires)**:
+
+```bash
+bash scripts/jobs.sh --days 7 --commit "🤖 Digest laboral $(date -u +%F)"
+```
+
+Genera `reports/jobs-latest.md` con ofertas junior (DevOps, Cloud, SRE, Soporte
+IT) de LinkedIn y boards argentinos (Bumeran, Computrabajo, etc.). Otras
+búsquedas (QA, trainee, dev) se hacen con la skill web-search en la sesión.
 
 ## Editar el CV
 

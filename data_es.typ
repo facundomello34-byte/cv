@@ -24,18 +24,20 @@
 
 #let selftitle = [ Perfil Profesional ]
 #let self = [
-  Estudiante de Desarrollo de Software en UADE orientado a dar los primeros
-  pasos en el sector IT. Conocimientos en programación y bases de datos, con
-  foco en desarrollo de aplicaciones, *QA Testing* y automatización.
-  Experiencia operativa resolviendo incidencias técnicas de primera línea y
-  optimizando procesos con herramientas digitales. Rápida adaptación y clara
-  orientación a la resolución de problemas.
+  Estudiante de Desarrollo de Software en UADE orientado a los primeros pasos
+  en el sector IT. Conocimientos en programación y bases de datos, con foco en
+  desarrollo de aplicaciones, *QA Testing* y automatización, y uso diario de
+  *Linux*. Experiencia operativa resolviendo incidencias técnicas de primera
+  línea y optimizando procesos con herramientas digitales. Interés en
+  *infraestructura y DevOps*. Rápida adaptación y clara orientación a la
+  resolución de problemas.
 ]
 
 #let techtitle = [ Tecnologías y Habilidades ]
 #let tech = [
   *Desarrollo*: Python, JavaScript, HTML, CSS, FastAPI, Next.js\
-  *Bases de datos y DevOps*: SQL, PostgreSQL, Git/GitHub, Docker, Playwright\
+  *Bases de datos y DevOps*: SQL, PostgreSQL, Linux (uso diario), terminal/CLI
+  (bash), Git/GitHub, Docker, Playwright\
   *Soporte IT*: soporte técnico, Windows, redes Wi-Fi, hardware,
   resolución de incidencias, manejo de sistemas operativos\
   *Competencias*: QA Testing, lógica de programación, optimización de
@@ -49,26 +51,38 @@
     Operador
   ], align(right)[ Oct 2025 - _presente_ ])
 
-  - Manejo de *PDA y sistemas digitales* para la operación logística y el
-    despacho de pedidos.
-  - Resolución de incidencias técnicas de hardware y equipos del sector para
-    asegurar la continuidad operativa.
+  - Manejo de *PDA y sistemas digitales internos* para la operación logística
+    y la preparación de pedidos: impresión y colocación de los *vouchers*.
+  - *Control, emisión de tickets y seguimiento de pedidos*, garantizando la
+    correcta gestión de la operación.
+  - Resolución autónoma de *inconvenientes técnicos básicos* (impresoras y
+    equipos del sector) para asegurar la continuidad operativa.
+  - Búsqueda constante de *optimización de tareas y procesos* mediante el uso
+    eficiente de las herramientas disponibles.
 
   #datedsubsection(align(left)[
     *Bon Air Cafetería* \
     Encargado Administrativo
   ], align(right)[ Nov 2024 - Sep 2025 ])
 
-  - Administración con el sistema *FUDO POS*: resolución autónoma de
-    incidencias y automatización del registro de ventas.
+  - Administración operativa integral del local con el sistema de gestión
+    *FUDO POS*.
+  - Resolución autónoma de *incidencias del sistema* para evitar frenos en la
+    operación.
+  - *Optimización de procesos digitales*: implementación de soluciones para
+    automatizar el registro de ventas, el *control de stock* y los *cierres
+    de caja* diarios, apoyados en plataformas informáticas.
 
   #datedsubsection(align(left)[
     *Havanna* \
     Soporte Operativo _(orientado a IT)_
   ], align(right)[ Feb 2024 - Jul 2024 ])
 
-  - Soporte de sistemas internos con *MAXIREST*: manejo, control y validación
-    de la operación diaria del sistema y de los procesos administrativos.
+  - Manejo, control y soporte de los *sistemas internos* de la operación
+    mediante el software *MAXIREST*.
+  - *Validación de información* y soporte técnico en las computadoras para
+    los mozos.
+  - Encargado de *caja* y del correcto funcionamiento del sector.
 ]
 
 #let projectstitle = [ Proyectos ]
@@ -80,8 +94,10 @@
 
   - SaaS de automatización de procesos para comercios. *Stack*: Python,
     FastAPI, PostgreSQL, Docker, JavaScript, Playwright, Next.js.
-  - Prototipo funcional: automatización de procesos administrativos e
-    integración de servicios con FastAPI.
+  - Prototipo funcional *contenedorizado con Docker*: automatización de
+    procesos administrativos, integración de servicios con FastAPI y
+    automatización de pruebas *E2E con Playwright*. Pendiente de definir
+    estrategia de testing y despliegue en producción.
 
   #datedsubsection(align(left)[
     *Sistema de Stock Automatizado* \

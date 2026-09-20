@@ -26,15 +26,17 @@
 #let self = [
   Software Development student at UADE, focused on taking the first steps in
   the IT sector. Knowledge of programming and databases, with a focus on
-  application development, *QA Testing* and automation. Operational experience
-  solving first-line technical incidents and optimizing processes with digital
-  tools. Quick adaptation and a clear orientation towards problem solving.
+  application development, *QA Testing* and automation, and daily use of
+  *Linux*. Operational experience solving first-line technical incidents and
+  optimizing processes with digital tools. Interest in *infrastructure and
+  DevOps*. Quick adaptation and a clear orientation towards problem solving.
 ]
 
 #let techtitle = [ Technologies and Skills ]
 #let tech = [
   *Development*: Python, JavaScript, HTML, CSS, FastAPI, Next.js\
-  *Databases and DevOps*: SQL, PostgreSQL, Git/GitHub, Docker, Playwright\
+  *Databases and DevOps*: SQL, PostgreSQL, Linux (daily use), terminal/CLI
+  (bash), Git/GitHub, Docker, Playwright\
   *IT Support*: technical support, Windows, Wi-Fi networks, hardware,
   incident resolution, operating systems management\
   *Competencies*: QA Testing, programming logic, process optimization,
@@ -48,27 +50,37 @@
     Operator
   ], align(right)[ Oct 2025 - _present_ ])
 
-  - Handled *PDAs and digital systems* for logistics operations and order
-    dispatch.
-  - Solved technical hardware and equipment incidents to ensure operational
-    continuity.
+  - Handled *PDAs and internal digital systems* for logistics operations and
+    order preparation: printing and placing the *vouchers*.
+  - *Ticket issuance, order control and tracking*, ensuring proper management
+    of the operation.
+  - Autonomous resolution of *basic technical issues* (printers and sector
+    equipment) to ensure operational continuity.
+  - Constant pursuit of *task and process optimization* through the efficient
+    use of available tools.
 
   #datedsubsection(align(left)[
     *Bon Air Cafetería* \
     Administrative Manager
   ], align(right)[ Nov 2024 - Sep 2025 ])
 
-  - Administration with the *FUDO POS* system: autonomous incident resolution
-    and automation of sales records.
+  - Overall operational administration of the venue using the *FUDO POS*
+    management system.
+  - Autonomous resolution of *system incidents* to avoid operational
+    bottlenecks.
+  - *Digital process optimization*: implemented solutions to automate sales
+    records, *stock control* and daily *cash register closures*, supported by
+    IT platforms.
 
   #datedsubsection(align(left)[
     *Havanna* \
     Operational Support _(IT-oriented)_
   ], align(right)[ Feb 2024 - Jul 2024 ])
 
-  - Support of internal systems with *MAXIREST*: handling, control and
-    validation of the daily operation of the system and administrative
-    processes.
+  - Handling, control and support of *internal systems* using the *MAXIREST*
+    software.
+  - *Information validation* and computer support for the waiters.
+  - In charge of the *cash register* and the smooth operation of the sector.
 ]
 
 #let projectstitle = [ Projects ]
@@ -80,8 +92,10 @@
 
   - SaaS for process automation in retail. *Stack*: Python, FastAPI,
     PostgreSQL, Docker, JavaScript, Playwright, Next.js.
-  - Functional prototype: automation of administrative processes and service
-    integration with FastAPI.
+  - Functional prototype *containerized with Docker*: automation of
+    administrative processes, service integration with FastAPI and automated
+    *E2E testing with Playwright*. Testing strategy and production deployment
+    still to be defined.
 
   #datedsubsection(align(left)[
     *Automated Stock Management System* \

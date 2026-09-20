@@ -1,0 +1,28 @@
+name: 🔍 Job search daily digest
+
+on:
+  schedule:
+    - cron: "15 11 * * *"        # 08:15 hora de Buenos Aires (UTC-3)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jobs-daily
+  cancel-in-progress: true
+
+jobs:
+  jobs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run job search digest
+        run: |
+          bash scripts/jobs.sh --days 7 --commit "🤖 Digest laboral $(date -u +%F)"
+        env:
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}   # opcional
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}     # opcional
