@@ -1,6 +1,6 @@
 # 🗂️ Estado de búsqueda laboral — Facundo Mello
 
-> **Documento vivo** — actualizado cada sesión. Última actualización: **19/09/2026**.
+> **Documento vivo** — actualizado cada sesión. Última actualización: **22/09/2026**.
 > Cuando vuelvas a trabajar con un asistente, empezá leyendo este archivo + `README.md`.
 
 ---
@@ -39,10 +39,20 @@
 
 ---
 
-## 4) ✅ Checklist pendiente (de la sesión del 19/09)
+## 4) ✅ Checklist pendiente (de la sesión del 22/09)
 
-### Postular ya (ofertas activas 17–19/09)
-- [ ] LinkedIn: **RYACO** Soporte Aplicaciones Junior · **Prosegur** Soporte Técnico JR · **Avature** Technical Support Specialist · **Assurant** Associate Support Analyst (links en `fuentes-empleo.md` sección 0)
+### Postular ya (ofertas frescas 20–22/09, links en `fuentes-empleo.md` sección 0)
+- [ ] **Besysoft** — Analista de Soporte y Operaciones TI Junior (LinkedIn, 21/09) ← prioridad, perfil exacto
+- [ ] **LUMINA** — Técnico de microinformática (LinkedIn, 21/09)
+- [ ] **Assurant** — Associate Technical Support Analyst (repub. 21/09)
+- [ ] **Arize AI** — DevOps Support Engineer Argentina (LinkedIn, 21/09)
+- [ ] **Webflow** — IT Support Specialist (Emploive, 15/09)
+- [ ] **OLITEL** — DevOps Junior (Emploive, 17/09)
+- [ ] **Fund. Educación p/el Progreso** — Cloud Platform Engineer AWS/DevOps (Bumeran, 16/09)
+- [ ] **Teamcubation** — Junior Developer Banca (Emploive, 15/09)
+
+### Si no postulaste aún (vigentes 17–19/09)
+- [ ] LinkedIn: **RYACO** Soporte Aplicaciones Junior · **Prosegur** Soporte Técnico JR · **Avature** Technical Support Specialist · **Securion** Técnico NOC · **Cognizant** IT L2 · **Accenture** Analista Automatización
 - [ ] Bumeran sep 2026: **QA Manual Remoto (aliantec)** · **Soporte ERP Home Office** · **Soporte IT** · **SISTEMAS (Lazos)** · **Analista Sistemas JR (Russell Bedford)** · **Desarrollador Full Stack** (links en sección "Solo Bumeran")
 - [ ] Vigentes 12–16/09: **Mandü/Visma DevOps Jr** · **Flux IT QA Jr (remoto)** · **DevOps/Sysadmin Linux remoto** · **Jr. Cloud Engineer Avature**
 

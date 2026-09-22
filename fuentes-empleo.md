@@ -1,6 +1,6 @@
 # 🎯 Fuentes de empleo — Facundo Mello
 
-_Actualizado: 19 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Developer Trainee — Buenos Aires, Argentina_
+_Actualizado: 22 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Developer Trainee — Buenos Aires, Argentina_
 
 > **Regla de oro para búsqueda urgente:** postulá dentro de las **24–48 h** de publicada
 > una oferta. Las vacantes junior en Argentina se llenan en horas. El bot de este repo
@@ -9,17 +9,31 @@ _Actualizado: 19 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Develo
 
 ---
 
-## 0) 🚨 POSTULÁ HOY — 19/09/2026 (publicadas 17–19 sept, postulación directa)
+## 0) 🚨 POSTULÁ HOY — 22/09/2026 (frescas del 20–22 sept + vigentes)
 
 > Cómo funciona: entrás al link → botón **"Postularme" / "Easy Apply" / "Aplicar"** →
 > LinkedIn usa tu perfil; Bumeran/Computrabajo te piden registro + subir el CV (una vez,
-> queda guardado). Todas estas están **activas hoy**:
+> queda guardado). Regla de oro: postulá dentro de las **24–48 h** de publicada.
+
+### 🆕 Nuevas del 20–22/09 (postular primero)
+
+| Oferta | Empresa | Día | Link de postulación |
+|---|---|---|---|
+| Analista de **Soporte y Operaciones TI Junior** | Besysoft | 21/09 | https://ar.linkedin.com/jobs/view/analista-de-soporte-y-operaciones-ti-junior-at-besysoft-s-a-4469952868 |
+| **Técnico de microinformática** | LUMINA Consultora | 21/09 | https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-microinform%C3%A1tica-at-lumina-consultora-de-talento-4467393781 |
+| Associate **Technical Support Analyst** | Assurant (repub. 21/09) | 17–21/09 | https://ar.linkedin.com/jobs/view/associate-technical-support-analyst-at-assurant-4466299986 |
+| DevOps Support Engineer (Argentina) | Arize AI | 21/09 | https://ar.linkedin.com/jobs/view/devops-support-engineer-argentina-at-arize-ai-4469949522 |
+| IT Support Specialist | Webflow (vía Emploive) | 15/09 | https://emploive.com/jobs/3582022/it-support-specialist-webflow |
+| DevOps Junior | OLITEL (vía Emploive) | 17/09 | https://emploive.com/jobs/3898413/devops-junior-servicios-de-telecomunicaciones-olitel-limitada |
+| Cloud Platform Engineer (AWS/DevOps) | Fund. Educación p/el Progreso | 16/09 | https://www.bumeran.com.ar/empleos/cloud-platform-engineer-aws-devops-fundacion-educacion-para-el-progreso-2190222.html |
+| Junior Developer (Banca) | Teamcubation | 15/09 | https://emploive.com/jobs/3694126/junior-developer-banca-hibrido-caba-teamcubation |
+
+### ✅ Vigentes 17–19/09 (si no postulaste aún)
 
 | Oferta | Empresa | Día | Link de postulación |
 |---|---|---|---|
 | Soporte de Aplicaciones **Junior**/Semi Senior | RYACO | 18/09 | https://ar.linkedin.com/jobs/view/soporte-de-aplicaciones-junior-semi-senior-at-ryaco-4466934056 |
 | Atención al Cliente + **Soporte Técnico JR** | Prosegur | 17/09 | https://ar.linkedin.com/jobs/view/operador-de-atenci%C3%B3n-al-cliente-soporte-t%C3%A9cnico-jr-at-prosegur-4466601163 |
-| Associate **Technical Support Analyst** | Assurant | 17/09 | https://ar.linkedin.com/jobs/view/associate-technical-support-analyst-at-assurant-4466299986 |
 | **Technical Support Specialist** | Avature | 18/09 | https://ar.linkedin.com/jobs/view/technical-support-specialist-at-avature-4468891257 |
 | Analista en **Sistemas JR** | Russell Bedford | 18/09 | https://www.bumeran.com.ar/empleos/analista-en-sistemas-jr-russell-bedford-argentina-2190325.html |
 | **Soporte IT** | Bumeran (publicador) | 18/09 | https://www.bumeran.com.ar/empleos/soporte-it-1118447752.html |
