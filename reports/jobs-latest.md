@@ -1,13 +1,15 @@
-# 🔍 Búsqueda laboral — 2026-09-21
+# 🔍 Búsqueda laboral — 2026-09-22
 
 _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
 
 ## LinkedIn (últimos 7 días)
 
+- **Infrastructure Engineering** — Accenture Argentina ·  · _2026-09-21_  
+  https://ar.linkedin.com/jobs/view/infrastructure-engineering-at-accenture-argentina-4467591979
+- **DevOps Support Engineer (Argentina)** — Arize AI ·  · _2026-09-21_  
+  https://ar.linkedin.com/jobs/view/devops-support-engineer-argentina-at-arize-ai-4469949522
 - **Infrastructure Engineer** — OpenRelay (YC S26) ·  · _2026-09-20_  
   https://ar.linkedin.com/jobs/view/infrastructure-engineer-at-openrelay-yc-s26-4468451859
-- **Software Engineer - Cloud Images** — Canonical ·  · _2026-09-20_  
-  https://ar.linkedin.com/jobs/view/software-engineer-cloud-images-at-canonical-4433370631
 - **Cloud Virtual Network SRE** — Experis Argentina ·  · _2026-09-18_  
   https://ar.linkedin.com/jobs/view/cloud-virtual-network-sre-at-experis-argentina-4469185176
 - **Analista de Automatización (DevOps)** — Accenture Argentina ·  · _2026-09-18_  
@@ -16,24 +18,24 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/devops-cloud-at-agnostic-it-4466929263
 - **Ingeniero de Nube** — Adecco ·  · _2026-09-17_  
   https://ar.linkedin.com/jobs/view/ingeniero-de-nube-at-adecco-4452839399
-- **Infrastructure Engineering** — Accenture Argentina ·  · _2026-09-17_  
-  https://ar.linkedin.com/jobs/view/infrastructure-engineering-at-accenture-argentina-4467591979
 - **DevOps Engineer** — InvestorFlow ·  · _2026-09-17_  
   https://ar.linkedin.com/jobs/view/devops-engineer-at-investorflow-4468811377
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-09-15_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467797396
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-09-15_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467799423
+- **DevOps Engineer** — Accenture Argentina ·  · _2026-09-21_  
+  https://ar.linkedin.com/jobs/view/devops-engineer-at-accenture-argentina-4467814146
 - **Platform Operations Engineer** — Acclaim AI ·  · _2026-09-21_  
   https://ar.linkedin.com/jobs/view/platform-operations-engineer-at-acclaim-ai-4468763741
-- **Software Engineer, Observability** — Avature ·  · _2026-09-19_  
-  https://ar.linkedin.com/jobs/view/software-engineer-observability-at-avature-4469501116
-- **DevOps Engineer** — Accenture Argentina ·  · _2026-09-17_  
-  https://ar.linkedin.com/jobs/view/devops-engineer-at-accenture-argentina-4467814146
 - **EY - Junior de IT** — EY ·  · _2026-09-16_  
   https://ar.linkedin.com/jobs/view/ey-junior-de-it-at-ey-4361977461
+- **Cloud Engineer** — VeloceHR ·  · _2026-09-16_  
+  https://ar.linkedin.com/jobs/view/cloud-engineer-at-velocehr-4466853995
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-09-15_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467905383
+- **Cloud Integration Developer Ssr. – AWS, Salesforce & Data Integration** — MaxIT Consulting - Max Corporate Group ·  · _2026-09-22_  
+  https://ar.linkedin.com/jobs/view/cloud-integration-developer-ssr-%E2%80%93-aws-salesforce-data-integration-at-maxit-consulting-max-corporate-group-4468548303
 - **CloudOps SysOps AWS** — Accenture Argentina ·  · _2026-09-18_  
   https://ar.linkedin.com/jobs/view/cloudops-sysops-aws-at-accenture-argentina-4463576061
 - **CloudOps AR (SR SysOps OCI)** — Accenture Argentina ·  · _2026-09-18_  
@@ -42,12 +44,12 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/administrador-alloy-at-claro-argentina-4467887745
 - **CT Engineering - Forward-Deployed Engineer (FDE) - EY GDS** — EY ·  · _2026-09-18_  
   https://ar.linkedin.com/jobs/view/ct-engineering-forward-deployed-engineer-fde-ey-gds-at-ey-4458653719
-- **Comunidad Tech Comafi | Datos, IA e Innovación** — Banco Comafi ·  · _2026-09-18_  
-  https://ar.linkedin.com/jobs/view/comunidad-tech-comafi-datos-ia-e-innovaci%C3%B3n-at-banco-comafi-4468010637
 - **DevOps Engineer** — Miratech ·  · _2026-09-16_  
   https://ar.linkedin.com/jobs/view/devops-engineer-at-miratech-4466218018
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-09-15_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467906370
+- **Ingeniero/a Senior de Infraestructura AWS y Observabilidad (EKS + SRE)** — Cognit Labs ·  · _2026-09-21_  
+  https://ar.linkedin.com/jobs/view/ingeniero-a-senior-de-infraestructura-aws-y-observabilidad-eks-%2B-sre-at-cognit-labs-4468156815
 - **Senior Site Reliability Engineer, DevEx** — Chainlink Labs ·  · _2026-09-18_  
   https://ar.linkedin.com/jobs/view/senior-site-reliability-engineer-devex-at-chainlink-labs-4441214772
 - **AWS Database SRE Software Engineer** — JPMorganChase ·  · _2026-09-18_  
@@ -58,10 +60,6 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/senior-lead-site-reliability-engineer-at-jpmorganchase-4467962743
 - **Senior Site Reliability Engineer** — Velozient ·  · _2026-09-16_  
   https://ar.linkedin.com/jobs/view/senior-site-reliability-engineer-at-velozient-4467760456
-- **Staff Software Engineer, Reliability - Command|Alert** — CommandLink ·  · _2026-09-15_  
-  https://ar.linkedin.com/jobs/view/staff-software-engineer-reliability-command-alert-at-commandlink-4467703180
-- **Software Technical leader - Reliability Platforms SRE** — Mercado Libre ·  · _2026-09-14_  
-  https://ar.linkedin.com/jobs/view/software-technical-leader-reliability-platforms-sre-at-mercado-libre-4465248609
 - **1012- Sr. Basis Consultant _Latin America** — Intelli Owl ·  · _2026-09-21_  
   https://ar.linkedin.com/jobs/view/1012-sr-basis-consultant-latin-america-at-intelli-owl-4444590742
 - **Administrador Alloy** — Claro Argentina ·  · _2026-09-18_  
@@ -70,24 +68,22 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/especialista-senior-cloud-linux-at-empleos-it-4468804706
 - **Technical Support Engineer** — CMA Small Systems AB ·  · _2026-09-17_  
   https://ar.linkedin.com/jobs/view/technical-support-engineer-at-cma-small-systems-ab-4467538072
-- **Administrador de Nube** — YPF ·  · _2026-09-14_  
-  https://ar.linkedin.com/jobs/view/administrador-de-nube-at-ypf-4465253513
 - **Staff Engineer, IT Infrastructure and Operations (1C351A0)** — Referment ·  · _2026-09-21_  
   https://ar.linkedin.com/jobs/view/staff-engineer-it-infrastructure-and-operations-1c351a0-at-referment-4469868965
 - **Senior Linux Systems Administrator** — Motivus ·  · _2026-09-18_  
   https://ar.linkedin.com/jobs/view/senior-linux-systems-administrator-at-motivus-4467866285
+- **Soporte IT - CNC Jr** — Grassi SA ·  · _2026-09-17_  
+  https://ar.linkedin.com/jobs/view/soporte-it-cnc-jr-at-grassi-sa-4466639126
 - **Analista de sistemas** — Pire Rayen Automotores ·  · _2026-09-16_  
   https://ar.linkedin.com/jobs/view/analista-de-sistemas-at-pire-rayen-automotores-4467914666
-- **Técnico/a de Soporte de Sistemas Semi-Senior - San Miguel** — ARGUS Diagnóstico Médico ·  · _2026-09-15_  
-  https://ar.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-de-sistemas-semi-senior-san-miguel-at-argus-diagn%C3%B3stico-m%C3%A9dico-4466539583
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-09-15_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467906368
-- **Analista- Infraestructura, Redes y Seguridad** — Consejo Federal de Inversiones ·  · _2026-09-14_  
-  https://ar.linkedin.com/jobs/view/analista-infraestructura-redes-y-seguridad-at-consejo-federal-de-inversiones-4466128884
 - **Técnico de microinformática** — LUMINA Consultora de Talento ·  · _2026-09-21_  
   https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-microinform%C3%A1tica-at-lumina-consultora-de-talento-4467393781
 - **Técnico NOC** — Securion ·  · _2026-09-18_  
   https://ar.linkedin.com/jobs/view/t%C3%A9cnico-noc-at-securion-4466916152
+- **IT Operations Analyst** — UpGuard ·  · _2026-09-17_  
+  https://ar.linkedin.com/jobs/view/it-operations-analyst-at-upguard-4457973724
 - **Analista de Operaciones / Gestión de Accesos IAM JR** — Penta Security Solutions ·  · _2026-09-16_  
   https://ar.linkedin.com/jobs/view/analista-de-operaciones-gesti%C3%B3n-de-accesos-iam-jr-at-penta-security-solutions-4468294118
 - **Soporte Técnico On Site - Misiones** — Empleos IT ·  · _2026-09-16_  
@@ -96,21 +92,23 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-cordoba-at-empleos-it-4468284312
 - **SOPORTE TECNICO** — Radio Mitre ·  · _2026-09-16_  
   https://ar.linkedin.com/jobs/view/soporte-tecnico-at-radio-mitre-4467121264
+- **Secure Access Operations (1Badge Services) - EY Global Delivery Services** — EY ·  · _2026-09-15_  
+  https://ar.linkedin.com/jobs/view/secure-access-operations-1badge-services-ey-global-delivery-services-at-ey-4456525095
 - **Associate Technical Support Analyst** — Assurant ·  · _2026-09-21_  
   https://ar.linkedin.com/jobs/view/associate-technical-support-analyst-at-assurant-4466299986
 - **Product Service Representative** — Thomson Reuters Argentina ·  · _2026-09-18_  
   https://ar.linkedin.com/jobs/view/product-service-representative-at-thomson-reuters-argentina-4468020133
+- **Rte de Atención al Cliente con Ingles/Portugues Avanzado** — Accenture Argentina ·  · _2026-09-18_  
+  https://ar.linkedin.com/jobs/view/rte-de-atenci%C3%B3n-al-cliente-con-ingles-portugues-avanzado-at-accenture-argentina-4458313544
 - **IT L2 Support Specialist** — Cognizant ·  · _2026-09-17_  
   https://ar.linkedin.com/jobs/view/it-l2-support-specialist-at-cognizant-4467149280
 - **Customer Support Center Specialist** — bioMérieux ·  · _2026-09-17_  
   https://ar.linkedin.com/jobs/view/customer-support-center-specialist-at-biom%C3%A9rieux-4468679773
-- **CIB Markets Operations - Client Service Analyst** — JPMorganChase ·  · _2026-09-17_  
-  https://ar.linkedin.com/jobs/view/cib-markets-operations-client-service-analyst-at-jpmorganchase-4468338892
-- **IT Support Specialist** — Abacum ·  · _2026-09-15_  
-  https://ar.linkedin.com/jobs/view/it-support-specialist-at-abacum-4464829235
+- **Desktop Engineer** — Iron Systems, Inc ·  · _2026-09-16_  
+  https://ar.linkedin.com/jobs/view/desktop-engineer-at-iron-systems-inc-4468232769
+- **Soporte Técnico On Site - Buenos Aires** — Empleos IT ·  · _2026-09-16_  
+  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-buenos-aires-at-empleos-it-4468298122
 - **Customer Support Agent** — Scribe ·  · _2026-09-15_  
   https://ar.linkedin.com/jobs/view/customer-support-agent-at-scribe-4466571504
-- **Analista de Soporte** — Grupo L ·  · _2026-09-15_  
-  https://ar.linkedin.com/jobs/view/analista-de-soporte-at-grupo-l-4466516820
 - **Soporte de APPs Mesa de ayuda APPS SSR Pilar** — YEL Solutions ·  · _2026-09-15_  
   https://ar.linkedin.com/jobs/view/soporte-de-apps-mesa-de-ayuda-apps-ssr-pilar-at-yel-solutions-4466538015
