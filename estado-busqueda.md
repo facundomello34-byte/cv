@@ -76,7 +76,7 @@
 
 | Fecha | Empresa | Puesto | Portal/Link | Estado | Notas |
 |---|---|---|---|---|---|
-| 19/09 | *(ejemplo)* RYACO | Soporte Aplicaciones Junior | LinkedIn | Enviada / Pendiente | — |
+| 22/09 | Besysoft S.A. | Analista de Soporte y Operaciones TI Junior | LinkedIn | ✔️ Enviada | — |
 
 ---
 
