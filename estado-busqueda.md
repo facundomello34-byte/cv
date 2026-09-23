@@ -1,6 +1,6 @@
 # 🗂️ Estado de búsqueda laboral — Facundo Mello
 
-> **Documento vivo** — actualizado cada sesión. Última actualización: **22/09/2026**.
+> **Documento vivo** — actualizado cada sesión. Última actualización: **23/09/2026**.
 > Cuando vuelvas a trabajar con un asistente, empezá leyendo este archivo + `README.md`.
 
 ---
@@ -25,6 +25,7 @@
 | `carta_generica_en.typ` / `.pdf` | Carta genérica EN (ofertas remotas) |
 | `perfil-bumeran.md` | **Todo el contenido listo para pegar en Bumeran** (resumen, salario, formación, skills, experiencia) |
 | `fuentes-empleo.md` | **Todas las fuentes**: ofertas activas (sección 0 = postulá HOY), portales, trainee programs, correos/canales confirmados (sección 5), plan de acción |
+| `consultoras.md` | **🏢 Guía de consultoras IT** (verificada 23/09): canales de postulación, programas trainee con fechas, vacantes vivas en Accenture/Wetcom/Stefanini/NTT DATA/Softtek/Baufest/Flux, emails reales, top 10 acciones |
 | `reports/jobs-latest.md` | Digest diario automático de ofertas (LinkedIn + Exa) — lo actualiza el bot |
 | `reports/jobs-YYYY-MM-DD.md` | Digest de cada día |
 | `scripts/jobs.sh` | Script del digest (LinkedIn guest API + Exa si hay key) |
@@ -39,7 +40,17 @@
 
 ---
 
-## 4) ✅ Checklist pendiente (de la sesión del 22/09)
+## 4) ✅ Checklist pendiente (de la sesión del 23/09)
+
+### 🚨 HOY (verificadas frescas 22–23/09 en `consultoras.md`)
+- [ ] **Accenture — Technology Support Engineer** (pub. 23/09, hace horas) → https://ar.linkedin.com/jobs/view/technology-support-engineer-at-accenture-argentina-4469613765 · **carta lista: `carta_accenture.typ`**
+- [ ] **Wetcom — Jóvenes Talentos IT ed. 17** (empieza oct 2026; part-time 6 meses ideal para estudiar; pide estudiante de sistemas + inglés = TU PERFIL) → Bumeran: https://www.bumeran.com.ar/empleos/jovenes-talentos-it-2026-wetcom-s.a.-1118356445.html · **carta lista: `carta_wetcom.typ`**
+- [ ] **Accenture — Site Reliability/DevOps Engineer** (22/09) → https://ar.linkedin.com/jobs/view/site-reliability-devops-engineer-at-accenture-argentina-4469073076 (carta variante DevOps)
+- [ ] **Stefanini — Application Support** (PM, híbrido, SQL básico, inglés) → https://www.sercanto.com.ar/detail/a/application-support_buenos-aires_16961531 + **registrarse en su ATS**: https://stefanini-argentina.pandape.computrabajo.com
+- [ ] **NTT DATA — Trainee Fullstack** (capacitación RPG) → https://careers.emeal.nttdata.com/s/offer/a1J2p00000A3snUEAR/desarrolladores-fullstack-trainee-o-junior-para-capacitarse-en-rpg-as400?language=es
+- [ ] **Softtek — Analista Funcional Associate** → https://www.hubmub.com/jobs/1006573/analista-funcional + usuario en https://www.softtek.com/careers
+- [ ] **Flux IT — QA Analyst Jr.** (100% remoto) → https://fluxit.breezy.hr/p/7d6df5000801-qa-analyst-jr (carta variante QA)
+- [ ] **Baufest — Junior .NET** (para quedar en base) → https://baufest.avature.net/jobs/JobDetail/Remoto-Argentina-Junior-Net-Developer/5918
 
 ### Postular ya (ofertas frescas 20–22/09, links en `fuentes-empleo.md` sección 0)
 - [ ] **Besysoft** — Analista de Soporte y Operaciones TI Junior (LinkedIn, 21/09) ← prioridad, perfil exacto
@@ -56,14 +67,13 @@
 - [ ] Bumeran sep 2026: **QA Manual Remoto (aliantec)** · **Soporte ERP Home Office** · **Soporte IT** · **SISTEMAS (Lazos)** · **Analista Sistemas JR (Russell Bedford)** · **Desarrollador Full Stack** (links en sección "Solo Bumeran")
 - [ ] Vigentes 12–16/09: **Mandü/Visma DevOps Jr** · **Flux IT QA Jr (remoto)** · **DevOps/Sysadmin Linux remoto** · **Jr. Cloud Engineer Avature**
 
-### Configurar perfiles
+### Configurar perfiles y canales
 - [ ] **Bumeran**: cargar todo de `perfil-bumeran.md` + subir `cv_es.pdf` + CV visible + 3 búsquedas guardadas con alertas (`QA`, `soporte técnico`, `junior`, filtro últimos 7 días)
 - [ ] **LinkedIn**: headline *"Estudiante de Desarrollo de Software UADE · Python, Linux, Docker, Playwright · Buscando primer empleo IT"* + #OpenToWork + descomentar la línea `linkedin` en `data_es.typ`/`data_en.typ`
-
-### Canales directos
+- [ ] **UADE Portal de Empleo**: subir CV (https://www.uade.edu.ar/acerca-de-uade/oportunidades-para-alumnos/) — la oficina presenta postulantes a empresas (incl. Indra por convenios)
 - [ ] **UTN FRBA**: escribir a `busquedas@electron.frba.utn.edu.ar` dejando CV (página: https://frba.utn.edu.ar/electronica/busqueda-laboral/)
-- [ ] **UADE**: subir CV al Portal de Empleo de alumnos (https://www.uade.edu.ar/acerca-de-uade/oportunidades-para-alumnos/)
 - [ ] **Accenture**: portal Early Careers · **Despegar** Pasaporte Trainee · **ML IT Academy** (chequear requisito 50% de carrera)
+- [ ] **Endava**: anotar en el calendario que **The Americas Internship (QA Automation, Python) abre en FEBRERO 2027** → https://www.endava.com/careers/early-careers/internship-programmes-the-americas
 
 ### Reglas de oro (no borrar)
 1. Postular en **24–48 h** de publicada la oferta.
@@ -77,6 +87,11 @@
 | Fecha | Empresa | Puesto | Portal/Link | Estado | Notas |
 |---|---|---|---|---|---|
 | 22/09 | Besysoft S.A. | Analista de Soporte y Operaciones TI Junior | LinkedIn | ✔️ Enviada | — |
+| 23/09 | Accenture | Technology Support Engineer | LinkedIn | ⏳ Pendiente | Carta lista `carta_accenture.typ` |
+| 23/09 | Wetcom | Jóvenes Talentos IT ed. 17 | Bumeran | ⏳ Pendiente | Carta lista `carta_wetcom.typ` |
+| 23/09 | Stefanini | Application Support (PM) | Sercanto + ATS | ⏳ Pendiente | Registrarse en ATS pandape |
+| 23/09 | NTT DATA | Trainee Fullstack RPG | ATS EMEAL | ⏳ Pendiente | — |
+| 23/09 | Flux IT | QA Analyst Jr. | breezy | ⏳ Pendiente | Carta variante QA |
 
 ---
 
@@ -97,6 +112,8 @@
 
 ## 7) 📌 Próximos pasos recomendados (próxima sesión)
 
-1. Revisar `reports/jobs-latest.md` (ofertas nuevas del día).
-2. Actualizar la tabla de postulaciones de la sección 5.
-3. Pedir al asistente: adaptar carta a oferta puntual, armar perfil LinkedIn, actualizar CV, etc.
+1. Revisar `reports/jobs-latest.md` (ofertas nuevas del día — 23/09 trajo 41).
+2. Postular a las 8 pendientes del checklist de HOY (sección 4) — las cartas de Accenture y Wetcom ya están compiladas en PDF.
+3. Revisar `consultoras.md` para los canales de todas las consultoras y las fechas de programas trainee (Endava feb-2027).
+4. Actualizar la tabla de postulaciones de la sección 5.
+5. Pedir al asistente: adaptar carta a oferta puntual, armar perfil LinkedIn, actualizar CV, etc.

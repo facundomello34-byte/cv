@@ -1,6 +1,8 @@
 # 🎯 Fuentes de empleo — Facundo Mello
 
-_Actualizado: 22 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Developer Trainee — Buenos Aires, Argentina_
+_Actualizado: 23 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Developer Trainee — Buenos Aires, Argentina_
+
+> 🏢 **Guía completa de consultoras IT (canales, programas trainee, vacantes vivas y emails):** ver `consultoras.md` — verificada en vivo el 23/09/2026.
 
 > **Regla de oro para búsqueda urgente:** postulá dentro de las **24–48 h** de publicada
 > una oferta. Las vacantes junior en Argentina se llenan en horas. El bot de este repo
@@ -9,7 +11,21 @@ _Actualizado: 22 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Develo
 
 ---
 
-## 0) 🚨 POSTULÁ HOY — 22/09/2026 (frescas del 20–22 sept + vigentes)
+## 0) 🚨 POSTULÁ HOY — 23/09/2026 (frescas + vigentes)
+
+### 🆕 Recién publicadas 22–23/09 (postular YA)
+
+| Oferta | Empresa | Día | Link de postulación |
+|---|---|---|---|
+| **Technology Support Engineer** | Accenture Argentina | 23/09 (hace horas) | https://ar.linkedin.com/jobs/view/technology-support-engineer-at-accenture-argentina-4469613765 · carta lista en `carta_accenture.typ` |
+| Site Reliability / DevOps Engineer | Accenture Argentina | 22/09 | https://ar.linkedin.com/jobs/view/site-reliability-devops-engineer-at-accenture-argentina-4469073076 |
+| 🚨 **Jóvenes Talentos IT — edición 17** (arranca oct 2026, part-time 6 meses, Recoleta, pide estudiante de sistemas + inglés) | Wetcom | ago–set (verificar activo) | https://www.bumeran.com.ar/empleos/jovenes-talentos-it-2026-wetcom-s.a.-1118356445.html · carta lista en `carta_wetcom.typ` |
+| Application Support (Puerto Madero, híbrido, estudiante Sistemas, SQL básico, inglés intermedio) | Stefanini (vía Sercanto) | vigente | https://www.sercanto.com.ar/detail/a/application-support_buenos-aires_16961531 · registrate además en su ATS: https://stefanini-argentina.pandape.computrabajo.com |
+| Trainee Fullstack (capacitación RPG/AS400) | NTT DATA | vigente | https://careers.emeal.nttdata.com/s/offer/a1J2p00000A3snUEAR/desarrolladores-fullstack-trainee-o-junior-para-capacitarse-en-rpg-as400?language=es |
+| Analista Técnico Funcional Associate (CABA, estudiantes Sistemas) | Softtek (vía HubMub) | vigente | https://www.hubmub.com/jobs/1006573/analista-funcional · usuario en https://www.softtek.com/careers |
+| Junior .NET Developer (remoto; no es tu stack, aplicá igual para quedar en base) | Baufest | 14/09 | https://baufest.avature.net/jobs/JobDetail/Remoto-Argentina-Junior-Net-Developer/5918 · ATS: https://baufest.avature.net/jobs |
+
+### Frescas del 20–22/09 (postular primero)
 
 > Cómo funciona: entrás al link → botón **"Postularme" / "Easy Apply" / "Aplicar"** →
 > LinkedIn usa tu perfil; Bumeran/Computrabajo te piden registro + subir el CV (una vez,
@@ -179,6 +195,18 @@ Son la puerta de entrada más rápida cuando no hay experiencia formal:
    (Discord/Telegram) que buscás tu primera experiencia IT.
 7. **Inglés:** la carta en inglés (`carta_generica_en.typ`) sirve para ofertas remotas
    de LATAM/globales — tu nivel intermedio/avanzado es un plus que pocos juniors tienen.
+
+---
+
+## 4-bis) 🏢 Consultoras IT — cómo entrar
+
+> **Documento completo verificada en vivo (23/09): [`consultoras.md`](consultoras.md)** — incluye: A) grandes consultoras (Accenture, Globant, EY, Softtek, Cognizant, Stefanini, NTT DATA, Endava, TCS, IBM, Capgemini, EPAM, Neoris, Indra), B) medianas y staffing (Flux IT, aliantec, Baufest, AccionIT, LUMINA, Sercanto, Mandü, Randstad…), C) programas trainee con fechas, D) ofertas frescas 23/09, E) canales directos, F) top 10 acciones.
+
+Resumen relámpago:
+- **Postulá ya (con cartas ya listas):** Accenture Technology Support Engineer (`carta_accenture.typ`) · Wetcom Jóvenes Talentos ed.17 (`carta_wetcom.typ`) · Stefanini Application Support · NTT DATA Trainee · Softtek Analista Funcional · Flux IT QA Jr.
+- **Portales para dejar CV y quedar en base:** careers.globant.com · softtek.com/careers · stefanini-argentina.pandape.computrabajo.com · baufest.avature.net/jobs · fluxit.breezy.hr · careers.emeal.nttdata.com · careers.ey.com · accenture.com/ar-es/careers
+- **Agenda:** Endava The Americas Internship (QA Automation, Python) abre **febrero 2027** · Globant Academy por oleadas · EY Junior de IT es banco de talentos todo el año.
+- Los correos directos reales siguen siendo solo: UTN FRBA `busquedas@electron.frba.utn.edu.ar` y WhatsApp Talento EY (011) 2469-4914 (ninguna consultora publica email en avisos).
 
 ---
 

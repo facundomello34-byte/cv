@@ -29,6 +29,7 @@ Cada cambio se compila automáticamente con **GitHub Actions** y se publica en
 | `carta_generica.typ` | Carta genérica ES (placeholders + 3 variantes según el puesto) |
 | `carta_generica_en.typ` | Carta genérica EN (ofertas remotas)        |
 | `perfil-bumeran.md`  | Contenido listo para copiar y pegar en Bumeran |
+| `consultoras.md`    | Guía de consultoras IT: canales, programas trainee, vacantes vivas, emails reales |
 | `fuentes-empleo.md`  | Fuentes: ofertas activas, portales, trainee programs, correos de contacto |
 | `estado-busqueda.md` | Estado vivo de la búsqueda + checklist + respuestas para formularios |
 | `reports/`           | Digest diario automático de ofertas de empleo |
