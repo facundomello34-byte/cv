@@ -1,6 +1,6 @@
 # 🗂️ Estado de búsqueda laboral — Facundo Mello
 
-> **Documento vivo** — actualizado cada sesión. Última actualización: **23/09/2026**.
+> **Documento vivo** — actualizado cada sesión. Última actualización: **24/09/2026**.
 > Cuando vuelvas a trabajar con un asistente, empezá leyendo este archivo + `README.md`.
 
 ---
@@ -52,7 +52,8 @@
 - [ ] **Flux IT — QA Analyst Jr.** (100% remoto) → https://fluxit.breezy.hr/p/7d6df5000801-qa-analyst-jr (carta variante QA)
 - [ ] **Baufest — Junior .NET** (para quedar en base) → https://baufest.avature.net/jobs/JobDetail/Remoto-Argentina-Junior-Net-Developer/5918
 
-### Postular ya (ofertas frescas 20–22/09, links en `fuentes-empleo.md` sección 0)
+### Postular ya (ofertas frescas 20–24/09, links en `fuentes-empleo.md` sección 0)
+- [ ] **artax — Analista de Homologación y Soporte a Clientes** (LinkedIn, 24/09, perfil soporte IT) → https://ar.linkedin.com/jobs/view/analista-de-homologaci%C3%B3n-y-soporte-a-clientes-at-artax-4469681052
 - [ ] **Besysoft** — Analista de Soporte y Operaciones TI Junior (LinkedIn, 21/09) ← prioridad, perfil exacto
 - [ ] **LUMINA** — Técnico de microinformática (LinkedIn, 21/09)
 - [ ] **Assurant** — Associate Technical Support Analyst (repub. 21/09)
@@ -112,7 +113,7 @@
 
 ## 7) 📌 Próximos pasos recomendados (próxima sesión)
 
-1. Revisar `reports/jobs-latest.md` (ofertas nuevas del día — 23/09 trajo 41).
+1. Revisar `reports/jobs-latest.md` (digest de hoy 24/09 — trajo ~50 ofertas; mayoría senior, filtrar junior/soporte).
 2. Postular a las 8 pendientes del checklist de HOY (sección 4) — las cartas de Accenture y Wetcom ya están compiladas en PDF.
 3. Revisar `consultoras.md` para los canales de todas las consultoras y las fechas de programas trainee (Endava feb-2027).
 4. Actualizar la tabla de postulaciones de la sección 5.

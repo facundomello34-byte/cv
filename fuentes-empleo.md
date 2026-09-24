@@ -1,6 +1,6 @@
 # 🎯 Fuentes de empleo — Facundo Mello
 
-_Actualizado: 23 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Developer Trainee — Buenos Aires, Argentina_
+_Actualizado: 24 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Developer Trainee — Buenos Aires, Argentina_
 
 > 🏢 **Guía completa de consultoras IT (canales, programas trainee, vacantes vivas y emails):** ver `consultoras.md` — verificada en vivo el 23/09/2026.
 
@@ -11,12 +11,13 @@ _Actualizado: 23 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Develo
 
 ---
 
-## 0) 🚨 POSTULÁ HOY — 23/09/2026 (frescas + vigentes)
+## 0) 🚨 POSTULÁ HOY — 24/09/2026 (frescas + vigentes)
 
-### 🆕 Recién publicadas 22–23/09 (postular YA)
+### 🆕 Recién publicadas 22–24/09 (postular YA)
 
 | Oferta | Empresa | Día | Link de postulación |
 |---|---|---|---|
+| **Analista de Homologación y Soporte a Clientes** | artax | 24/09 | https://ar.linkedin.com/jobs/view/analista-de-homologaci%C3%B3n-y-soporte-a-clientes-at-artax-4469681052 |
 | **Technology Support Engineer** | Accenture Argentina | 23/09 (hace horas) | https://ar.linkedin.com/jobs/view/technology-support-engineer-at-accenture-argentina-4469613765 · carta lista en `carta_accenture.typ` |
 | Site Reliability / DevOps Engineer | Accenture Argentina | 22/09 | https://ar.linkedin.com/jobs/view/site-reliability-devops-engineer-at-accenture-argentina-4469073076 |
 | 🚨 **Jóvenes Talentos IT — edición 17** (arranca oct 2026, part-time 6 meses, Recoleta, pide estudiante de sistemas + inglés) | Wetcom | ago–set (verificar activo) | https://www.bumeran.com.ar/empleos/jovenes-talentos-it-2026-wetcom-s.a.-1118356445.html · carta lista en `carta_wetcom.typ` |
