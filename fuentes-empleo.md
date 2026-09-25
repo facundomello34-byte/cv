@@ -17,6 +17,11 @@ _Actualizado: 24 septiembre 2026 · Perfil: QA / DevOps Jr / Soporte IT / Develo
 
 | Oferta | Empresa | Día | Link de postulación |
 |---|---|---|---|
+| **Support Engineer** (Argentina; Ciklum suele tomar juniors — verificar nivel) | Ciklum | 23/09 | https://ar.linkedin.com/jobs/view/support-engineer-at-ciklum-4470969214 |
+| **Operador/a Mesa de Ayuda IT** (CABA; pide 2/3 años en help desk/soporte/atención — vos tenés Havanna+Bon Air+COTO) | ITSM Consulting (vía Bumeran) | 20/09 | https://www.bumeran.com.ar/empleos/operador-a-mesa-de-ayuda-it-itsm-consulting-sa-1118448740.html |
+| 🎓 **Pasaporte Trainee 2.0** (6 meses+ext, 20 h/sem, híbrido, asignación; áreas tech con data/automation/AI — **chequear requisito 50% de carrera aprobada**) | Despegar | abierto (Lever) | https://jobs.lever.co/despegar/57d7de89-ac21-44f9-bbde-0f5bb81a6082 |
+| **Analista de Soporte – Help Desk Nivel 3 (Infraestructura)** (24/09; N3 probablemente pida experiencia — chequear antes) | Rocket Stars | 24/09 | https://ar.linkedin.com/jobs/view/analista-de-soporte-%E2%80%93-help-desk-nivel-3-infraestructura-at-rocket-stars-4470034428 |
+| **Asistente Administrativo 1B** (puesto de entrada en integradora grande — opción pie en la puerta) | SONDA | 23/09 | https://ar.linkedin.com/jobs/view/asistente-administrativo-1b-at-sonda-4470952541 |
 | **Analista de Homologación y Soporte a Clientes** | artax | 24/09 | https://ar.linkedin.com/jobs/view/analista-de-homologaci%C3%B3n-y-soporte-a-clientes-at-artax-4469681052 |
 | **Technology Support Engineer** | Accenture Argentina | 23/09 (hace horas) | https://ar.linkedin.com/jobs/view/technology-support-engineer-at-accenture-argentina-4469613765 · carta lista en `carta_accenture.typ` |
 | Site Reliability / DevOps Engineer | Accenture Argentina | 22/09 | https://ar.linkedin.com/jobs/view/site-reliability-devops-engineer-at-accenture-argentina-4469073076 |

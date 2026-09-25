@@ -53,6 +53,11 @@
 - [ ] **Baufest — Junior .NET** (para quedar en base) → https://baufest.avature.net/jobs/JobDetail/Remoto-Argentina-Junior-Net-Developer/5918
 
 ### Postular ya (ofertas frescas 20–24/09, links en `fuentes-empleo.md` sección 0)
+- [ ] **Ciklum — Support Engineer** (23/09; chequear nivel, Ciklum toma juniors)
+- [ ] **ITSM Consulting — Operador/a Mesa de Ayuda IT** (Bumeran, 20/09; pide 2/3 años help desk — experiencia Havanna/Bon Air sirve)
+- [ ] **Despegar — Pasaporte Trainee 2.0** (abierto en Lever; 20 h/sem híbrido con asignación — verificar requisito 50% carrera)
+- [ ] **Rocket Stars — Help Desk N3 Infraestructura** (24/09; chequear si pide exp.)
+- [ ] **SONDA — Asistente Administrativo 1B** (23/09; pie en la puerta en integradora)
 - [ ] **artax — Analista de Homologación y Soporte a Clientes** (LinkedIn, 24/09, perfil soporte IT) → https://ar.linkedin.com/jobs/view/analista-de-homologaci%C3%B3n-y-soporte-a-clientes-at-artax-4469681052
 - [ ] **Besysoft** — Analista de Soporte y Operaciones TI Junior (LinkedIn, 21/09) ← prioridad, perfil exacto
 - [ ] **LUMINA** — Técnico de microinformática (LinkedIn, 21/09)
@@ -93,6 +98,9 @@
 | 23/09 | Stefanini | Application Support (PM) | Sercanto + ATS | ⏳ Pendiente | Registrarse en ATS pandape |
 | 23/09 | NTT DATA | Trainee Fullstack RPG | ATS EMEAL | ⏳ Pendiente | — |
 | 23/09 | Flux IT | QA Analyst Jr. | breezy | ⏳ Pendiente | Carta variante QA |
+| 24/09 | Ciklum | Support Engineer | LinkedIn | ⏳ Pendiente | Agregada en sesión 24/09 |
+| 24/09 | ITSM Consulting | Operador/a Mesa de Ayuda IT | Bumeran | ⏳ Pendiente | Agregada en sesión 24/09 |
+| 24/09 | Despegar | Pasaporte Trainee 2.0 | Lever | ⏳ Pendiente | Chequear requisito 50% carrera |
 
 ---
 
