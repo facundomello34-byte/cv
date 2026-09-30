@@ -49,14 +49,20 @@ UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Ge
 # ── 1) LinkedIn guest API ─────────────────────────────────────────────────────
 printf '## LinkedIn (últimos %s días)\n\n' "$DAYS" >> "$OUT"
 LI_QUERIES=(
-  "devops jr|Argentina"
+  "devops junior|Argentina"
   "devops trainee|Argentina"
-  "cloud engineer junior|Buenos Aires"
-  "site reliability|Argentina"
-  "cloud support|Argentina"
-  "soporte tecnico linux|Argentina"
-  "administrador de sistemas junior|Buenos Aires"
+  "soporte tecnico junior|Argentina"
+  "soporte tecnico jr|Buenos Aires"
   "help desk|Buenos Aires"
+  "mesa de ayuda|Buenos Aires"
+  "service desk junior|Argentina"
+  "qa junior tester|Argentina"
+  "qa trainee|Argentina"
+  "pasantia sistemas|Buenos Aires"
+  "trainee it|Argentina"
+  "soporte linux junior|Argentina"
+  "site reliability junior|Argentina"
+  "administrador de sistemas junior|Buenos Aires"
 )
 for q in "${LI_QUERIES[@]}"; do
   kw="${q%%|*}"; loc="${q##*|}"
@@ -142,17 +148,28 @@ open(f, "w", encoding="utf-8").write("".join(out))
 PYEOF
 
 COUNT="$(grep -c '^- \*\*' "$OUT" || true)"
-SUMMARY="🗞 $COUNT ofertas (últimos $DAYS días) — $TODAY
-Ver reporte: reports/jobs-$TODAY.md"
+SUMMARY="🗞 $COUNT ofertas crudas — $TODAY"
+
+# ── 3b) Filtro de perfil: prioriza junior/soporte/QA, descarta senior/spam ────
+# Genera reports/priorizadas-YYYY-MM-DD.md con solo lo que vale la pena postular
+PRIO=""
+if python3 "$REPO_DIR/scripts/filter_jobs.py" "$OUT"; then
+  PRIO="$REPO_DIR/reports/priorizadas-$(date +%F).md"
+  if [[ -f "$PRIO" ]]; then
+    N_POSTULAR=$(grep -c '^\- \*\*\[' "$PRIO" || true)
+    N_NUEVAS=$(grep -c 'NUEVA' "$PRIO" || true)
+    SUMMARY="🗞 $COUNT crudas → $N_POSTULAR priorizadas ($N_NUEVAS nuevas) — $TODAY
+Ver: reports/priorizadas-$TODAY.md"
+  fi
+fi
+
 cp "$OUT" "$REPORTS/jobs-latest.md"
-printf '\n---\n_Generado por scripts/jobs.sh · %s_\n' "$(date '+%F %R')" >> "$OUT"
+printf '\n---\n_Generado por scripts/jobs.sh + filter_jobs.py · %s_\n' "$(date '+%F %R')" >> "$OUT"
 printf '%s\n' "$SUMMARY"
 
 if [[ -n "${NTFY_TOPIC:-}" ]]; then
   curl -s --max-time 10 -H "Title: 🔍 Ofertas $TODAY" -d "$SUMMARY" "https://ntfy.sh/$NTFY_TOPIC" >/dev/null 2>&1 || true
 fi
-
-# ── 4) commit opcional ────────────────────────────────────────────────────
 if [[ -n "$COMMIT_MSG" ]]; then
   cd "$REPO_DIR"
   git config user.name "jobs bot"

@@ -1,0 +1,46 @@
+{
+  "nombre": "Facundo Octavio Mello",
+  "objetivo": "Primer empleo IT: QA/Testing, Soporte IT, DevOps/Infra Jr, Desarrollo Jr",
+  "ubicacion": "Buenos Aires (CABA/GBA), acepta remoto",
+  "nivel": "junior",
+  "_comentario": "Editá este archivo para afinar el filtro. Los cambios aplican al próximo digest sin tocar código.",
+  "excluir_si_contiene": [
+    "senior", "sr.", "sr ", " ssr", "semi senior", "semi-senior",
+    "staff", "principal", "lead", "leader", "manager", "jefe",
+    "head of", "arquitecto", "architect", "director", "vp ", "gerente",
+    "especialista sr", "consultor sr"
+  ],
+  "excluir_regex": [
+    "\\bsr\\.?\\b", "\\bssr\\b", "\\bsenior\\b", "\\bstaff\\b",
+    "\\bprincipal\\b", "\\bleader?\\b", "\\bmanager\\b", "\\barchitect\\b",
+    "\\bdirector\\b", "\\bgerente\\b", "\\bjefe\\b", "\\bhead of\\b"
+  ],
+  "empresas_descartadas": [
+    "VeloceHR", "Vacantes: Trabajo y Empleo", "Techunting", "Referment",
+    "Workei", "CloudSutra", "Hiretik"
+  ],
+  "puntaje": {
+    "5": ["junior", "jr", "jr.", "trainee", "apprentice", "apprenticeship",
+           "entry level", "entry-level", "sin experiencia", "primer empleo",
+           "pasantia", "pasantía", "pasante", "práctica", "practica", "residentes"],
+    "4": ["soporte", "support", "help desk", "helpdesk", "mesa de ayuda",
+           "service desk", "soporte tecnico", "soporte técnico", "technical support",
+           "tecnico", "técnico", "noc", "field service"],
+    "4_qa": ["qa", "tester", "testing", "calidad", "automation", "automatizacion", "automatización", "e2e"],
+    "3": ["linux", "sysadmin", "administrador de sistemas", "infraestructura",
+           "python", "desarrollador", "developer", "fullstack", "full stack",
+           "backend", "backend jr"],
+    "2": ["devops", "cloud", "sre", "site reliability", "kubernetes", "docker",
+           "sql", "postgresql", "banco de talentos", "talento it"],
+    "empresas_preferidas": {
+      "accenture": 3, "cognizant": 3, "globant": 3, "mercado libre": 3,
+      "despegar": 3, "ntt data": 3, "softtek": 3, "stefanini": 3,
+      "flux it": 3, "baufest": 3, "ey": 2, "ibm": 3, "indra": 3, "sonda": 3,
+      "endava": 3, "belatrix": 3, "ciklum": 2, "ey ": 2, "wetcom": 3,
+      "g&l": 2, "huawei": 2, "telecom": 2, "personal": 1, "coto": 3,
+      "invap": 2, "sonda": 2, "artax": 2, "rocket stars": 2, "besysoft": 3
+    }
+  },
+  "umbral_postular": 7,
+  "umbral_revisar": 4
+}
