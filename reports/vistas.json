@@ -297,8 +297,8 @@
     "https://ar.linkedin.com/jobs/view/devops-engineer-at-accenture-argentina-4467814146": {
       "title": "DevOps Engineer",
       "comp": "Accenture Argentina",
-      "date": "2026-09-21",
-      "score": 5,
+      "date": "2026-09-30",
+      "score": 7,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/cloudops-sysops-aws-at-accenture-argentina-4463576061": {
@@ -500,8 +500,8 @@
     "https://ar.linkedin.com/jobs/view/infrastructure-engineering-at-accenture-argentina-4467591979": {
       "title": "Infrastructure Engineering",
       "comp": "Accenture Argentina",
-      "date": "2026-09-21",
-      "score": 3,
+      "date": "2026-09-30",
+      "score": 5,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/devops-engineer-at-investorflow-4468811377": {
@@ -1209,6 +1209,174 @@
       "comp": "",
       "date": "",
       "score": 8,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/programa-cloudies-2026-buenos-aires-at-escala-24x7-inc-4472186518": {
+      "title": "Programa Cloudies 2026 | Buenos Aires",
+      "comp": "Escala 24x7 Inc.",
+      "date": "2026-09-30",
+      "score": 4,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/desktop-support-engineer-at-sharp-brains-4473909755": {
+      "title": "Desktop Support Engineer",
+      "comp": "Sharp Brains",
+      "date": "2026-09-30",
+      "score": 6,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/junior-sap-fi-at-pwc-argentina-4460437341": {
+      "title": "Junior - SAP FI",
+      "comp": "PwC Argentina",
+      "date": "2026-09-24",
+      "score": 5,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/asistente-administrativa-notarial-4473903422": {
+      "title": "Asistente Administrativa Notarial",
+      "comp": "Importante Escribanía en CABA",
+      "date": "2026-09-30",
+      "score": 2,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/guest-experience-associate-at-stayd-collective-4470765333": {
+      "title": "Guest Experience Associate",
+      "comp": "Stayd Collective",
+      "date": "2026-09-26",
+      "score": 0,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/oficial-de-atencion-al-asociado-microcentro-at-sancor-salud-grupo-de-medicina-privada-4471149416": {
+      "title": "OFICIAL DE ATENCION AL ASOCiADO- MICROCENTRO",
+      "comp": "SanCor Salud Grupo de Medicina Privada",
+      "date": "2026-09-23",
+      "score": 0,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/oficial-de-atencion-al-asociado-eventual-san-isidro-at-sancor-salud-grupo-de-medicina-privada-4471144519": {
+      "title": "OFICIAL DE ATENCION AL ASOCiADO EVENTUAL-SAN ISIDRO",
+      "comp": "SanCor Salud Grupo de Medicina Privada",
+      "date": "2026-09-23",
+      "score": 0,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/asistente-atenci%C3%B3n-al-cliente-os-at-essilorluxottica-4471197395": {
+      "title": "Asistente Atención al Cliente OS",
+      "comp": "EssilorLuxottica",
+      "date": "2026-09-26",
+      "score": 0,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/customer-support-and-success-representative-at-mosaic-puzzles-4469780123": {
+      "title": "Customer Support and Success Representative",
+      "comp": "Mosaic Puzzles",
+      "date": "2026-09-24",
+      "score": 4,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-funcional-sap-at-stefanini-latam-4471994815": {
+      "title": "QA Funcional SAP",
+      "comp": "Stefanini LATAM",
+      "date": "2026-09-30",
+      "score": 9,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/junior-qa-analyst-at-vintti-4469486501": {
+      "title": "Junior QA Analyst",
+      "comp": "Vintti",
+      "date": "2026-09-23",
+      "score": 9,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-analyst-etl-automation-tester-at-craftlabs-4471109065": {
+      "title": "QA Analyst / ETL Automation Tester",
+      "comp": "CRAFTLabs",
+      "date": "2026-09-23",
+      "score": 4,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/pasante-de-sistemas-at-carrefour-argentina-4471106700": {
+      "title": "Pasante de Sistemas",
+      "comp": "Carrefour Argentina",
+      "date": "2026-09-23",
+      "score": 5,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/pasante-qc-at-ferrero-4472172664": {
+      "title": "Pasante QC",
+      "comp": "Ferrero",
+      "date": "2026-09-30",
+      "score": 7,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-control-de-calidad-at-coto-4470160283": {
+      "title": "Analista de control de calidad",
+      "comp": "COTO",
+      "date": "2026-09-25",
+      "score": 7,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/asistente-de-calidad-de-semillas-at-rizobacter-4470520038": {
+      "title": "Asistente de Calidad de Semillas",
+      "comp": "Rizobacter",
+      "date": "2026-09-25",
+      "score": 4,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/asistente-aseguramiento-de-la-calidad-at-laboratorios-casasco-saic-4469763534": {
+      "title": "Asistente - Aseguramiento de la Calidad",
+      "comp": "Laboratorios Casasco SAIC",
+      "date": "2026-09-24",
+      "score": 4,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/business-technology-solutions-analyst-at-zs-4472191351": {
+      "title": "Business Technology Solutions - Analyst",
+      "comp": "ZS",
+      "date": "2026-09-30",
+      "score": 2,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/pasante-universitario-at-grupo-arcor-4472041046": {
+      "title": "Pasante Universitario",
+      "comp": "Grupo Arcor",
+      "date": "2026-09-25",
+      "score": 5,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/ausbildung-zum-it-systemelektroniker-m-w-d-at-bwi-gmbh-4472018988": {
+      "title": "Ausbildung zum IT-Systemelektroniker (m/w/d)",
+      "comp": "BWI GmbH",
+      "date": "2026-09-25",
+      "score": 0,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-operaciones-chino-at-experis-argentina-4473909834": {
+      "title": "Analista de operaciones (chino)",
+      "comp": "Experis Argentina",
+      "date": "2026-09-30",
+      "score": 2,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/software-support-analyst-ii-at-ncr-atleos-4471382785": {
+      "title": "Software Support Analyst II",
+      "comp": "NCR Atleos",
+      "date": "2026-09-28",
+      "score": 5,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/platform-software-engineer-at-brivo-4471935458": {
+      "title": "Platform Software Engineer",
+      "comp": "Brivo",
+      "date": "2026-09-29",
+      "score": 2,
+      "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/performance-analyst-at-avature-4472258001": {
+      "title": "Performance Analyst",
+      "comp": "Avature",
+      "date": "2026-09-26",
+      "score": 0,
       "primera_vista": "2026-09-30"
     }
   },
