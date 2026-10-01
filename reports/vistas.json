@@ -752,7 +752,7 @@
     "https://ar.linkedin.com/jobs/view/site-reliability-devops-engineer-at-accenture-argentina-4469073076": {
       "title": "Site Reliability DevOps Engineer",
       "comp": "Accenture Argentina",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "score": 7,
       "primera_vista": "2026-09-30"
     },
@@ -928,7 +928,7 @@
       "title": "Windows System Administrator",
       "comp": "Netrix Global",
       "date": "2026-09-29",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/consultor-erp-cloud-at-oracle-4353080918": {
@@ -970,14 +970,14 @@
       "title": "Agente Help Desk",
       "comp": "Verifarma",
       "date": "2026-09-29",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/help-desk-specialist-at-zma-4471266497": {
       "title": "Help Desk Specialist",
       "comp": "ZMA",
       "date": "2026-09-29",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/cloud-devops-technical-operations-engineer-at-monks-4473589289": {
@@ -997,7 +997,7 @@
     "https://ar.linkedin.com/jobs/view/technical-support-associate-at-assurant-4471769694": {
       "title": "Technical Support Associate",
       "comp": "Assurant",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "score": 6,
       "primera_vista": "2026-09-30"
     },
@@ -1019,7 +1019,7 @@
       "title": "Analista Junior SAP",
       "comp": "ZIELTECK S.A.",
       "date": "2026-09-29",
-      "score": 7,
+      "score": 6,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/sap-support-consultant-%E2%80%93-advanced-english-%E2%80%93-remote-europe-latam-argentina-at-sapindex-4472740351": {
@@ -1033,11 +1033,11 @@
       "title": "Atención telefónica de pacientes - SADOFE",
       "comp": "Diagnóstico Maipú - Imágenes y Laboratorio",
       "date": "2026-09-29",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/secretaria-biling%C3%BCe-para-gerencia-general-ezeiza-at-adecco-4470895622": {
-      "title": "Secretaria Bilingüe para Gerencia General Ezeiza",
+      "title": "Secretaria Bilingüe para Gerencia General | Ezeiza",
       "comp": "Adecco",
       "date": "2026-09-28",
       "score": 1,
@@ -1061,21 +1061,21 @@
       "title": "QA SAP GUI/ SAP LOGON JR",
       "comp": "Tata Consultancy Services",
       "date": "2026-09-29",
-      "score": 11,
+      "score": 10,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/salesforce-qa-engineer-at-hikko-4473230310": {
       "title": "Salesforce QA Engineer",
       "comp": "Hikko",
       "date": "2026-09-29",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/qa-funcional-sap-at-stefanini-latam-4471943363": {
       "title": "QA Funcional SAP",
       "comp": "Stefanini LATAM",
       "date": "2026-09-29",
-      "score": 9,
+      "score": 8,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/manual-qa-analyst-at-qualityai-4472498311": {
@@ -1089,7 +1089,7 @@
       "title": "Soporte de Calidad",
       "comp": "Cervecería y Maltería Quilmes",
       "date": "2026-09-29",
-      "score": 10,
+      "score": 9,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/qa-release-analyst-at-ferring-pharmaceuticals-4471211946": {
@@ -1109,15 +1109,15 @@
     "https://ar.linkedin.com/jobs/view/cyberboot-advisory-amba-at-kpmg-argentina-4464792950": {
       "title": "Cyberboot | Advisory | AMBA",
       "comp": "KPMG Argentina",
-      "date": "2026-09-28",
-      "score": 1,
+      "date": "2026-10-01",
+      "score": 2,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/pasante-it-activos-y-back-office-caba-at-kpmg-argentina-4462018914": {
       "title": "Pasante IT | Activos y Back Office | CABA",
       "comp": "KPMG Argentina",
       "date": "2026-09-29",
-      "score": 7,
+      "score": 6,
       "primera_vista": "2026-09-30"
     },
     "https://cazvid.com/es/empleo/asistente-de-logistica-jr-estudiantes-de-logistica-9da6a7ce": {
@@ -1369,7 +1369,7 @@
       "title": "Platform Software Engineer",
       "comp": "Brivo",
       "date": "2026-09-29",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/performance-analyst-at-avature-4472258001": {
@@ -1378,6 +1378,153 @@
       "date": "2026-09-26",
       "score": 0,
       "primera_vista": "2026-09-30"
+    },
+    "https://ar.linkedin.com/jobs/view/ingeniero-devops-4472565476": {
+      "title": "Ingeniero DevOps",
+      "comp": "Tecno",
+      "date": "2026-10-01",
+      "score": 4,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/site-reliability-engineer-at-sovos-4474306620": {
+      "title": "Site Reliability Engineer",
+      "comp": "Sovos",
+      "date": "2026-10-01",
+      "score": 4,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/devops-engineer-digital-marketing-at-coherent-solutions-4472697776": {
+      "title": "DevOps Engineer (Digital Marketing)",
+      "comp": "Coherent Solutions",
+      "date": "2026-10-01",
+      "score": 4,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/programa-cloudies-2026-buenos-aires-at-escala-24x7-inc-4473918950": {
+      "title": "Programa Cloudies 2026 | Buenos Aires",
+      "comp": "Escala 24x7 Inc.",
+      "date": "2026-09-30",
+      "score": 4,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/operations-and-monitoring-team-at-accenture-argentina-4472368393": {
+      "title": "Operations and Monitoring Team",
+      "comp": "Accenture Argentina",
+      "date": "2026-09-30",
+      "score": 5,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/implementation-technician-at-ecoportal-4474196297": {
+      "title": "Implementation Technician",
+      "comp": "ecoPortal",
+      "date": "2026-10-01",
+      "score": 2,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/support-associate-at-shockbyte-4474128549": {
+      "title": "Support Associate",
+      "comp": "Shockbyte",
+      "date": "2026-10-01",
+      "score": 6,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/it-support-specialist-at-virtustant-4472613890": {
+      "title": "IT Support Specialist",
+      "comp": "Virtustant",
+      "date": "2026-09-30",
+      "score": 6,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-de-sistemas-de-seguridad-at-pagus-servicios-4463489673": {
+      "title": "Técnico de soporte de sistemas de seguridad",
+      "comp": "Pagus Servicios",
+      "date": "2026-09-30",
+      "score": 6,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/customer-account-advisor-at-bet365-4472056637": {
+      "title": "Customer Account Advisor",
+      "comp": "bet365",
+      "date": "2026-09-25",
+      "score": 0,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-analyst-jr-13-a-22-hs-at-mrm-4465309976": {
+      "title": "QA Analyst Jr - 13 a 22 hs",
+      "comp": "MRM",
+      "date": "2026-10-01",
+      "score": 11,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-automation-at-artax-4472340318": {
+      "title": "QA Automation",
+      "comp": "artax",
+      "date": "2026-09-30",
+      "score": 8,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/distributed-systems-testing-software-engineer-python-go-at-canonical-4464374595": {
+      "title": "Distributed Systems Testing Software Engineer, Python / Go",
+      "comp": "Canonical",
+      "date": "2026-09-29",
+      "score": 8,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-analyst-at-avenue-code-4462326236": {
+      "title": "QA Analyst",
+      "comp": "Avenue Code",
+      "date": "2026-09-26",
+      "score": 4,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-aseguramiento-de-la-calidad-at-unifarma-s-a-tecnolog%C3%ADa-m%C3%A9dica-4472958098": {
+      "title": "Analista de aseguramiento de la calidad",
+      "comp": "UniFarma S.A.- Tecnología Médica",
+      "date": "2026-10-01",
+      "score": 6,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/pasante-gestion-de-calidad-at-motomel-s-a-4472500209": {
+      "title": "Pasante Gestion de Calidad",
+      "comp": "Motomel S.A",
+      "date": "2026-10-01",
+      "score": 11,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/power-platform-junior-analyst-at-accenture-argentina-4472391805": {
+      "title": "Power Platform Junior Analyst",
+      "comp": "Accenture Argentina",
+      "date": "2026-10-01",
+      "score": 10,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-funcional-it-j%C3%B3venes-profesionales-molinos-at-inspired-way-4472385481": {
+      "title": "Analista Funcional IT - Jóvenes Profesionales Molinos",
+      "comp": "Inspired Way",
+      "date": "2026-10-01",
+      "score": 2,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/estudiante-de-ingenier%C3%ADa-de-sistemas-inform%C3%A1tica-at-domus-global-4472346475": {
+      "title": "Estudiante de Ingeniería de Sistemas/ informática",
+      "comp": "Domus Global",
+      "date": "2026-09-30",
+      "score": 2,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/site-reliability-engineer-iii-at-sovos-4474314341": {
+      "title": "Site Reliability Engineer III",
+      "comp": "Sovos",
+      "date": "2026-10-01",
+      "score": 4,
+      "primera_vista": "2026-10-01"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-seguridad-inform%C3%A1tica-at-scienza-argentina-4470885874": {
+      "title": "Analista de Seguridad Informática",
+      "comp": "Scienza Argentina",
+      "date": "2026-09-28",
+      "score": 1,
+      "primera_vista": "2026-10-01"
     }
   },
   "postuladas": {
