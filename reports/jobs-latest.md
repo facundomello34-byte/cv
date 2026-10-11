@@ -1,4 +1,4 @@
-# 🔍 Búsqueda laboral — 2026-10-10
+# 🔍 Búsqueda laboral — 2026-10-11
 
 _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
 
@@ -56,14 +56,16 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/customer-support-l1-at-aditi-consulting-4475953423
 - **Analista Jr. de Gestión de Incidentes (ATM)** — NCR Atleos ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/analista-jr-de-gesti%C3%B3n-de-incidentes-atm-at-ncr-atleos-4474616613
-- **Analista de Soporte de Aplicaciones N1** — Strix ·  · _2026-10-04_  
-  https://ar.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-n1-at-strix-4473491426
+- **Analista Jr. Microinformática y Networking-Zona Norte Bs. As.** — Exologistica ·  · _2026-10-05_  
+  https://ar.linkedin.com/jobs/view/analista-jr-microinform%C3%A1tica-y-networking-zona-norte-bs-as-at-exologistica-4474291489
 - **On Site Support** — Accenture Argentina ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/on-site-support-at-accenture-argentina-4476215607
 - **Soporte Técnico** — Roemmers ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-at-roemmers-4474841714
 - **Soporte Técnico On Site** — OneInfo Consulting ·  · _2026-10-06_  
   https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-at-oneinfo-consulting-4474097107
+- **Analista de Atención al cliente - Ecommerce** — Oportutek - eCommerce 360 para marcas IT ·  · _2026-10-08_  
+  https://ar.linkedin.com/jobs/view/analista-de-atenci%C3%B3n-al-cliente-ecommerce-at-oportutek-ecommerce-360-para-marcas-it-4477221496
 - **Virtual Assistant - Fulfillment** — Decentralized Masters ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/virtual-assistant-fulfillment-at-decentralized-masters-4477413254
 - **HR Services - Service Desk Jr Analyst** — Air Liquide ·  · _2026-10-07_  
@@ -74,8 +76,8 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/agente-contact-center-nivel-1-at-centro-de-e-learning-utn-frba-4474415496
 - **C++ Technical Test Analyst** — EPAM Systems ·  · _2026-10-10_  
   https://ar.linkedin.com/jobs/view/c%2B%2B-technical-test-analyst-at-epam-systems-4476881684
-- **QA Software Engineer** — ID90 Travel ·  · _2026-10-10_  
-  https://ar.linkedin.com/jobs/view/qa-software-engineer-at-id90-travel-4478043130
+- **Analista Funcional Técnico** — TELEFE ·  · _2026-10-10_  
+  https://ar.linkedin.com/jobs/view/analista-funcional-t%C3%A9cnico-at-telefe-4477212999
 - **Games Delivery Coordinator** — bet365 ·  · _2026-10-09_  
   https://ar.linkedin.com/jobs/view/games-delivery-coordinator-at-bet365-4475236689
 - **Localization & Payment Tester** — Bytecenture Technology Limited ·  · _2026-10-09_  
@@ -104,8 +106,8 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/quality-analyst-intern-at-ibm-4474409297
 - **Quality Analyst Intern** — IBM ·  · _2026-10-06_  
   https://ar.linkedin.com/jobs/view/quality-analyst-intern-at-ibm-4474094923
-- **QA Intern** — Sovos ·  · _2026-10-04_  
-  https://ar.linkedin.com/jobs/view/qa-intern-at-sovos-4410749864
+- **CHEVRON GBS BA- IT Internship 2026** — Chevron ·  · _2026-10-10_  
+  https://ar.linkedin.com/jobs/view/chevron-gbs-ba-it-internship-2026-at-chevron-4466985299
 - **Broadcast and Media Engineering** — AMC Global Media ·  · _2026-10-09_  
   https://ar.linkedin.com/jobs/view/broadcast-and-media-engineering-at-amc-global-media-4409101175
 - **Solution Architect Intern ARG** — Amazon Web Services (AWS) ·  · _2026-10-07_  
@@ -118,8 +120,14 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/archiving-trainee-at-acciona-it-4474636048
 - **Desarrollador RPA Jr (Robotic Process Automation)** — Enta Consulting ·  · _2026-10-05_  
   https://ar.linkedin.com/jobs/view/desarrollador-rpa-jr-robotic-process-automation-at-enta-consulting-4473679076
-- **Analista Jr. Microinformática y Networking-Zona Norte Bs. As.** — Exologistica ·  · _2026-10-05_  
-  https://ar.linkedin.com/jobs/view/analista-jr-microinform%C3%A1tica-y-networking-zona-norte-bs-as-at-exologistica-4474291489
+- **SOPORTE TECNICO** — Radio Mitre ·  · _2026-10-10_  
+  https://ar.linkedin.com/jobs/view/soporte-tecnico-at-radio-mitre-4477221382
+- **Cloud Support Engineer** — Acciona IT ·  · _2026-10-10_  
+  https://ar.linkedin.com/jobs/view/cloud-support-engineer-at-acciona-it-4476876780
+- **Administrador de Linux** — G&L Group ·  · _2026-10-08_  
+  https://ar.linkedin.com/jobs/view/administrador-de-linux-at-g-l-group-4474839616
+- **Technicien Système et Réseau H/F** — SOCARENAM ·  · _2026-10-08_  
+  https://ar.linkedin.com/jobs/view/technicien-syst%C3%A8me-et-r%C3%A9seau-h-f-at-socarenam-4474827982
 - **Lead Site Reliability Engineer** — EPAM Systems ·  · _2026-10-10_  
   https://ar.linkedin.com/jobs/view/lead-site-reliability-engineer-at-epam-systems-4476889541
 - **Senior Site Reliability Engineer** — EPAM Systems ·  · _2026-10-08_  
@@ -132,11 +140,7 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/site-reliability-engineer-at-strategic-staffing-solutions-4476196201
 - **IT Operations Analyst** — UpGuard ·  · _2026-10-09_  
   https://ar.linkedin.com/jobs/view/it-operations-analyst-at-upguard-4457973724
-- **Technicien Système et Réseau H/F** — SOCARENAM ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/technicien-syst%C3%A8me-et-r%C3%A9seau-h-f-at-socarenam-4474827982
 - **Analista de Gestión de Dispositivos IT** — Gire S.A. ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-dispositivos-it-at-gire-s-a-4474848379
 - **IT Administrator** — The Ritz-Carlton Yacht Collection ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/it-administrator-at-the-ritz-carlton-yacht-collection-4476588300
-- **Security Engineer - EY Global Delivery Services** — EY ·  · _2026-10-03_  
-  https://ar.linkedin.com/jobs/view/security-engineer-ey-global-delivery-services-at-ey-4464581040
