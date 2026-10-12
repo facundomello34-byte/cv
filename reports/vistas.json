@@ -46,7 +46,7 @@
       "title": "EY - Junior de IT",
       "comp": "EY",
       "date": "2026-10-08",
-      "score": 8,
+      "score": 7,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467905383": {
@@ -521,8 +521,8 @@
     "https://ar.linkedin.com/jobs/view/software-engineer-cloud-images-at-canonical-4433370631": {
       "title": "Software Engineer - Cloud Images",
       "comp": "Canonical",
-      "date": "2026-09-20",
-      "score": 2,
+      "date": "2026-10-12",
+      "score": 4,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/platform-operations-engineer-at-acclaim-ai-4468763741": {
@@ -1866,7 +1866,7 @@
       "title": "FIELD_SUPPORT.RIGCLOUD TECHNICIAN I",
       "comp": "Nabors Industries",
       "date": "2026-10-10",
-      "score": 8,
+      "score": 7,
       "primera_vista": "2026-10-06"
     },
     "https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-at-oneinfo-consulting-4474097107": {
@@ -2111,7 +2111,7 @@
       "title": "Backend Software Engineer, DevOps",
       "comp": "Avature",
       "date": "2026-10-08",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-08"
     },
     "https://ar.linkedin.com/jobs/view/associate-service-support-specialist-at-diebold-nixdorf-4474490484": {
@@ -2195,14 +2195,14 @@
       "title": "Technicien Système et Réseau H/F",
       "comp": "SOCARENAM",
       "date": "2026-10-08",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-10-08"
     },
     "https://ar.linkedin.com/jobs/view/site-reliability-infrastructure-engineer-at-meitner-energy-4477154524": {
       "title": "Site Reliability / Infrastructure Engineer",
       "comp": "Meitner Energy",
       "date": "2026-10-08",
-      "score": 3,
+      "score": 2,
       "primera_vista": "2026-10-08"
     },
     "https://ar.linkedin.com/jobs/view/software-engineer-secure-container-images-at-canonical-4459004566": {
@@ -2279,7 +2279,7 @@
       "title": "Junior QA Analyst",
       "comp": "Vintti",
       "date": "2026-10-08",
-      "score": 10,
+      "score": 9,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/analista-de-reclamos-calidad-at-cervecer%C3%ADa-y-malter%C3%ADa-quilmes-4459863397": {
@@ -2293,14 +2293,14 @@
       "title": "Analista Jr. Calidad de Alimentos",
       "comp": "Cencosud",
       "date": "2026-10-08",
-      "score": 10,
+      "score": 9,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/administrador-de-linux-at-g-l-group-4474839616": {
       "title": "Administrador de Linux",
       "comp": "G&L Group",
       "date": "2026-10-08",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/ot-pcn-site-reliability-engineer-at-chevron-4477154951": {
@@ -2314,14 +2314,14 @@
       "title": "Analista de Gestión de Dispositivos IT",
       "comp": "Gire S.A.",
       "date": "2026-10-08",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/especialista-en-devops-at-am%C3%A9rica-virtual-4478002574": {
       "title": "Especialista en DevOps",
       "comp": "América Virtual",
       "date": "2026-10-10",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-10-10"
     },
     "https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-at-roemmers-4474841714": {
@@ -2335,7 +2335,7 @@
       "title": "C++ Technical Test Analyst",
       "comp": "EPAM Systems",
       "date": "2026-10-10",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-10-10"
     },
     "https://ar.linkedin.com/jobs/view/qa-software-engineer-at-id90-travel-4478043130": {
@@ -2356,29 +2356,78 @@
       "title": "Analista Funcional Técnico",
       "comp": "TELEFE",
       "date": "2026-10-10",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-11"
     },
     "https://ar.linkedin.com/jobs/view/chevron-gbs-ba-it-internship-2026-at-chevron-4466985299": {
       "title": "CHEVRON GBS BA- IT Internship 2026",
       "comp": "Chevron",
       "date": "2026-10-10",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-10-11"
     },
     "https://ar.linkedin.com/jobs/view/soporte-tecnico-at-radio-mitre-4477221382": {
       "title": "SOPORTE TECNICO",
       "comp": "Radio Mitre",
       "date": "2026-10-10",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-11"
     },
     "https://ar.linkedin.com/jobs/view/cloud-support-engineer-at-acciona-it-4476876780": {
       "title": "Cloud Support Engineer",
       "comp": "Acciona IT",
       "date": "2026-10-10",
-      "score": 8,
+      "score": 7,
       "primera_vista": "2026-10-11"
+    },
+    "https://ar.linkedin.com/jobs/view/site-reliability-engineer-connectivity-at-chainlink-labs-4478507643": {
+      "title": "Site Reliability Engineer, Connectivity",
+      "comp": "Chainlink Labs",
+      "date": "2026-10-12",
+      "score": 4,
+      "primera_vista": "2026-10-12"
+    },
+    "https://ar.linkedin.com/jobs/view/secdevops-analyst-at-coelsa-4478097704": {
+      "title": "SecDevOps Analyst",
+      "comp": "COELSA",
+      "date": "2026-10-11",
+      "score": 4,
+      "primera_vista": "2026-10-12"
+    },
+    "https://ar.linkedin.com/jobs/view/quality-analyst-i-at-hewlett-packard-enterprise-4478365330": {
+      "title": "Quality Analyst I",
+      "comp": "Hewlett Packard Enterprise",
+      "date": "2026-10-11",
+      "score": 2,
+      "primera_vista": "2026-10-12"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-analyst-jr-at-mrm-4346644135": {
+      "title": "QA Analyst Jr",
+      "comp": "MRM",
+      "date": "2026-10-12",
+      "score": 11,
+      "primera_vista": "2026-10-12"
+    },
+    "https://ar.linkedin.com/jobs/view/functional-tester-at-epam-systems-4477290301": {
+      "title": "Functional Tester",
+      "comp": "EPAM Systems",
+      "date": "2026-10-12",
+      "score": 6,
+      "primera_vista": "2026-10-12"
+    },
+    "https://ar.linkedin.com/jobs/view/software-developer-engineer-in-test-at-marvell-technology-4412064845": {
+      "title": "Software Developer Engineer in Test",
+      "comp": "Marvell Technology",
+      "date": "2026-10-12",
+      "score": 5,
+      "primera_vista": "2026-10-12"
+    },
+    "https://ar.linkedin.com/jobs/view/operations-support-at-didi-4477856177": {
+      "title": "Operations Support",
+      "comp": "DiDi",
+      "date": "2026-10-09",
+      "score": 5,
+      "primera_vista": "2026-10-12"
     }
   },
   "postuladas": {

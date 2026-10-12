@@ -1,23 +1,23 @@
-# 🔍 Búsqueda laboral — 2026-10-11
+# 🔍 Búsqueda laboral — 2026-10-12
 
 _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
 
 ## LinkedIn (últimos 7 días)
 
+- **Software Engineer - Cloud Images** — Canonical ·  · _2026-10-12_  
+  https://ar.linkedin.com/jobs/view/software-engineer-cloud-images-at-canonical-4433370631
+- **Site Reliability Engineer, Connectivity** — Chainlink Labs ·  · _2026-10-12_  
+  https://ar.linkedin.com/jobs/view/site-reliability-engineer-connectivity-at-chainlink-labs-4478507643
+- **SecDevOps Analyst** — COELSA ·  · _2026-10-11_  
+  https://ar.linkedin.com/jobs/view/secdevops-analyst-at-coelsa-4478097704
 - **Especialista en DevOps** — América Virtual ·  · _2026-10-10_  
   https://ar.linkedin.com/jobs/view/especialista-en-devops-at-am%C3%A9rica-virtual-4478002574
 - **Backend Software Engineer, DevOps** — Avature ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/backend-software-engineer-devops-at-avature-4477195591
-- **Administrador de CloudOps SR (OCI)** — Accenture Argentina ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/administrador-de-cloudops-sr-oci-at-accenture-argentina-4470714831
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467797396
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467799423
-- **Site Reliability DevOps Engineer** — Accenture Argentina ·  · _2026-10-07_  
-  https://ar.linkedin.com/jobs/view/site-reliability-devops-engineer-at-accenture-argentina-4469073076
-- **Software Engineer - Secure Container Images** — Canonical ·  · _2026-10-07_  
-  https://ar.linkedin.com/jobs/view/software-engineer-secure-container-images-at-canonical-4459004566
 - **Infrastructure Engineer - Core Platform** — Kraken ·  · _2026-10-06_  
   https://ar.linkedin.com/jobs/view/infrastructure-engineer-core-platform-at-kraken-4451466004
 - **Cloud Engineer** — VeloceHR ·  · _2026-10-06_  
@@ -30,18 +30,16 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/ey-junior-de-it-at-ey-4361977461
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467905383
-- **Ingeniero/a de Software Ssr** — DeepAgro ·  · _2026-10-07_  
-  https://ar.linkedin.com/jobs/view/ingeniero-a-de-software-ssr-at-deepagro-4474465462
-- **FIELD_SUPPORT.RIGCLOUD TECHNICIAN I** — Nabors Industries ·  · _2026-10-10_  
-  https://ar.linkedin.com/jobs/view/field-support-rigcloud-technician-i-at-nabors-industries-4474071664
+- **Quality Analyst I** — Hewlett Packard Enterprise ·  · _2026-10-11_  
+  https://ar.linkedin.com/jobs/view/quality-analyst-i-at-hewlett-packard-enterprise-4478365330
 - **Analista Soporte Técnico Jr** — Stefanini LATAM ·  · _2026-10-09_  
   https://ar.linkedin.com/jobs/view/analista-soporte-t%C3%A9cnico-jr-at-stefanini-latam-4476240288
-- **Field Support IT Soporte TécnicoInformático/Aplicaciones SSR** — Empresa Confidencial ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/field-support-it-soporte-t%C3%A9cnicoinform%C3%A1tico-aplicaciones-ssr-at-empresa-confidencial-4475937930
-- **Tech Support Specialist** — Virtustant ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/tech-support-specialist-at-virtustant-4474845256
+- **Customer Support L1** — Aditi Consulting ·  · _2026-10-09_  
+  https://ar.linkedin.com/jobs/view/customer-support-l1-at-aditi-consulting-4475953423
 - **Associate Service Support Specialist** — Diebold Nixdorf ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/associate-service-support-specialist-at-diebold-nixdorf-4474490484
+- **Analista Jr. de Gestión de Incidentes (ATM)** — NCR Atleos ·  · _2026-10-07_  
+  https://ar.linkedin.com/jobs/view/analista-jr-de-gesti%C3%B3n-de-incidentes-atm-at-ncr-atleos-4474616613
 - **Técnico de Atención y Soporte en Plataformas E-learning** — EVIRTUAL SA ·  · _2026-10-06_  
   https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-atenci%C3%B3n-y-soporte-en-plataformas-e-learning-at-evirtual-sa-4476340173
 - **Analista Help Desk - Junior** — SMS Buenos Aires ·  · _2026-10-06_  
@@ -52,38 +50,18 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/service-desk-agent-portuguese-at-cognizant-4475113533
 - **Soporte Técnico N2 (Presencial - Pacheco)** — Empresa Confidencial ·  · _2026-10-05_  
   https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-n2-presencial-pacheco-at-empresa-confidencial-4474625758
-- **Customer Support L1** — Aditi Consulting ·  · _2026-10-09_  
-  https://ar.linkedin.com/jobs/view/customer-support-l1-at-aditi-consulting-4475953423
-- **Analista Jr. de Gestión de Incidentes (ATM)** — NCR Atleos ·  · _2026-10-07_  
-  https://ar.linkedin.com/jobs/view/analista-jr-de-gesti%C3%B3n-de-incidentes-atm-at-ncr-atleos-4474616613
-- **Analista Jr. Microinformática y Networking-Zona Norte Bs. As.** — Exologistica ·  · _2026-10-05_  
-  https://ar.linkedin.com/jobs/view/analista-jr-microinform%C3%A1tica-y-networking-zona-norte-bs-as-at-exologistica-4474291489
-- **On Site Support** — Accenture Argentina ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/on-site-support-at-accenture-argentina-4476215607
-- **Soporte Técnico** — Roemmers ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-at-roemmers-4474841714
-- **Soporte Técnico On Site** — OneInfo Consulting ·  · _2026-10-06_  
-  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-at-oneinfo-consulting-4474097107
-- **Analista de Atención al cliente - Ecommerce** — Oportutek - eCommerce 360 para marcas IT ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/analista-de-atenci%C3%B3n-al-cliente-ecommerce-at-oportutek-ecommerce-360-para-marcas-it-4477221496
-- **Virtual Assistant - Fulfillment** — Decentralized Masters ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/virtual-assistant-fulfillment-at-decentralized-masters-4477413254
-- **HR Services - Service Desk Jr Analyst** — Air Liquide ·  · _2026-10-07_  
-  https://ar.linkedin.com/jobs/view/hr-services-service-desk-jr-analyst-at-air-liquide-4476510657
-- **Atención al cliente** — Grupo Pose ·  · _2026-10-06_  
-  https://ar.linkedin.com/jobs/view/atenci%C3%B3n-al-cliente-at-grupo-pose-4476120131
-- **Agente Contact Center - Nivel 1** — Centro de e-Learning UTN FRBA ·  · _2026-10-06_  
-  https://ar.linkedin.com/jobs/view/agente-contact-center-nivel-1-at-centro-de-e-learning-utn-frba-4474415496
+- **QA Analyst Jr** — MRM ·  · _2026-10-12_  
+  https://ar.linkedin.com/jobs/view/qa-analyst-jr-at-mrm-4346644135
+- **Functional Tester** — EPAM Systems ·  · _2026-10-12_  
+  https://ar.linkedin.com/jobs/view/functional-tester-at-epam-systems-4477290301
+- **Software Developer Engineer in Test** — Marvell Technology ·  · _2026-10-12_  
+  https://ar.linkedin.com/jobs/view/software-developer-engineer-in-test-at-marvell-technology-4412064845
 - **C++ Technical Test Analyst** — EPAM Systems ·  · _2026-10-10_  
   https://ar.linkedin.com/jobs/view/c%2B%2B-technical-test-analyst-at-epam-systems-4476881684
 - **Analista Funcional Técnico** — TELEFE ·  · _2026-10-10_  
   https://ar.linkedin.com/jobs/view/analista-funcional-t%C3%A9cnico-at-telefe-4477212999
 - **Games Delivery Coordinator** — bet365 ·  · _2026-10-09_  
   https://ar.linkedin.com/jobs/view/games-delivery-coordinator-at-bet365-4475236689
-- **Localization & Payment Tester** — Bytecenture Technology Limited ·  · _2026-10-09_  
-  https://ar.linkedin.com/jobs/view/localization-payment-tester-at-bytecenture-technology-limited-4476246194
-- **Middle Automation QA Engineer** — Avenga ·  · _2026-10-09_  
-  https://ar.linkedin.com/jobs/view/middle-automation-qa-engineer-at-avenga-4475228216
 - **Junior QA Analyst** — Vintti ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/junior-qa-analyst-at-vintti-4476206574
 - **Junior QA** — Adistec ·  · _2026-10-07_  
@@ -92,14 +70,10 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/software-engineer-ii-test-automation-at-jpmorganchase-4476585366
 - **Analista de Validaciones de Sistemas Informáticos** — Laboratorio Tuteur ·  · _2026-10-06_  
   https://ar.linkedin.com/jobs/view/analista-de-validaciones-de-sistemas-inform%C3%A1ticos-at-laboratorio-tuteur-4474076926
-- **Quality Engineer - Argentina** — QualityAI ·  · _2026-10-05_  
-  https://ar.linkedin.com/jobs/view/quality-engineer-argentina-at-qualityai-4475847871
 - **Analista de Reclamos (Calidad)** — Cervecería y Maltería Quilmes ·  · _2026-10-09_  
   https://ar.linkedin.com/jobs/view/analista-de-reclamos-calidad-at-cervecer%C3%ADa-y-malter%C3%ADa-quilmes-4459863397
 - **Analista Jr. Calidad de Alimentos** — Cencosud ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/analista-jr-calidad-de-alimentos-at-cencosud-4474833829
-- **Analista de Calidad** — Cervecería y Maltería Quilmes ·  · _2026-10-08_  
-  https://ar.linkedin.com/jobs/view/analista-de-calidad-at-cervecer%C3%ADa-y-malter%C3%ADa-quilmes-4468256712
 - **QA Manufacturing Analyst** — Nestlé ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/qa-manufacturing-analyst-at-nestl%C3%A9-4475431129
 - **Quality Analyst Intern** — IBM ·  · _2026-10-06_  
@@ -110,6 +84,8 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/chevron-gbs-ba-it-internship-2026-at-chevron-4466985299
 - **Broadcast and Media Engineering** — AMC Global Media ·  · _2026-10-09_  
   https://ar.linkedin.com/jobs/view/broadcast-and-media-engineering-at-amc-global-media-4409101175
+- **Operations Support** — DiDi ·  · _2026-10-09_  
+  https://ar.linkedin.com/jobs/view/operations-support-at-didi-4477856177
 - **Solution Architect Intern ARG** — Amazon Web Services (AWS) ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/solution-architect-intern-arg-at-amazon-web-services-aws-4458537425
 - **Service Product Intern** — GE HealthCare ·  · _2026-10-06_  
@@ -118,16 +94,20 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/ausbildung-zum-it-systemelektroniker-m-w-d-at-bwi-gmbh-4472018988
 - **Archiving trainee** — Acciona IT ·  · _2026-10-05_  
   https://ar.linkedin.com/jobs/view/archiving-trainee-at-acciona-it-4474636048
-- **Desarrollador RPA Jr (Robotic Process Automation)** — Enta Consulting ·  · _2026-10-05_  
-  https://ar.linkedin.com/jobs/view/desarrollador-rpa-jr-robotic-process-automation-at-enta-consulting-4473679076
 - **SOPORTE TECNICO** — Radio Mitre ·  · _2026-10-10_  
   https://ar.linkedin.com/jobs/view/soporte-tecnico-at-radio-mitre-4477221382
 - **Cloud Support Engineer** — Acciona IT ·  · _2026-10-10_  
   https://ar.linkedin.com/jobs/view/cloud-support-engineer-at-acciona-it-4476876780
+- **FIELD_SUPPORT.RIGCLOUD TECHNICIAN I** — Nabors Industries ·  · _2026-10-10_  
+  https://ar.linkedin.com/jobs/view/field-support-rigcloud-technician-i-at-nabors-industries-4474071664
 - **Administrador de Linux** — G&L Group ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/administrador-de-linux-at-g-l-group-4474839616
 - **Technicien Système et Réseau H/F** — SOCARENAM ·  · _2026-10-08_  
   https://ar.linkedin.com/jobs/view/technicien-syst%C3%A8me-et-r%C3%A9seau-h-f-at-socarenam-4474827982
+- **Field Support IT Soporte TécnicoInformático/Aplicaciones SSR** — Empresa Confidencial ·  · _2026-10-08_  
+  https://ar.linkedin.com/jobs/view/field-support-it-soporte-t%C3%A9cnicoinform%C3%A1tico-aplicaciones-ssr-at-empresa-confidencial-4475937930
+- **Senior Site Reliability Engineer, Data Infrastructure** — Chainlink Labs ·  · _2026-10-12_  
+  https://ar.linkedin.com/jobs/view/senior-site-reliability-engineer-data-infrastructure-at-chainlink-labs-4478522041
 - **Lead Site Reliability Engineer** — EPAM Systems ·  · _2026-10-10_  
   https://ar.linkedin.com/jobs/view/lead-site-reliability-engineer-at-epam-systems-4476889541
 - **Senior Site Reliability Engineer** — EPAM Systems ·  · _2026-10-08_  
@@ -136,8 +116,6 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/site-reliability-infrastructure-engineer-at-meitner-energy-4477154524
 - **DevOps Engineer (Data Services & Linux) - Remote - Latin America** — FullStack ·  · _2026-10-07_  
   https://ar.linkedin.com/jobs/view/devops-engineer-data-services-linux-remote-latin-america-at-fullstack-4467906368
-- **Site Reliability Engineer** — Strategic Staffing Solutions ·  · _2026-10-06_  
-  https://ar.linkedin.com/jobs/view/site-reliability-engineer-at-strategic-staffing-solutions-4476196201
 - **IT Operations Analyst** — UpGuard ·  · _2026-10-09_  
   https://ar.linkedin.com/jobs/view/it-operations-analyst-at-upguard-4457973724
 - **Analista de Gestión de Dispositivos IT** — Gire S.A. ·  · _2026-10-08_  
