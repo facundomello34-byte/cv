@@ -1411,7 +1411,7 @@
       "title": "Operations and Monitoring Team",
       "comp": "Accenture Argentina",
       "date": "2026-10-09",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-10-01"
     },
     "https://ar.linkedin.com/jobs/view/implementation-technician-at-ecoportal-4474196297": {
@@ -2146,7 +2146,7 @@
       "title": "Virtual Assistant - Fulfillment",
       "comp": "Decentralized Masters",
       "date": "2026-10-08",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-10-08"
     },
     "https://ar.linkedin.com/jobs/view/junior-qa-at-adistec-4475473753": {
@@ -2181,7 +2181,7 @@
       "title": "Analista de Calidad",
       "comp": "Cervecería y Maltería Quilmes",
       "date": "2026-10-08",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-08"
     },
     "https://ar.linkedin.com/jobs/view/soporte-it-nivel-2-at-neix-4474821866": {
@@ -2216,21 +2216,21 @@
       "title": "Analista Soporte Técnico Jr",
       "comp": "Stefanini LATAM",
       "date": "2026-10-09",
-      "score": 13,
+      "score": 12,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/tech-support-specialist-at-virtustant-4474845256": {
       "title": "Tech Support Specialist",
       "comp": "Virtustant",
       "date": "2026-10-08",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/customer-support-l1-at-aditi-consulting-4475953423": {
       "title": "Customer Support L1",
       "comp": "Aditi Consulting",
-      "date": "2026-10-09",
-      "score": 5,
+      "date": "2026-10-13",
+      "score": 6,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/analista-de-desarrollo-junior-at-acciona-it-4476828285": {
@@ -2244,7 +2244,7 @@
       "title": "On Site Support",
       "comp": "Accenture Argentina",
       "date": "2026-10-08",
-      "score": 8,
+      "score": 7,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/qa-analyst-%E2%80%93-functional-automation-testing-at-proxima-4476830058": {
@@ -2286,7 +2286,7 @@
       "title": "Analista de Reclamos (Calidad)",
       "comp": "Cervecería y Maltería Quilmes",
       "date": "2026-10-09",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-09"
     },
     "https://ar.linkedin.com/jobs/view/analista-jr-calidad-de-alimentos-at-cencosud-4474833829": {
@@ -2328,7 +2328,7 @@
       "title": "Soporte Técnico",
       "comp": "Roemmers",
       "date": "2026-10-08",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-10"
     },
     "https://ar.linkedin.com/jobs/view/c%2B%2B-technical-test-analyst-at-epam-systems-4476881684": {
@@ -2391,13 +2391,13 @@
       "title": "SecDevOps Analyst",
       "comp": "COELSA",
       "date": "2026-10-11",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-10-12"
     },
     "https://ar.linkedin.com/jobs/view/quality-analyst-i-at-hewlett-packard-enterprise-4478365330": {
       "title": "Quality Analyst I",
       "comp": "Hewlett Packard Enterprise",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "score": 2,
       "primera_vista": "2026-10-12"
     },
@@ -2428,6 +2428,83 @@
       "date": "2026-10-09",
       "score": 5,
       "primera_vista": "2026-10-12"
+    },
+    "https://ar.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4477967215": {
+      "title": "DevOps Engineer",
+      "comp": "EPAM Systems",
+      "date": "2026-10-13",
+      "score": 4,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-soporte-al-usuario-at-hospital-privado-de-comunidad-4478338334": {
+      "title": "Analista De Soporte Al Usuario",
+      "comp": "Hospital Privado de Comunidad",
+      "date": "2026-10-11",
+      "score": 5,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-soporte-at-coelsa-4478300624": {
+      "title": "Analista de Soporte",
+      "comp": "COELSA",
+      "date": "2026-10-11",
+      "score": 5,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-soporte-t%C3%A9cnico-it-tortuguitas-at-recursos-humanos-especializados-rhe-consultora-4474448102": {
+      "title": "Analista Soporte Técnico IT - Tortuguitas",
+      "comp": "Recursos Humanos Especializados - RHE Consultora",
+      "date": "2026-10-07",
+      "score": 4,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/customer-experience-specialist-at-flash-4478715440": {
+      "title": "Customer Experience Specialist",
+      "comp": "Flash",
+      "date": "2026-10-12",
+      "score": 2,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/client-support-analyst-at-kainos-4467954610": {
+      "title": "Client Support Analyst",
+      "comp": "Kainos",
+      "date": "2026-10-07",
+      "score": 4,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/industrial-end-user-support-specialist-at-yel-solutions-4475976529": {
+      "title": "Industrial End User Support Specialist",
+      "comp": "YEL Solutions",
+      "date": "2026-10-08",
+      "score": 4,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-analyst-jr-12-a-21-hs-at-mrm-4381162786": {
+      "title": "QA Analyst Jr - 12 a 21 hs",
+      "comp": "MRM",
+      "date": "2026-10-13",
+      "score": 11,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/joven-profesional-at-coelsa-4478311210": {
+      "title": "Joven Profesional",
+      "comp": "COELSA",
+      "date": "2026-10-11",
+      "score": 1,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/business-technology-solutions-business-analyst-at-zs-4474403397": {
+      "title": "Business Technology Solutions - Business Analyst",
+      "comp": "ZS",
+      "date": "2026-10-06",
+      "score": 0,
+      "primera_vista": "2026-10-13"
+    },
+    "https://ar.linkedin.com/jobs/view/ingeniero-de-soporte-at-nec-argentina-4475613301": {
+      "title": "Ingeniero de Soporte",
+      "comp": "NEC Argentina",
+      "date": "2026-10-10",
+      "score": 5,
+      "primera_vista": "2026-10-13"
     }
   },
   "postuladas": {
