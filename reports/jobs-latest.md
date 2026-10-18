@@ -1,4 +1,4 @@
-# 🔍 Búsqueda laboral — 2026-10-17
+# 🔍 Búsqueda laboral — 2026-10-18
 
 _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
 
@@ -10,6 +10,8 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/salesforce-devops-at-capgemini-4480567724
 - **Platform Engineer** — COTO ·  · _2026-10-16_  
   https://ar.linkedin.com/jobs/view/platform-engineer-at-coto-4477708650
+- **DevOps Engineer (100% remote)** — Tether.io ·  · _2026-10-16_  
+  https://ar.linkedin.com/jobs/view/devops-engineer-100%25-remote-at-tether-io-4480195433
 - **Especialista Cloud** — Main Clue ·  · _2026-10-15_  
   https://ar.linkedin.com/jobs/view/especialista-cloud-at-main-clue-4479860039
 - **DevOps and Data Engineer** — Proofpoint ·  · _2026-10-14_  
@@ -22,54 +24,54 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/site-reliability-engineer-connectivity-at-chainlink-labs-4478507643
 - **Software Engineer - Python - Cloud - graduate level** — Canonical ·  · _2026-10-12_  
   https://ar.linkedin.com/jobs/view/software-engineer-python-cloud-graduate-level-at-canonical-4433358937
-- **SecDevOps Analyst** — COELSA ·  · _2026-10-11_  
-  https://ar.linkedin.com/jobs/view/secdevops-analyst-at-coelsa-4478097704
+- **Site Reliability Engineer** — ExxonMobil ·  · _2026-10-17_  
+  https://ar.linkedin.com/jobs/view/site-reliability-engineer-at-exxonmobil-4472050364
 - **Technical Consultant Intern** — Sovos Latinoamérica ·  · _2026-10-16_  
   https://ar.linkedin.com/jobs/view/technical-consultant-intern-at-sovos-latinoam%C3%A9rica-4480177747
+- **Junior Software Engineer with Accounting Experience (Argentina)** — Sezzle ·  · _2026-10-14_  
+  https://ar.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-argentina-at-sezzle-4323958551
 - **Desarrollador** — Empresa Confidencial ·  · _2026-10-13_  
   https://ar.linkedin.com/jobs/view/desarrollador-at-empresa-confidencial-4476467993
-- **CHEVRON GBS BA- IT Internship 2026** — Chevron ·  · _2026-10-10_  
-  https://ar.linkedin.com/jobs/view/chevron-gbs-ba-it-internship-2026-at-chevron-4466985299
-- **Analista de redes Jr** — BVS ·  · _2026-10-16_  
-  https://ar.linkedin.com/jobs/view/analista-de-redes-jr-at-bvs-4477731264
-- **EY - GDS - PowerPlan Analyst - Staff - EY GDS** — EY ·  · _2026-10-16_  
-  https://ar.linkedin.com/jobs/view/ey-gds-powerplan-analyst-staff-ey-gds-at-ey-4461688858
+- **Técnico de redes informáticas** — COTO ·  · _2026-10-16_  
+  https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-inform%C3%A1ticas-at-coto-4477722182
 - **Analista Help Desk - Junior** — SMS Buenos Aires ·  · _2026-10-15_  
   https://ar.linkedin.com/jobs/view/analista-help-desk-junior-at-sms-buenos-aires-4476506404
+- **Especialista en soporte técnico Ssr** — YEL Solutions ·  · _2026-10-15_  
+  https://ar.linkedin.com/jobs/view/especialista-en-soporte-t%C3%A9cnico-ssr-at-yel-solutions-4479162219
 - **Técnico Soporte Ssr** — SONDA ·  · _2026-10-15_  
   https://ar.linkedin.com/jobs/view/t%C3%A9cnico-soporte-ssr-at-sonda-4480131756
-- **Customer Support L1** — Aditi Consulting ·  · _2026-10-15_  
-  https://ar.linkedin.com/jobs/view/customer-support-l1-at-aditi-consulting-4475953423
-- **Infra Tech Support** — Accenture Argentina ·  · _2026-10-15_  
-  https://ar.linkedin.com/jobs/view/infra-tech-support-at-accenture-argentina-4478832738
+- **ROSARIO | Help Desk** — Grupo Quijada ·  · _2026-10-15_  
+  https://ar.linkedin.com/jobs/view/rosario-help-desk-at-grupo-quijada-4479129980
+- **Forms Content Associate - Fluent in English** — Sovos ·  · _2026-10-14_  
+  https://ar.linkedin.com/jobs/view/forms-content-associate-fluent-in-english-at-sovos-4462139821
 - **Help Desktop Support** — WPP Production ·  · _2026-10-13_  
   https://ar.linkedin.com/jobs/view/help-desktop-support-at-wpp-production-4479093221
 - **Técnico de microinformática** — LUMINA Consultora de Talento ·  · _2026-10-13_  
   https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-microinform%C3%A1tica-at-lumina-consultora-de-talento-4476483071
 - **Entry - Field Technical Consultant** — Hewlett Packard Enterprise ·  · _2026-10-12_  
   https://ar.linkedin.com/jobs/view/entry-field-technical-consultant-at-hewlett-packard-enterprise-4478365330
-- **Analista de Soporte** — COELSA ·  · _2026-10-11_  
-  https://ar.linkedin.com/jobs/view/analista-de-soporte-at-coelsa-4478300624
-- **On Site Support** — Accenture Argentina ·  · _2026-10-16_  
-  https://ar.linkedin.com/jobs/view/on-site-support-at-accenture-argentina-4476215607
-- **Service Desk Analyst (spanish & portuguese)** — Cognizant ·  · _2026-10-14_  
-  https://ar.linkedin.com/jobs/view/service-desk-analyst-spanish-portuguese-at-cognizant-4478803337
-- **Field Support | Cencosud Argentina** — Cencosud ·  · _2026-10-14_  
-  https://ar.linkedin.com/jobs/view/field-support-cencosud-argentina-at-cencosud-4476692484
-- **Information Technology Support Specialist** — BNB - Business Network Builders ·  · _2026-10-14_  
-  https://ar.linkedin.com/jobs/view/information-technology-support-specialist-at-bnb-business-network-builders-4479727543
-- **SOPORTE TECNICO** — Radio Mitre ·  · _2026-10-10_  
-  https://ar.linkedin.com/jobs/view/soporte-tecnico-at-radio-mitre-4477221382
+- **Analista De Soporte Al Usuario** — Hospital Privado de Comunidad ·  · _2026-10-11_  
+  https://ar.linkedin.com/jobs/view/analista-de-soporte-al-usuario-at-hospital-privado-de-comunidad-4478338334
+- **Analista de redes Jr** — BVS ·  · _2026-10-16_  
+  https://ar.linkedin.com/jobs/view/analista-de-redes-jr-at-bvs-4477731264
+- **EY - GDS - PowerPlan Analyst - Staff - EY GDS** — EY ·  · _2026-10-16_  
+  https://ar.linkedin.com/jobs/view/ey-gds-powerplan-analyst-staff-ey-gds-at-ey-4461688858
+- **Mi Primer Empleo Tecnico/a** — Personal ·  · _2026-10-15_  
+  https://ar.linkedin.com/jobs/view/mi-primer-empleo-tecnico-a-at-personal-4480127005
+- **Customer Support L1** — Aditi Consulting ·  · _2026-10-15_  
+  https://ar.linkedin.com/jobs/view/customer-support-l1-at-aditi-consulting-4475953423
+- **Infra Tech Support** — Accenture Argentina ·  · _2026-10-15_  
+  https://ar.linkedin.com/jobs/view/infra-tech-support-at-accenture-argentina-4478832738
 - **Senior AI Systems Engineer** — Medallia ·  · _2026-10-17_  
   https://ar.linkedin.com/jobs/view/senior-ai-systems-engineer-at-medallia-4470098197
-- **Mecánico de vehículos** — Duty Comfort ·  · _2026-10-17_  
-  https://ar.linkedin.com/jobs/view/mec%C3%A1nico-de-veh%C3%ADculos-4477390278
 - **Asistente de laboratorio** — Diagnóstico Maipú - Imágenes y Laboratorio ·  · _2026-10-17_  
   https://ar.linkedin.com/jobs/view/asistente-de-laboratorio-at-diagn%C3%B3stico-maip%C3%BA-im%C3%A1genes-y-laboratorio-4479660468
-- **Servicio de atención al cliente** — Top Fly Recruitment /Academy-Emirates appointed Agency ·  · _2026-10-15_  
-  https://ar.linkedin.com/jobs/view/servicio-de-atenci%C3%B3n-al-cliente-at-top-fly-recruitment-academy-emirates-appointed-agency-4471723513
+- **Recepcionista** — AM Consulting SA ·  · _2026-10-16_  
+  https://ar.linkedin.com/jobs/view/recepcionista-at-am-consulting-sa-4477364289
 - **Software Engineer Full Stack & AI First** — Homie.mx ·  · _2026-10-15_  
   https://ar.linkedin.com/jobs/view/software-engineer-full-stack-ai-first-at-homie-mx-4477323912
+- **Analista BI** — Diagnóstico Maipú - Imágenes y Laboratorio ·  · _2026-10-15_  
+  https://ar.linkedin.com/jobs/view/analista-bi-at-diagn%C3%B3stico-maip%C3%BA-im%C3%A1genes-y-laboratorio-4479150776
 - **Administrativa/Atención al cliente** — Nini Mayorista ·  · _2026-10-14_  
   https://ar.linkedin.com/jobs/view/administrativa-atenci%C3%B3n-al-cliente-at-nini-mayorista-4479249056
 - **Senior Software Engineer** — Mundi ·  · _2026-10-13_  
@@ -78,46 +80,36 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/account-developer-argentina-at-mendel-4477931760
 - **Pasante de Producto y Marketing** — Zedra | Muebles de Baño ·  · _2026-10-12_  
   https://ar.linkedin.com/jobs/view/pasante-de-producto-y-marketing-at-zedra-muebles-de-ba%C3%B1o-4478542537
-- **Technical Customer Care** — Mandü HR ·  · _2026-10-10_  
-  https://ar.linkedin.com/jobs/view/technical-customer-care-at-mand%C3%BC-hr-4477219536
 - **HR Services - Service Desk Jr Analyst** — Air Liquide ·  · _2026-10-16_  
   https://ar.linkedin.com/jobs/view/hr-services-service-desk-jr-analyst-at-air-liquide-4480512512
-- **Especialista en soporte técnico Ssr** — YEL Solutions ·  · _2026-10-15_  
-  https://ar.linkedin.com/jobs/view/especialista-en-soporte-t%C3%A9cnico-ssr-at-yel-solutions-4479162219
-- **ROSARIO | Help Desk** — Grupo Quijada ·  · _2026-10-15_  
-  https://ar.linkedin.com/jobs/view/rosario-help-desk-at-grupo-quijada-4479129980
-- **Forms Content Associate - Fluent in English** — Sovos ·  · _2026-10-14_  
-  https://ar.linkedin.com/jobs/view/forms-content-associate-fluent-in-english-at-sovos-4462139821
-- **Analista De Soporte Al Usuario** — Hospital Privado de Comunidad ·  · _2026-10-11_  
-  https://ar.linkedin.com/jobs/view/analista-de-soporte-al-usuario-at-hospital-privado-de-comunidad-4478338334
 - **Quality Analyst** — ecoPortal ·  · _2026-10-17_  
   https://ar.linkedin.com/jobs/view/quality-analyst-at-ecoportal-4480595325
 - **AI Growth Ops** — Kraken ·  · _2026-10-16_  
   https://ar.linkedin.com/jobs/view/ai-growth-ops-at-kraken-4479638159
-- **Tester SAP** — SONDA ·  · _2026-10-16_  
-  https://ar.linkedin.com/jobs/view/tester-sap-at-sonda-4480520437
 - **Software QA Analyst** — Communities.Tech ·  · _2026-10-15_  
   https://ar.linkedin.com/jobs/view/software-qa-analyst-at-communities-tech-4479822548
-- **Técnico Drive Test** — MSI Americas ·  · _2026-10-15_  
-  https://ar.linkedin.com/jobs/view/t%C3%A9cnico-drive-test-at-msi-americas-4479138454
+- **Analista de Control de Calidad de Fragancias** — IFF ·  · _2026-10-14_  
+  https://ar.linkedin.com/jobs/view/analista-de-control-de-calidad-de-fragancias-at-iff-4479593580
+- **Auxiliar de calidad** — HTL Hoteles ·  · _2026-10-14_  
+  https://ar.linkedin.com/jobs/view/auxiliar-de-calidad-at-htl-hoteles-4479248045
 - **Testing & Evaluation Associate** — JPMorganChase ·  · _2026-10-14_  
   https://ar.linkedin.com/jobs/view/testing-evaluation-associate-at-jpmorganchase-4479284872
+- **MIQA/CA Internshift** — IFF ·  · _2026-10-14_  
+  https://ar.linkedin.com/jobs/view/miqa-ca-internshift-at-iff-4414924730
 - **QA Analyst Jr - 12 a 21 hs** — MRM ·  · _2026-10-13_  
   https://ar.linkedin.com/jobs/view/qa-analyst-jr-12-a-21-hs-at-mrm-4381162786
+- **BECARIO/A DEPARTAMENTO DE CALIDAD GUIJUELO** — Colegio Oficial de Veterinarios de Salamanca ·  · _2026-10-13_  
+  https://ar.linkedin.com/jobs/view/becario-a-departamento-de-calidad-guijuelo-at-colegio-oficial-de-veterinarios-de-salamanca-4479065684
 - **QA Analyst Jr** — MRM ·  · _2026-10-12_  
   https://ar.linkedin.com/jobs/view/qa-analyst-jr-at-mrm-4346644135
-- **Software Developer Engineer in Test** — Marvell Technology ·  · _2026-10-12_  
-  https://ar.linkedin.com/jobs/view/software-developer-engineer-in-test-at-marvell-technology-4412064845
-- **Analista Funcional Técnico** — TELEFE ·  · _2026-10-10_  
-  https://ar.linkedin.com/jobs/view/analista-funcional-t%C3%A9cnico-at-telefe-4477212999
+- **Consultor SAP Basis (inglés intermedio/avanzado) Jr** — C&S Informática ·  · _2026-10-17_  
+  https://ar.linkedin.com/jobs/view/consultor-sap-basis-ingl%C3%A9s-intermedio-avanzado-jr-at-c-s-inform%C3%A1tica-4480826921
 - **Senior Microsoft Dynamics GP Consultant** — Endeavour Solutions Inc. -Dynamics 365 ERP, CRM & Cloud ·  · _2026-10-17_  
   https://ar.linkedin.com/jobs/view/senior-microsoft-dynamics-gp-consultant-at-endeavour-solutions-inc-dynamics-365-erp-crm-cloud-4479663486
 - **Consultor/a SAP IS-Oil Downstream – Logística y Distribución (TD)** — MaxIT Consulting - Max Corporate Group ·  · _2026-10-16_  
   https://ar.linkedin.com/jobs/view/consultor-a-sap-is-oil-downstream-%E2%80%93-log%C3%ADstica-y-distribuci%C3%B3n-td-at-maxit-consulting-max-corporate-group-4479305537
 - **Consultor/a SAP Logística – Transporte y Fletes (TM)** — MaxIT Consulting - Max Corporate Group ·  · _2026-10-16_  
   https://ar.linkedin.com/jobs/view/consultor-a-sap-log%C3%ADstica-%E2%80%93-transporte-y-fletes-tm-at-maxit-consulting-max-corporate-group-4479306559
-- **Estudiante** — Personal ·  · _2026-10-15_  
-  https://ar.linkedin.com/jobs/view/estudiante-at-personal-4480109663
 - **Analista Funcional Hospitality** — TOTVS ·  · _2026-10-15_  
   https://ar.linkedin.com/jobs/view/analista-funcional-hospitality-at-totvs-4477312271
 - **Pasante de Gestión de Proyectos** — Siemens Healthineers ·  · _2026-10-14_  
@@ -128,10 +120,6 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/semi-senior-sap-consultant-argentina-at-snp-group-4433522699
 - **Consultor SAP SuccessFactors Time Tracking (Senior)** — Concentrix ·  · _2026-10-11_  
   https://ar.linkedin.com/jobs/view/consultor-sap-successfactors-time-tracking-senior-at-concentrix-4438441399
-- **Técnico de redes informáticas** — COTO ·  · _2026-10-16_  
-  https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-inform%C3%A1ticas-at-coto-4477722182
-- **Mi Primer Empleo Tecnico/a** — Personal ·  · _2026-10-15_  
-  https://ar.linkedin.com/jobs/view/mi-primer-empleo-tecnico-a-at-personal-4480127005
 - **Técnico de instalación** — Personal ·  · _2026-10-15_  
   https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-instalaci%C3%B3n-at-personal-4480122441
 - **Recruiter IT Trainee con Inglés avanzado** — C&S Informática ·  · _2026-10-14_  
