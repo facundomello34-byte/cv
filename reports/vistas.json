@@ -816,7 +816,7 @@
       "title": "Operations Technician (IAM Analyst) - EY Global Delivery Services",
       "comp": "EY",
       "date": "2026-10-16",
-      "score": 3,
+      "score": 2,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/it-platform-engineer-associate-at-exxonmobil-4472050364": {
@@ -1411,7 +1411,7 @@
       "title": "Operations and Monitoring Team",
       "comp": "Accenture Argentina",
       "date": "2026-10-15",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-10-01"
     },
     "https://ar.linkedin.com/jobs/view/implementation-technician-at-ecoportal-4474196297": {
@@ -2818,7 +2818,7 @@
       "title": "DevOps Engineer (100% remote)",
       "comp": "Tether.io",
       "date": "2026-10-16",
-      "score": 3,
+      "score": 2,
       "primera_vista": "2026-10-16"
     },
     "https://ar.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-argentina-at-sezzle-4323958551": {
@@ -2895,7 +2895,7 @@
       "title": "Analista de Calidad",
       "comp": "Cervecería y Maltería Quilmes",
       "date": "2026-10-15",
-      "score": 6,
+      "score": 4,
       "primera_vista": "2026-10-16"
     },
     "https://ar.linkedin.com/jobs/view/quality-engineer-at-ampstek-4479167438": {
@@ -2951,7 +2951,7 @@
       "title": "Technical Support Engineer",
       "comp": "Evotym",
       "date": "2026-10-16",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-16"
     },
     "https://ar.linkedin.com/jobs/view/operador-de-monitoreo-observabilidad-jr-sadofe-at-yel-solutions-4479144917": {
@@ -2986,7 +2986,7 @@
       "title": "Platform Engineer",
       "comp": "COTO",
       "date": "2026-10-16",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-10-17"
     },
     "https://ar.linkedin.com/jobs/view/technical-consultant-intern-at-sovos-latinoam%C3%A9rica-4480177747": {
@@ -3000,7 +3000,7 @@
       "title": "Analista de redes Jr",
       "comp": "BVS",
       "date": "2026-10-16",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-17"
     },
     "https://ar.linkedin.com/jobs/view/entry-field-technical-consultant-at-hewlett-packard-enterprise-4478365330": {
@@ -3042,21 +3042,21 @@
       "title": "AI Growth Ops",
       "comp": "Kraken",
       "date": "2026-10-16",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-10-17"
     },
     "https://ar.linkedin.com/jobs/view/tester-sap-at-sonda-4480520437": {
       "title": "Tester SAP",
       "comp": "SONDA",
       "date": "2026-10-16",
-      "score": 7,
+      "score": 6,
       "primera_vista": "2026-10-17"
     },
     "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-inform%C3%A1ticas-at-coto-4477722182": {
       "title": "Técnico de redes informáticas",
       "comp": "COTO",
       "date": "2026-10-16",
-      "score": 8,
+      "score": 7,
       "primera_vista": "2026-10-17"
     },
     "https://ar.linkedin.com/jobs/view/fluent-english-t3-support-engineer-remote-at-supportyourapp-4478541038": {
@@ -3191,6 +3191,104 @@
       "date": "2026-10-19",
       "score": 7,
       "primera_vista": "2026-10-19"
+    },
+    "https://ar.linkedin.com/jobs/view/devops-engineer-aws-at-particle41-4481273242": {
+      "title": "Devops Engineer (AWS)",
+      "comp": "Particle41",
+      "date": "2026-10-19",
+      "score": 4,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/help-desk-soporte-de-1er-nivel-caba-buenos-aires-argentina-at-deloitte-4481266396": {
+      "title": "Help Desk, soporte de 1er Nivel , Caba, Buenos Aires, Argentina",
+      "comp": "Deloitte",
+      "date": "2026-10-19",
+      "score": 6,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-soporte-al-usuario-at-hospital-privado-de-comunidad-4481211987": {
+      "title": "Analista De Soporte Al Usuario",
+      "comp": "Hospital Privado de Comunidad",
+      "date": "2026-10-19",
+      "score": 6,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-data-%E2%80%93-junior-at-stefanini-latam-4480272687": {
+      "title": "Analista de Soporte Técnico Data – Junior",
+      "comp": "Stefanini LATAM",
+      "date": "2026-10-19",
+      "score": 14,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-data-%E2%80%93-trainee-at-stefanini-latam-4480266777": {
+      "title": "Analista de Soporte Técnico Data – Trainee",
+      "comp": "Stefanini LATAM",
+      "date": "2026-10-19",
+      "score": 14,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-microinformatica-at-areait-4478615845": {
+      "title": "Técnico de Microinformatica",
+      "comp": "AreaIT",
+      "date": "2026-10-19",
+      "score": 6,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/software-engineer-ii-text-analytics-java-nlp-at-medallia-4471902190": {
+      "title": "Software Engineer II, Text Analytics (Java, NLP)",
+      "comp": "Medallia",
+      "date": "2026-10-20",
+      "score": 2,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/operario-de-dep%C3%B3sito-y-log%C3%ADstica-para-muebler%C3%ADa-en-moreno-at-manpower-argentina-4481288723": {
+      "title": "Operario de Depósito y Logística para Mueblería en Moreno",
+      "comp": "Manpower Argentina",
+      "date": "2026-10-19",
+      "score": 2,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/intermediate-test-engineer-hybrid-manual-automation-op02281-at-dev-pro-4481582033": {
+      "title": "Intermediate Test Engineer (Hybrid Manual & Automation) - OP02281",
+      "comp": "Dev.Pro",
+      "date": "2026-10-20",
+      "score": 6,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/tester-mainframe-cobol-con-conocimientos-de-jcl-at-ecosistemas-4478621022": {
+      "title": "Tester Mainframe COBOL con conocimientos de JCL",
+      "comp": "Ecosistemas",
+      "date": "2026-10-19",
+      "score": 10,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4480917810": {
+      "title": "AI Red Team Tester",
+      "comp": "Alignerr",
+      "date": "2026-10-19",
+      "score": 6,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-calidad-at-sai-medicine-4481571735": {
+      "title": "Analista de calidad",
+      "comp": "SAI Medicine",
+      "date": "2026-10-20",
+      "score": 6,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/pasante-de-calidad-operacional-at-sinergium-biotech-4478632337": {
+      "title": "Pasante de calidad operacional",
+      "comp": "SINERGIUM Biotech",
+      "date": "2026-10-19",
+      "score": 11,
+      "primera_vista": "2026-10-20"
+    },
+    "https://ar.linkedin.com/jobs/view/intern-at-prysmian-4481505745": {
+      "title": "Intern",
+      "comp": "Prysmian",
+      "date": "2026-10-20",
+      "score": 2,
+      "primera_vista": "2026-10-20"
     }
   },
   "postuladas": {
