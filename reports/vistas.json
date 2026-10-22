@@ -606,7 +606,7 @@
       "title": "Cloud/Dev Ops Engineer Consultant",
       "comp": "MojoTech",
       "date": "2026-10-19",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/site-reliability-engineer-core-at-blockchain-com-4451885797": {
@@ -990,8 +990,8 @@
     "https://ar.linkedin.com/jobs/view/administrador-cloud-at-claro-argentina-4463542065": {
       "title": "Administrador Cloud",
       "comp": "Claro Argentina",
-      "date": "2026-09-30",
-      "score": 2,
+      "date": "2026-10-22",
+      "score": 4,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/technical-support-associate-at-assurant-4471769694": {
@@ -1292,7 +1292,7 @@
       "title": "QA Analyst / ETL Automation Tester",
       "comp": "CRAFTLabs",
       "date": "2026-10-20",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/pasante-de-sistemas-at-carrefour-argentina-4471106700": {
@@ -1452,8 +1452,8 @@
     "https://ar.linkedin.com/jobs/view/qa-analyst-jr-13-a-22-hs-at-mrm-4465309976": {
       "title": "QA Analyst Jr - 13 a 22 hs",
       "comp": "MRM",
-      "date": "2026-10-01",
-      "score": 9,
+      "date": "2026-10-22",
+      "score": 11,
       "primera_vista": "2026-10-01"
     },
     "https://ar.linkedin.com/jobs/view/qa-automation-at-artax-4472340318": {
@@ -3238,7 +3238,7 @@
       "title": "Software Engineer II, Text Analytics (Java, NLP)",
       "comp": "Medallia",
       "date": "2026-10-20",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-10-20"
     },
     "https://ar.linkedin.com/jobs/view/operario-de-dep%C3%B3sito-y-log%C3%ADstica-para-muebler%C3%ADa-en-moreno-at-manpower-argentina-4481288723": {
@@ -3252,7 +3252,7 @@
       "title": "Intermediate Test Engineer (Hybrid Manual & Automation) - OP02281",
       "comp": "Dev.Pro",
       "date": "2026-10-20",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-20"
     },
     "https://ar.linkedin.com/jobs/view/tester-mainframe-cobol-con-conocimientos-de-jcl-at-ecosistemas-4478621022": {
@@ -3273,7 +3273,7 @@
       "title": "Analista de calidad",
       "comp": "SAI Medicine",
       "date": "2026-10-20",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-20"
     },
     "https://ar.linkedin.com/jobs/view/pasante-de-calidad-operacional-at-sinergium-biotech-4478632337": {
@@ -3287,7 +3287,7 @@
       "title": "Intern",
       "comp": "Prysmian",
       "date": "2026-10-20",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-10-20"
     },
     "https://ar.linkedin.com/jobs/view/devsecops-at-g-l-group-4479417818": {
@@ -3308,7 +3308,7 @@
       "title": "Cloud Engineer",
       "comp": "Renaiss",
       "date": "2026-10-20",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-10-21"
     },
     "https://ar.linkedin.com/jobs/view/technical-consultant-intern-at-sovos-latinoam%C3%A9rica-4482090463": {
@@ -3322,7 +3322,7 @@
       "title": "Especialista en soporte técnico IT",
       "comp": "YEL Solutions",
       "date": "2026-10-20",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-21"
     },
     "https://ar.linkedin.com/jobs/view/analista-de-soporte-al-cliente-at-adp-4478975611": {
@@ -3371,7 +3371,7 @@
       "title": "Pool de talento - Ayudante de Pastelería - Buenos Aires, Argentina",
       "comp": "Minor Hotels Europe and Americas",
       "date": "2026-10-20",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-10-21"
     },
     "https://ar.linkedin.com/jobs/view/analista-qa-funcional-mainframe-y-procesos-contables-at-stefanini-latam-4481109332": {
@@ -3399,21 +3399,21 @@
       "title": "Estudiante",
       "comp": "Personal",
       "date": "2026-10-20",
-      "score": 3,
+      "score": 2,
       "primera_vista": "2026-10-21"
     },
     "https://ar.linkedin.com/jobs/view/pasante-de-anal%C3%ADtica-de-datos-y-transformaci%C3%B3n-digital-at-louis-dreyfus-company-4478951150": {
       "title": "Pasante de Analítica de Datos y Transformación Digital",
       "comp": "Louis Dreyfus Company",
       "date": "2026-10-20",
-      "score": 9,
+      "score": 8,
       "primera_vista": "2026-10-21"
     },
     "https://ar.linkedin.com/jobs/view/mi-primer-empleo-t%C3%A9cnico-a-at-personal-4481719685": {
       "title": "Mi Primer Empleo Técnico/a",
       "comp": "Personal",
       "date": "2026-10-20",
-      "score": 12,
+      "score": 11,
       "primera_vista": "2026-10-21"
     },
     "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-microinform%C3%A1tica-at-areait-4482024012": {
@@ -3443,6 +3443,83 @@
       "date": "2026-10-19",
       "score": 8,
       "primera_vista": "2026-10-21"
+    },
+    "https://ar.linkedin.com/jobs/view/product-engineer-at-houm-4482164455": {
+      "title": "Product Engineer",
+      "comp": "Houm",
+      "date": "2026-10-22",
+      "score": 2,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-jr-at-serbiznet-4442872744": {
+      "title": "Analista de Soporte Técnico Jr",
+      "comp": "Serbiznet",
+      "date": "2026-10-22",
+      "score": 11,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-gran-buenos-aires-at-empleos-it-4482149968": {
+      "title": "Soporte técnico on site - Gran Buenos Aires",
+      "comp": "Empleos IT",
+      "date": "2026-10-21",
+      "score": 6,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/customer-support-coach-at-cloudbeds-4482051620": {
+      "title": "Customer Support Coach",
+      "comp": "Cloudbeds",
+      "date": "2026-10-21",
+      "score": 6,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-at-innovar-4042606090": {
+      "title": "Técnico informático",
+      "comp": "INNOVAR",
+      "date": "2026-10-22",
+      "score": 6,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/jovenes-profesionales-para-atenci%C3%B3n-al-cliente-at-neuralsoft-4481135824": {
+      "title": "Jovenes Profesionales para Atención al Cliente",
+      "comp": "NeuralSoft",
+      "date": "2026-10-21",
+      "score": 2,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-automation-mainframe-jr-at-tata-consultancy-services-4482141199": {
+      "title": "QA AUTOMATION/ MAINFRAME JR",
+      "comp": "Tata Consultancy Services",
+      "date": "2026-10-21",
+      "score": 11,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/associate-ii-tmf-operations-latam-at-worldwide-clinical-trials-4479357563": {
+      "title": "Associate II, TMF Operations (LATAM)",
+      "comp": "Worldwide Clinical Trials",
+      "date": "2026-10-16",
+      "score": 0,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/sap-ixp-intern-%E2%80%93-order-to-invoice-cloud-software-support-at-sap-4479448577": {
+      "title": "SAP iXp Intern – Order to Invoice Cloud, Software & Support",
+      "comp": "SAP",
+      "date": "2026-10-21",
+      "score": 8,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-sistemas-jr-at-coresa-group-s-r-l-4479438301": {
+      "title": "Analista de Sistemas Jr.",
+      "comp": "CORESA GROUP S.R.L.",
+      "date": "2026-10-21",
+      "score": 7,
+      "primera_vista": "2026-10-22"
+    },
+    "https://ar.linkedin.com/jobs/view/cloud-support-administrator-remote-latam-at-atmosera-4482431448": {
+      "title": "Cloud Support Administrator (Remote LATAM)",
+      "comp": "Atmosera",
+      "date": "2026-10-22",
+      "score": 8,
+      "primera_vista": "2026-10-22"
     }
   },
   "postuladas": {
