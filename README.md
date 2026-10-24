@@ -35,6 +35,8 @@ Cada cambio se compila automáticamente con **GitHub Actions** y se publica en
 | `reports/`           | Digest diario automático de ofertas de empleo |
 | `scripts/jobs.sh`    | Script del digest diario de ofertas (LinkedIn + Exa) |
 | `*.svg`              | Iconos (email, teléfono, GitHub, LinkedIn…)  |
+| `.pi/voice.md`       | Perfil de voz de las cartas (leer antes de redactar) |
+| `.pi/skills/humanizar-textos/` | Skill para limpiar y puntuar un texto antes de enviarlo |
 
 ## Búsqueda laboral automática
 

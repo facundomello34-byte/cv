@@ -49,6 +49,8 @@ python3 scripts/filter_jobs.py --stats                 # ver tracking
 | `perfil-bumeran.md` | Contenido listo para pegar en Bumeran |
 | `fuentes-empleo.md` / `consultoras.md` | Portales, consultoras, trainee programs, canales |
 | `.github/workflows/jobs-daily.yml` | Corre todo el pipeline diario 08:15 BA |
+| `.pi/voice.md` | Perfil de voz: cómo suenan las cartas y qué no inventar (leer antes de escribir) |
+| `.pi/skills/humanizar-textos/` | Skill: limpia y puntúa cartas / CV / perfil antes de enviarlos |
 
 ---
 
