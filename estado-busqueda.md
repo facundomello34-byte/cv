@@ -1,7 +1,12 @@
 # 🗂️ Estado de búsqueda laboral — Facundo Mello
 
-> **Documento vivo** — actualizado cada sesión. Última actualización: **30/09/2026**.
+> **Documento vivo** — actualizado cada sesión. Última actualización: **24/10/2026**.
 > Cuando vuelvas a trabajar con un asistente, empezá leyendo este archivo + `README.md`.
+>
+> ⚠️ **Pasaron 24 días desde la última sesión (30/09).** El bot siguió corriendo los
+> 23 días sin fallar, pero no se postuló a nada: sigue habiendo **1 sola postulación
+> enviada** (Besysoft, 22/09). El cuello de botella no es encontrar ofertas, es
+> ejecutar. Sección 4 es el reinicio.
 
 ---
 
@@ -15,12 +20,16 @@
 
 ---
 
-## 2) Pipeline automático (nuevo, activo desde 30/09)
+## 2) Pipeline automático (corriendo, pero el embudo se corta después)
 
 - **08:15 (BA) todos los días** GitHub Actions: busca ofertas → **filtra y prioriza** → `reports/priorizadas-YYYY-MM-DD.md`.
+- **Estado real al 24/10:** 46 corridas, la última del 23/10, **23 commits diarios sin interrupción** (se sincronizaron recién hoy: el repo local estaba 23 commits atrás).
+- **Números del embudo:** 523 ofertas vistas · 1 postulada · 0 respuestas registradas.
+- **Ojo con `--days 2`:** devuelve casi 0 ofertas nuevas porque LinkedIn repite el mismo pool. El valor está en la frescura de las que ya están: las 🆕 de hoy son de 23–24/10.
 - El filtro descarta senior/spam/ofertas de otros países y puntúa el fit:
   junior/trainee **+5** · soporte/QA **+4** · linux/python/dev **+3** · devops/cloud **+2** · publicada ≤2 días **+2** · empresa preferida **+2/3**.
-- Marca **🆕 NUEVA** solo las ofertas nunca vistas (DB `reports/vistas.json`, 173 registradas) — ya no se te escapa nada ni postulás dos veces.
+- ⚠️ **El scoring es por palabra clave, no por seniority.** "DevOps Engineer" en Accenture o "Backend Engineer II" en Rappi puntúan alto por el término *devops/cloud* y *frescura*, pero por título no son para primer empleo. Revisá el aviso antes de gastar la carta.
+- Marca **🆕 NUEVA** solo las ofertas nunca vistas (DB `reports/vistas.json`, 523 registradas) — no vas a postular dos veces.
 
 ```bash
 bash scripts/jobs.sh --days 2                          # refrescar digest ahora
@@ -54,66 +63,68 @@ python3 scripts/filter_jobs.py --stats                 # ver tracking
 
 ---
 
-## 4) ✅ ACCIÓN DE HOY (30/09 — detectadas por el filtro + búsqueda web)
+## 4) ✅ ACCIÓN DE HOY (24/10 — reinicio después de 24 días)
 
-### 🚨 Postular HOY (en este orden, fit más alto primero)
+### 🚨 Postular hoy (en este orden, fit real)
 
-- [ ] **QA SAP GUI/SAP LOGON JR — Tata Consultancy Services (TCS)** [11 pts · 🆕 29/09] → https://ar.linkedin.com/jobs/view/qa-sap-gui-sap-logon-jr-at-tata-consultancy-services-4473257015 · carta variante **QA**
-- [ ] **Soporte de Calidad — Cervecería y Maltería Quilmes** [10 pts · 🆕 29/09 · QA en empresa grande] → https://ar.linkedin.com/jobs/view/soporte-de-calidad-at-cervecer%C3%ADa-y-malter%C3%ADa-quilmes-4464398615 · carta variante **QA**
-- [ ] **Junior L1 Genesys Support Engineer — Miratech** [10 pts · 28/09] → https://ar.linkedin.com/jobs/view/junior-l1-genesys-support-engineer-at-miratech-4470858313 · carta variante **soporte**
-- [ ] **QA Funcional SAP — Stefanini LATAM** [9 pts · 🆕 29/09 · remoto] → https://ar.linkedin.com/jobs/view/qa-funcional-sap-at-stefanini-latam-4471943363 · carta variante **QA**
-- [ ] **Application Support Engineer — Accenture** [9 pts · 30/09] → https://ar.linkedin.com/jobs/view/application-support-engineer-at-accenture-argentina-4469412609
-- [ ] **Analista de Soporte de Aplicaciones (Python, SQL, Linux) — Doctec** [9 pts · 26/09 · **PERFIL EXACTO**] → https://ar.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-con-conocimientos-en-python-sql-y-linux-at-doctec-digitalizaci%C3%B3n-de-documentos-4470507448
-- [ ] **Auxiliar TI — Bumeran** [🆕 publicada hace horas] → https://www.bumeran.com.ar/empleos/auxiliar-ti-importante-empresa-exportadora-2190288.html
-- [ ] **Soporte de Comunicaciones — Stefanini LATAM** [8 pts · 🆕 28/09] → https://ar.linkedin.com/jobs/view/soporte-de-comunicaciones-at-stefanini-latam-4471553075
-- [ ] **Soporte de Aplicaciones ERP (Home Office) — Bumeran** [🆕 ayer · remoto] → https://www.bumeran.com.ar/empleos/soporte-de-aplicaciones-erp-home-office-mauricio-paluch-2190276.html
-- [ ] **Soporte para TI Nivel 1 — INVAP** [7 pts · 🆕 28/09] → https://ar.linkedin.com/jobs/view/soporte-para-ti-nivel-1-at-invap-4472713489
-- [ ] **Core Network Junior con inglés — Experis Argentina** [7 pts · 29/09] → https://ar.linkedin.com/jobs/view/core-network-junior-con-ingl%C3%A9s-at-experis-argentina-4473266867
-- [ ] **QA Junior-Temporal — Acciona IT** [QA junior, pide ~2 años — regla 60-70%: aplicar igual] → https://www.bumeran.com.ar/empleos/qa-junior-temporal-acciona-it-1118425932.html
-- [ ] **Trainee informático JR — Yel (CABA)** [🆕 Próximo Trabajo] → https://proximotrabajo.com/empleos/trainee-informatico-jr-caba-cd3c3af3-c582-4f9d-893f-f787cfb18095
-- [ ] **Jr Service Desk Agent (Portuguese & Spanish) — Cognizant** [solo si manejás portugués] → https://ar.linkedin.com/jobs/view/jr-service-desk-agent-portuguese-spanish-at-cognizant-4442274343
+- [ ] **QA Analyst Jr - 13 a 22 hs — MRM** [10 pts · pub. 22/10 · **200+ postulantes**] → https://ar.linkedin.com/jobs/view/qa-analyst-jr-13-a-22-hs-at-mrm-4465309976 · carta variante **QA**
+  - El único "Jr" explícito del top y el de mayor fit. 200+ postulantes ⇒ la ventana se cierra: es la primera de hoy. Horario 13–22 h: confirmá que te sirve con COTO antes de mandar.
+- [ ] **Technical Consultant Trainee — Thales** [6 pts · pub. 22/10 · trainee explícito] → https://ar.linkedin.com/jobs/view/technical-consultant-trainee-at-thales-4482786219 · carta variante **QA** o genérica
+- [ ] **Network Support Engineer N1 — Experis Argentina** [6 pts · 🆕 pub. 23/10 · N1] → https://ar.linkedin.com/jobs/view/network-support-engineer-n1-at-experis-argentina-4483116850 · carta variante **soporte**
 
-### ⏳ Seguimiento (postulaciones anteriores)
+### ⭐ Si te quedan 30 minutos (frescás 22–24/10, todas de soporte/QA)
 
-- [ ] **Besysoft** (Enviada 22/09) → si no hay respuesta para el **~02/10**, buscar mail RRHH de Besysoft y hacer follow-up
-- [ ] **Wetcom — Jóvenes Talentos IT ed. 17** → arranca octubre 2026 — **verificar que la postulación entró** (Bumeran: https://www.bumeran.com.ar/empleos/jovenes-talentos-it-2026-wetcom-s.a.-1118356445.html)
-- [ ] **EY — Junior de IT (Banco de Talentos)** → postular + WhatsApp (011) 2469-4914 · https://careers.ey.com/ey/job/Buenos-Aires-EY-Junior-de-IT-CABA-1437/998182801/
-- [ ] **Flux IT — QA Analyst Jr.** (100% remoto) → postular con carta Playwright · https://fluxit.breezy.hr/p/7d6df5000801-qa-analyst-jr
-- [ ] **Stefanini — Application Support** → Sercanto + ATS pandape · https://www.sercanto.com.ar/detail/a/application-support_buenos-aires_16961531
+- [ ] **QA Tester SAP – UAT — MaxIT** [6 pts · 🆕 24/10] → https://ar.linkedin.com/jobs/view/qa-tester-sap-%E2%80%93-uat-y-casos-de-prueba-oil-gas-relaci%C3%B3n-de-dependencia-at-maxit-consulting-max-corporate-group-4482615580 · variante **QA**
+- [ ] **Analista QA Automatización Fintech — Claro Argentina** [6 pts · 24/10] → https://ar.linkedin.com/jobs/view/analista-qa-atomatizaci%C3%B3n-fintech-at-claro-argentina-4465113038 · variante **QA** (Playwright juega a favor)
+- [ ] **Analista de Mesa de Ayuda — Grupo Hasar** [6 pts · 🆕 23/10] → https://ar.linkedin.com/jobs/view/analista-de-mesa-de-ayuda-at-grupo-hasar-4481946569 · variante **soporte**
+- [ ] **Analista de Mesa de Ayuda Nivel 1 — Conectando Personas** [5 pts · 22/10] → https://ar.linkedin.com/jobs/view/analista-de-mesa-de-ayuda-nivel-1-4480084078 · variante **soporte**
+- [ ] **Soporte Técnico IT y Audiovisual CABA — Novatium** [6 pts · 🆕 23/10] → https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-%E2%80%93-it-y-audiovisual-caba-at-novatium-consulting-outsourcing-4483149124 · variante **soporte**
 
-### ⚙️ Configurar perfiles (si falta alguno)
+### ⚠️ Puntúan alto pero NO son para primer empleo (verificar el aviso antes)
 
-- [ ] **Bumeran**: CV cargado (`perfil-bumeran.md`) + CV visible + alertas activas (`QA`, `soporte técnico`, `junior`, últimos 7 días)
-- [ ] **LinkedIn**: headline *"Estudiante Desarrollo de Software UADE · Python, Linux, Docker, Playwright · Buscando primer empleo IT"* + #OpenToWork + descomentar línea `linkedin` en `data_es.typ`/`data_en.typ`
+El filtro les da 7 pts por *devops/cloud + frescura*, pero por título piden experiencia:
+
+- **DevOps Engineer — Accenture** [7] · **Backend Software Engineer, DevOps — Avature** [7] · **Software Engineer Backend II — Rappi** [5] · **SRE Engineer II — Medallia** [4] · **Cloud DevOps & Technical Operations — Monks** · **Devops Engineer (AWS) — Particle41** · **Administrador Cloud — Claro** · **GCP Specialist — Productive Playhouse**
+
+Regla: si el aviso no dice *junior / trainee / sin experiencia / N1*, y en los requisitos aparece "3+ años", no gastes la carta. Con 60–70% de los requisitos, sí.
+
+### 🗂️ Archivo: las 19 pendientes del 30/09
+
+Quedaron sin postular hace 24 días. Las de LinkedIn (28–30/09) están casi seguro cerradas; las de Bumeran y portales de consultoras pueden seguir abiertas, pero **verificá antes de escribir la carta** — no las trates como pendientes.
+
+Miratech · Stefanini (QA SAP y Soporte Comunicaciones) · Accenture Application Support · Doctec · INVAP · Experis Core Network · Acciona IT · Yel · Cognizant (PT/ES) · Auxiliar TI y Soporte ERP (Bumeran) · Quilmes · TCS QA SAP · Wetcom · EY · Flux IT · Stefanini Application Support
+
+### ⏳ Seguimiento vencido (esto sí es urgente)
+
+- [ ] **Besysoft** — follow-up pautado para el ~02/10, **22 días tarde**. Mandá el mail hoy o dalo por perdido.
+- [ ] **Wetcom — Jóvenes Talentos IT ed. 17** — *arranca en octubre 2026, o sea ahora*. Verificá que la postulación entró: https://www.bumeran.com.ar/empleos/jovenes-talentos-it-2026-wetcom-s.a.-1118356445.html
+- [ ] **EY — Junior de IT (Banco de Talentos)** — sigue abierto, no vence: https://careers.ey.com/ey/job/Buenos-Aires-EY-Junior-de-IT-CABA-1437/998182801/
+- [ ] **Flux IT — QA Analyst Jr.** (100% remoto) → https://fluxit.breezy.hr/p/7d6df5000801-qa-analyst-jr
+
+### ⚙️ Configurar perfiles (una sola vez, no vence, y hoy vale más que 5 postulaciones)
+
+- [ ] **Bumeran**: CV cargado (`perfil-bumeran.md`) + CV visible + alertas (`QA`, `soporte técnico`, `junior`, últimos 7 días)
+- [ ] **LinkedIn**: headline *"Estudiante Desarrollo de Software UADE · Python, Linux, Docker, Playwright · Buscando primer empleo IT"* + #OpenToWork + descomentar `linkedin` en `data_es.typ`/`data_en.typ`
 - [ ] **UADE Portal de Empleo**: subir CV (la oficina presenta postulantes a empresas)
-- [ ] **Endava**: anotar en calendario — **The Americas Internship (QA Automation, Python) abre FEBRERO 2027** → https://www.endava.com/careers/early-careers/internship-programmes-the-americas
-- [ ] **Despegar — Pasaporte Trainee 2.0**: pide **50% de carrera aprobada** — NO se cumple aún (recién 1er año); retomar en 2027 → https://jobs.lever.co/despegar/57d7de89-ac21-44f9-bbde-0f5bb81a6082
+- [ ] **Endava**: anotar — The Americas Internship (QA Automation, Python) abre **febrero 2027** → https://www.endava.com/careers/early-careers/internship-programmes-the-americas
+- [ ] **Despegar — Pasaporte Trainee 2.0**: pide 50% de carrera aprobada — no se cumple aún; retomar en 2027 → https://jobs.lever.co/despegar/57d7de89-ac21-44f9-bbde-0f5bb81a6082
 
 ---
 
 ## 5) 📋 Tabla de postulaciones (tracking)
 
+### Reinicio 24/10
+
 | Fecha | Empresa | Puesto | Portal | Estado | Notas |
 |---|---|---|---|---|---|
-| 22/09 | Besysoft S.A. | Analista de Soporte y Operaciones TI Junior | LinkedIn | ✔️ Enviada | Follow-up ~02/10 si no responde |
-| 30/09 | Tata Consultancy Services | QA SAP GUI/SAP LOGON JR | LinkedIn | ⏳ Pendiente | [11 pts] Postular HOY |
-| 30/09 | Cervecería y Maltería Quilmes | Soporte de Calidad | LinkedIn | ⏳ Pendiente | [10 pts] QA empresa grande |
-| 30/09 | Miratech | Junior L1 Genesys Support Engineer | LinkedIn | ⏳ Pendiente | [10 pts] Junior explícito |
-| 30/09 | Stefanini LATAM | QA Funcional SAP | LinkedIn | ⏳ Pendiente | [9 pts] Remoto |
-| 30/09 | Accenture | Application Support Engineer | LinkedIn | ⏳ Pendiente | [9 pts] Fresca 30/09 |
-| 30/09 | Doctec | Analista Soporte Aplicaciones (Py/SQL/Linux) | LinkedIn | ⏳ Pendiente | [9 pts] PERFIL EXACTO |
-| 30/09 | Empresa exportadora | Auxiliar TI | Bumeran | ⏳ Pendiente | Publicada hace horas |
-| 30/09 | Stefanini LATAM | Soporte de Comunicaciones | LinkedIn | ⏳ Pendiente | [8 pts] |
-| 30/09 | Mauricio Paluch | Soporte Aplicaciones ERP (Home Office) | Bumeran | ⏳ Pendiente | Remoto, ayer |
-| 30/09 | INVAP | Soporte para TI Nivel 1 | LinkedIn | ⏳ Pendiente | [7 pts] |
-| 30/09 | Experis Argentina | Core Network Junior con inglés | LinkedIn | ⏳ Pendiente | [7 pts] |
-| 30/09 | Acciona IT | QA Junior-Temporal | Bumeran | ⏳ Pendiente | Pide 2 años — aplicar igual |
-| 30/09 | Yel | Trainee informático JR (CABA) | PróximoTrabajo | ⏳ Pendiente | — |
-| 30/09 | Cognizant | Jr Service Desk Agent (PT/ES) | LinkedIn | ⏸️ Dudosa | Solo si maneja portugués |
-| 30/09 | Wetcom | Jóvenes Talentos IT ed. 17 | Bumeran | ⏳ Pendiente | Verificar que entró la postulación |
-| 30/09 | EY | Junior de IT (Banco de Talentos) | Portal + WhatsApp | ⏳ Pendiente | Carta lista `carta_ey.typ` |
-| 30/09 | Flux IT | QA Analyst Jr. | breezy | ⏳ Pendiente | Carta variante QA + Playwright |
-| 30/09 | Stefanini | Application Support | Sercanto + ATS | ⏳ Pendiente | Registrarse en ATS pandape |
+| 22/09 | Besysoft S.A. | Analista de Soporte y Operaciones TI Junior | LinkedIn | ✔️ Enviada | **Follow-up vencido hace 22 días** |
+| 24/10 | MRM | QA Analyst Jr - 13 a 22 hs | LinkedIn | ⏳ Pendiente | [10 pts] 200+ postulantes: hoy |
+| 24/10 | Thales | Technical Consultant Trainee | LinkedIn | ⏳ Pendiente | [6 pts] trainee |
+| 24/10 | Experis Argentina | Network Support Engineer N1 | LinkedIn | ⏳ Pendiente | [6 pts] N1 |
+
+### Historial 30/09 (sin postular — archivar)
+
+Las 18 restantes de esa lista (`TCS`, `Quilmes`, `Miratech`, `Stefanini` ×3, `Accenture`, `Doctec`, `Auxiliar TI`, `SAP ERP`, `INVAP`, `Experis Core Network`, `Acciona IT`, `Yel`, `Cognizant`, `Wetcom`, `EY`, `Flux IT`) quedaron en ⏳ Pendiente y nunca se enviaron. No se borran para no perder los datos, pero **no cuentan como postulaciones activas**: la tasa real del período es **1 enviada en 32 días**, cuando la regla es 10 por semana.
 
 > Al postular, marcar en la DB: `python3 scripts/filter_jobs.py --mark-applied "URL"` — así el filtro muestra "ya postulada" y no la repite.
 
@@ -150,8 +161,13 @@ python3 scripts/filter_jobs.py --stats                 # ver tracking
 
 ## 8) 📌 Próximos pasos (próxima sesión)
 
-1. **Abrir `reports/priorizadas-<fecha de hoy>.md`** — nuevo digest filtrado, ofertas nuevas marcadas 🆕.
-2. Postular a las pendientes de la sección 4 — priorizar [10-11 pts] y 🆕.
+1. **Lo primero, sin excepción:** las 3 de la sección 4 + el follow-up de Besysoft y la verificación de Wetcom. Eso solo ya rompe la racha.
+2. Después, `reports/priorizadas-<fecha de hoy>.md` — nuevo digest, ofertas 🆕 marcadas.
 3. Al postular: `python3 scripts/filter_jobs.py --mark-applied "URL"` y actualizar sección 5.
-4. Adaptar cartas: pedirle al asistente "adaptá carta para [oferta]" usando `carta_generica.typ` como base.
-5. Revisar `consultoras.md` para canales de consultoras y fechas de trainee programs.
+4. Adaptar cartas: "adaptá carta para [oferta]" usando `carta_generica.typ` como base. Las 5 cartas del repo están en APROBADO en el panel de IA (ver `.pi/skills/humanizar-textos/`).
+5. Revisar `consultoras.md` para canales y fechas de trainee programs.
+
+### Pendiente de decisión (no lo resuelvo solo)
+
+- **Pretensión salarial:** `perfil-bumeran.md` usa la mediana junior de la **Encuesta Sysarmy 2026.1** ($1.538.500) para fijar el rango $900.000–$1.200.000. Busqué una edición 2026.2 con números publicados y no la encontré. Con ~19% de inflación semestral, ese rango puede estar corto. Decisión tuya: mantenerlo (competitivo para primera experiencia) o subirlo ~15% y arriesgar filtros automáticos por precio.
+- **Volumen real:** con 523 ofertas vistas y 1 postulación, añadir fuentes no cambia nada. Antes de tocar `scripts/perfil_filtro.json`, hacé 10 postulaciones en una semana y medí respuestas.

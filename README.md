@@ -99,3 +99,24 @@ Cada `git push` a `main` recompila y actualiza la página automáticamente.
 
 > Si querés que la URL sea más corta (`https://facundomello34-byte.github.io`),
 > nombrá el repo `facundomello34-byte.github.io` en vez de `cv`.
+
+---
+
+## 🧰 Entorno de trabajo (actualizado 24/10/2026)
+
+| Qué | Versión / estado |
+| --- | --- |
+| pi (agente) | **1.4.0** (era 0.84.3; desde 1.0 la TUI es *fullscreen* por defecto, `--tui-mode regular` la vuelve atrás) |
+| Provider | `ollama-cloud` (único autenticado) |
+| Modelo por defecto | `deepseek-v4.1-flash:1017` · 1M contexto, visión, $0.15/$0.60 por millón |
+| Extensión de subagentes | `pi-subagents` (actualizada) |
+| Skill del proyecto | `.pi/skills/humanizar-textos/` → `/skill:humanizar-textos` |
+| Perfil de voz | `.pi/voice.md` |
+
+Para volver a poner todo al día en el futuro:
+
+```bash
+pi update            # agente
+pi update --extensions
+pi --list-models
+```
