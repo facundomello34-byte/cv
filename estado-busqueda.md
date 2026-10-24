@@ -60,6 +60,7 @@ python3 scripts/filter_jobs.py --stats                 # ver tracking
 | `.github/workflows/jobs-daily.yml` | Corre todo el pipeline diario 08:15 BA |
 | `.pi/voice.md` | Perfil de voz: cómo suenan las cartas y qué no inventar (leer antes de escribir) |
 | `.pi/skills/humanizar-textos/` | Skill: limpia y puntúa cartas / CV / perfil antes de enviarlos |
+| `emails/` | Seguimientos y mensajes a reclutadores, listos para copiar |
 
 ---
 
@@ -96,7 +97,7 @@ Miratech · Stefanini (QA SAP y Soporte Comunicaciones) · Accenture Application
 
 ### ⏳ Seguimiento vencido (esto sí es urgente)
 
-- [ ] **Besysoft** — follow-up pautado para el ~02/10, **22 días tarde**. Mandá el mail hoy o dalo por perdido.
+- [ ] **Besysoft** — follow-up pautado para el ~02/10, **22 días tarde**. **Borrador listo:** `emails/2026-10-24-seguimiento-besysoft.md` (DM de LinkedIn de 385 caracteres y email completo). Besysoft no publica email de RRHH: el canal real es LinkedIn → Personas → Talento.
 - [ ] **Wetcom — Jóvenes Talentos IT ed. 17** — *arranca en octubre 2026, o sea ahora*. Verificá que la postulación entró: https://www.bumeran.com.ar/empleos/jovenes-talentos-it-2026-wetcom-s.a.-1118356445.html
 - [ ] **EY — Junior de IT (Banco de Talentos)** — sigue abierto, no vence: https://careers.ey.com/ey/job/Buenos-Aires-EY-Junior-de-IT-CABA-1437/998182801/
 - [ ] **Flux IT — QA Analyst Jr.** (100% remoto) → https://fluxit.breezy.hr/p/7d6df5000801-qa-analyst-jr
