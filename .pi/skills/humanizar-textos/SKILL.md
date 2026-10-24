@@ -51,11 +51,14 @@ definidos en `slop.json`.
 retóricas sueltas, muros de hashtags, y oraciones del mismo largo. Reescribir
 eso necesita criterio, así que es tu trabajo. El panel te dice dónde mirar.
 
+**No aplica a todo:** el chequeo VOZ supone prosa en primera persona. En un CV
+o en un resumen de Bumeran, que van impersonales, va a dar bajo y está bien.
+
 ## Cómo leer el panel
 
 | chequeo | qué hacer si sale bajo |
 | --- | --- |
-| **RITMO** | Lo más común en este repo. Mezclá oraciones cortas con largas: una de 5 palabras al lado de una de 25. Nunca lo arregles agregando relleno. |
+| **RITMO** | Mezclá oraciones cortas con largas: una de 5 palabras al lado de una de 25. Nunca lo arregles agregando relleno. Si el resto de los chequeos está en 100, primero dudá de la extracción. |
 | **CONCRECIÓN** | Meter números reales: promedio 8.67, 48.5 h del curso, edición 17, años. Nunca un número inventado. |
 | **RELLENO** | Correr `--aplicar`, o reescribir la frase con palabras propias. |
 | **HUELLA** | `--aplicar` lo resuelve entero. |
@@ -74,26 +77,53 @@ debajo de 55.
    comentarios `//`. Para eso está `--aplicar`, que solo toca líneas de prosa y
    revierte si el archivo no compila.
 3. **`--aplicar` no reemplaza la revisión.** Siempre: `git diff` y después
-   `typst compile` del archivo tocado.
+   `typst compile` del archivo tocado. Y revisá qué revirtió: la raya larga
+   pasa a coma, lo que está bien en una oración y **mal en un título**.
+   `EY – Junior de IT` convertido en `EY, Junior de IT` es peor que la raya.
+   Nombres de puesto, empresas, fechas y bloques de cabecera: se revierten.
 4. **La carta no se publica sola.** Se muestra el texto final y espera el ok.
 
 ## Estado actual medido (24/10/2026)
 
-| archivo | puntaje | señal más débil |
-| --- | --- | --- |
-| `perfil-bumeran.md` | 65.4 REVISAR | VOZ |
-| `carta_generica.typ` | 62.8 REVISAR | RITMO 34.0 (37 oraciones parejas) |
-| `carta_generica_en.typ` | 60.8 REVISAR | RITMO (no tiene nada que limpiar) |
-| `carta_ey.typ` | 59.4 REVISAR | RITMO |
-| `carta_wetcom.typ` | 57.2 REVISAR | RITMO 23.7 + 3 rayas largas |
-| `cv_es.pdf` | 56.7 REVISAR | VOZ |
-| `carta_accenture.typ` | 52.3 REVISAR | RITMO |
+**Cartas** — prosa en primera persona, el caso para el que el panel fue hecho:
 
-Todos tienen CONCRECIÓN y RELLENO en 100 y VOZ por encima de 90: el contenido
-está bien. Y ojo con esto, porque es el dato que importa: limpiar la carta
-genérica la sube solo de **62.8 a 64.2** (+1.4). El texto no está sucio; el
-problema de RITMO es de redacción y no se arregla con el script. Si después de
-`--aplicar` RITMO sigue abajo, hay que reescribir oraciones a mano.
+| archivo | puntaje | veredicto |
+| --- | --- | --- |
+| `carta_ey.typ` | 92.0 | APROBADO |
+| `carta_generica.typ` | 90.6 | APROBADO |
+| `carta_generica_en.typ` | 87.5 | APROBADO |
+| `carta_wetcom.typ` | 86.8 | APROBADO |
+| `carta_accenture.typ` | 85.6 | APROBADO |
+
+**CV y perfil** — no los midas con este panel como si fueran cartas:
+
+| archivo | puntaje | por qué queda en REVISAR |
+| --- | --- | --- |
+| `perfil-bumeran.md` | 64.8 | VOZ 44.3: el resumen se escribe en tercera persona a propósito |
+| `data_es.typ` | 58.8 | VOZ 30.0: un CV no dice "yo" |
+| `data_en.typ` | 57.7 | ídem, en inglés |
+| `cv_es.pdf` / `cv_en.pdf` | 56.6 / 58.0 | ídem, y además son listas de viñetas |
+
+El chequeo **VOZ** cuenta marcas de primera y segunda persona porque en un post
+de LinkedIn eso es señal humana. En un CV o en un resumen de Bumeran el registro
+correcto es impersonal, así que el puntaje bajo ahí **no es un defecto**. En los
+cinco CV/perfiles el resto de los chequeos está en 100 (RELLENO, CONCRECIÓN,
+HUELLA) o cerca de 100 (RITMO 51–60).
+
+Lo único accionable en el perfil: 9 rayas largas, casi todas en títulos y
+etiquetas (`# Contenido para perfil de Bumeran — Facundo Mello`). No son señal
+de IA en un encabezado, pero si se quiere limpiar, se reemplazan a mano.
+
+### Ojo con la medición
+
+`limpiar.py` une las líneas de un mismo párrafo antes de medir (en `.typ` y en
+`.md`) y protege decimales y abreviaturas (`8.67`, `$1.200.000`, `Ref.:`). Sin
+eso, el separador de oraciones del upstream corta en cada punto y en cada salto
+de línea de 80 columnas, inventa decenas de oraciones cortas falsas y hunde el
+RITMO. Medido mal, `carta_generica.typ` daba 62.8 REVISAR con "RITMO 34.0";
+medido bien da **90.6 APROBADO con RITMO 100.0** (variación 0.73 en 22
+oraciones). Si algún día ves un RITMO bajo con CONCRECIÓN en 100, sospechá
+de la extracción antes de reescribir la carta.
 
 ## Archivos
 

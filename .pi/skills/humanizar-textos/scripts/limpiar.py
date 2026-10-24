@@ -58,9 +58,26 @@ import humanize as H  # noqa: E402
 # Carácter de uso privado de Unicode (categoría Co): no lo borra la pasada de
 # invisibles ni lo tocan las de tipografía y léxico.
 SENTINEL = "\ue000"
+DOT = "\ue002"
 KEEP_POR_DEFECTO = "·"
 
 CMD_TYPST = re.compile(r"#[A-Za-z][\w-]*\s*\([^)]*\)")
+
+# El separador de oraciones del upstream corta en CUALQUIER punto, así que
+# "8.67", "$1.200.000" y "Ref.:" le inventan oraciones falsas y le arruinan
+# la medida de RITMO. Acá se protegen antes de medir y se restituyen después.
+DECIMAL = re.compile(r"(?<=\d)\.(?=\d)")
+ABREV = re.compile(r"(?i)\b(ref|sr|sra|dr|dra|av|nro|pág|ej|etc|inc|s\.a)\.(?=\s|$)")
+
+
+def proteger_puntuacion(texto):
+    texto = DECIMAL.sub(DOT, texto)
+    texto = ABREV.sub(lambda m: m.group(1) + DOT, texto)
+    return texto
+
+
+def restaurar_puntuacion(texto):
+    return texto.replace(DOT, ".")
 
 
 def proteger(texto, keep):
@@ -80,13 +97,24 @@ def restaurar(texto, mapa):
 
 
 def extraer_typst(texto):
-    """Texto legible de un .typ: sin comentarios, comandos, énfasis ni saltos."""
-    lineas = []
+    """Texto legible de un .typ, tal como lo renderiza Typst.
+
+    Las líneas de un mismo párrafo se unen con un espacio: en Typst los saltos
+    de línea del código no son saltos de oración, y dejarlos separados inventa
+    oraciones cortas falsas que arruinan la medida de RITMO. Los comentarios //
+    y las líneas de comando # cuentan como corte de párrafo.
+    """
+    parrafos, actual = [], []
+
+    def cerrar():
+        if actual:
+            parrafos.append(" ".join(actual))
+            del actual[:]
+
     for linea in texto.splitlines():
         s = linea.strip()
-        if not s or s.startswith("//"):
-            continue
-        if s.startswith("#"):
+        if not s or s.startswith("//") or s.startswith("#"):
+            cerrar()
             continue
         s = CMD_TYPST.sub("", s)
         s = re.sub(r"\\\s*$", "", s)          # salto de línea de Typst
@@ -95,8 +123,42 @@ def extraer_typst(texto):
         s = re.sub(r"_([^_]+)_", r"\1", s)    # cursiva
         s = re.sub(r"[ \t]{2,}", " ", s).strip()
         if s:
-            lineas.append(s)
-    return "\n".join(lineas) + "\n"
+            actual.append(s)
+    cerrar()
+    return "\n\n".join(parrafos) + "\n"
+
+
+MD_CORTE = re.compile(r"^(\s*$|#{1,6}\s|[-*+]\s|\d+[.)]\s|\|)")
+
+
+def extraer_md(texto):
+    """Texto legible de un .md: une las líneas de un mismo párrafo.
+
+    Igual que en .typ, los saltos de línea de un markdown envuelto a 80
+    columnas no son saltos de oración. Se corta en líneas vacías, títulos,
+    viñetas y tablas.
+    """
+    parrafos, actual = [], []
+
+    def cerrar():
+        if actual:
+            parrafos.append(" ".join(actual))
+            del actual[:]
+
+    for linea in texto.splitlines():
+        if MD_CORTE.match(linea):
+            cerrar()
+            if linea.strip():
+                parrafos.append(linea.strip())
+            continue
+        s = re.sub(r"^\s*>\s?", "", linea).strip()
+        s = re.sub(r"\*\*([^*]+)\*\*", r"\1", s)
+        s = re.sub(r"(?<!\w)\*([^*]+)\*(?!\w)", r"\1", s)
+        s = s.replace("`", "")
+        if s:
+            actual.append(s)
+    cerrar()
+    return "\n\n".join(parrafos) + "\n"
 
 
 def extraer_pdf(ruta):
@@ -117,19 +179,24 @@ def leer_texto(ruta):
         return extraer_pdf(ruta)
     with open(ruta, encoding="utf-8") as f:
         crudo = f.read()
-    return extraer_typst(crudo) if ext == ".typ" else crudo
+    if ext == ".typ":
+        return extraer_typst(crudo)
+    if ext in (".md", ".markdown"):
+        return extraer_md(crudo)
+    return crudo
 
 
 def limpiar(texto, lang, keep):
     lex = H.load_lexicon()
     prot, mapa = proteger(texto, keep)
+    prot = proteger_puntuacion(prot)
     limpio, reporte = H.humanize(prot, lex, lang=lang)
-    return restaurar(limpio, mapa), reporte
+    return restaurar_puntuacion(restaurar(limpio, mapa)), reporte
 
 
 def panel(texto, lang, etiqueta=None, as_json=False):
     lex = H.load_lexicon()
-    resultados, general, veredicto = detect.run(texto, lex, lang)
+    resultados, general, veredicto = detect.run(proteger_puntuacion(texto), lex, lang)
     if as_json:
         print(json.dumps({
             "label": etiqueta,

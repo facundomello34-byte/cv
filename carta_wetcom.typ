@@ -23,7 +23,7 @@
 
   Wetcom S.A.\
   Equipo de Talento\
-  Ref.: Programa Jóvenes Talentos IT — Edición 17
+  Ref.: Programa Jóvenes Talentos IT, Edición 17
 ]
 
 #v(1.4em)
@@ -35,9 +35,9 @@ Estimados/as del equipo de Talento:
 Les escribo para postularme al *Programa Jóvenes Talentos IT, edición 17*.
 Soy estudiante de la *Tecnicatura Universitaria en Desarrollo de Software* en
 UADE (promedio actual: 8.67) y estoy buscando mi *primer empleo formal en IT*.
-Cuando vi que el programa busca justamente eso —empezar la carrera laboral,
+Cuando vi que el programa busca justamente eso, empezar la carrera laboral,
 capacitarse en las últimas tecnologías y descubrir la virtualización y el
-cloud— supe que era exactamente el lugar donde quiero arrancar.
+cloud, supe que era exactamente el lugar donde quiero arrancar.
 
 No llego vacío. Uso *Linux* a diario como sistema principal, programo en
 *Python* (también JavaScript y SQL/PostgreSQL) y tengo un proyecto propio de

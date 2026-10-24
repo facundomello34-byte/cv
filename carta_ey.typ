@@ -43,7 +43,7 @@ tengo proyectos propios contenedorizados con *Docker*, con backend en
 Además, mis tres años de experiencia laboral en operaciones me dieron algo
 que se aprende tanto en las aulas como en el trabajo: *responsabilidad y
 continuidad operativa*. En COTO y en Bon Air Cafetería mi función era que la
-operación nunca se detuviera — gestionaba sistemas digitales, resolvía
+operación nunca se detuviera, gestionaba sistemas digitales, resolvía
 incidencias técnicas en equipos e impresoras, y con el sistema *FUDO POS*
 automaticé procesos de registro, stock y cierre de caja. Trabajo bien en
 equipo, bajo presión y con el detalle puesto en no romper lo que funciona.
