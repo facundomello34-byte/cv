@@ -1,31 +1,9 @@
-# 🔍 Búsqueda laboral — 2026-10-25
+# 🔍 Búsqueda laboral — 2026-10-26
 
 _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
 
 ## LinkedIn (últimos 7 días)
 
-- **DevOps Engineer** — Accenture Argentina ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/devops-engineer-at-accenture-argentina-4481657173
-- **Backend Software Engineer, DevOps** — Avature ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/backend-software-engineer-devops-at-avature-4482861743
-- **Site Reliability Engineering, Engineer II** — Medallia ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/site-reliability-engineering-engineer-ii-at-medallia-4472888345
-- **Infrastructure Engineer** — Acciona IT ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/infrastructure-engineer-at-acciona-it-4481941854
-- **Ingeniero de Nube** — Adecco ·  · _2026-10-22_  
-  https://ar.linkedin.com/jobs/view/ingeniero-de-nube-at-adecco-4480073306
-- **Google Cloud / GCP Specialist (Latin America)** — Productive Playhouse ·  · _2026-10-22_  
-  https://ar.linkedin.com/jobs/view/google-cloud-gcp-specialist-latin-america-at-productive-playhouse-4480078461
-- **Administrador Cloud** — Claro Argentina ·  · _2026-10-22_  
-  https://ar.linkedin.com/jobs/view/administrador-cloud-at-claro-argentina-4463542065
-- **DevSecOps** — G&L Group ·  · _2026-10-21_  
-  https://ar.linkedin.com/jobs/view/devsecops-at-g-l-group-4479417818
-- **Cloud DevOps & Technical Operations Engineer** — Monks ·  · _2026-10-21_  
-  https://ar.linkedin.com/jobs/view/cloud-devops-technical-operations-engineer-at-monks-4473589289
-- **Devops Engineer (AWS)** — Particle41 ·  · _2026-10-19_  
-  https://ar.linkedin.com/jobs/view/devops-engineer-aws-at-particle41-4481273242
-- **Data Platform Engineer (Mid-level)** — Jobgether ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/data-platform-engineer-mid-level-at-jobgether-4481681307
 - **Soporte Tecnico Jr - CABA** — Megatech S.A. ·  · _2026-10-24_  
   https://ar.linkedin.com/jobs/view/soporte-tecnico-jr-caba-at-megatech-s-a-4483340664
 - **Analista MDA** — Ecosistemas ·  · _2026-10-24_  
@@ -46,50 +24,36 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-data-%E2%80%93-junior-at-stefanini-latam-4480272687
 - **Analista de Soporte Técnico Data – Trainee** — Stefanini LATAM ·  · _2026-10-19_  
   https://ar.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-data-%E2%80%93-trainee-at-stefanini-latam-4480266777
-- **SOPORTE TECNICO** — Radio Mitre ·  · _2026-10-24_  
-  https://ar.linkedin.com/jobs/view/soporte-tecnico-at-radio-mitre-4482644971
-- **Sr Systems Technologist I - Buenos Aires** — Motorola Solutions ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/sr-systems-technologist-i-buenos-aires-at-motorola-solutions-4474505621
-- **Soporte Técnico | Pompeya, CABA.** — Novatium - Consulting & Outsourcing ·  · _2026-10-22_  
-  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-pompeya-caba-at-novatium-consulting-outsourcing-4482754701
-- **Soporte técnico on site - Baradero** — Empleos IT ·  · _2026-10-22_  
-  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-baradero-at-empleos-it-4482763343
-- **Analista de Soporte al Cliente** — ADP ·  · _2026-10-21_  
-  https://ar.linkedin.com/jobs/view/analista-de-soporte-al-cliente-at-adp-4478975611
-- **Soporte técnico on site - Gran Buenos Aires** — Empleos IT ·  · _2026-10-21_  
-  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-gran-buenos-aires-at-empleos-it-4482149968
-- **Técnico de Microinformática** — AreaIT ·  · _2026-10-21_  
-  https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-microinform%C3%A1tica-at-areait-4482024012
-- **Analista de Soporte Cloud – Mesa de Ayuda N1** — OneInfo Consulting ·  · _2026-10-19_  
-  https://ar.linkedin.com/jobs/view/analista-de-soporte-cloud-%E2%80%93-mesa-de-ayuda-n1-at-oneinfo-consulting-4478617023
-- **Técnico de Soporte Ssr - CABA** — Megatech S.A. ·  · _2026-10-24_  
-  https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-ssr-caba-at-megatech-s-a-4483339950
-- **Analista de Mesa de Ayuda** — Grupo Hasar ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/analista-de-mesa-de-ayuda-at-grupo-hasar-4481946569
+- **Customer Support Analyst | Motorrad / Eventual** — Manpower Argentina ·  · _2026-10-26_  
+  https://ar.linkedin.com/jobs/view/customer-support-analyst-motorrad-eventual-at-manpower-argentina-4483569503
+- **Software Engineer II, Text Analytics (Java, NLP)** — Medallia ·  · _2026-10-26_  
+  https://ar.linkedin.com/jobs/view/software-engineer-ii-text-analytics-java-nlp-at-medallia-4471902190
 - **Product Analyst – Payments** — Mendel ·  · _2026-10-24_  
   https://ar.linkedin.com/jobs/view/product-analyst-%E2%80%93-payments-at-mendel-4482367644
 - **Technical Customer Care** — Mandü HR ·  · _2026-10-24_  
   https://ar.linkedin.com/jobs/view/technical-customer-care-at-mand%C3%BC-hr-4482664238
 - **Senior IT Systems Engineer, Collaboration Tools (Google Workspace)** — Medallia ·  · _2026-10-24_  
   https://ar.linkedin.com/jobs/view/senior-it-systems-engineer-collaboration-tools-google-workspace-at-medallia-4473391518
-- **Software Engineer II, Text Analytics (Java, NLP)** — Medallia ·  · _2026-10-24_  
-  https://ar.linkedin.com/jobs/view/software-engineer-ii-text-analytics-java-nlp-at-medallia-4471902190
 - **Administrative Assistant** — Moody's Corporation ·  · _2026-10-23_  
   https://ar.linkedin.com/jobs/view/administrative-assistant-at-moody-s-corporation-4466029522
 - **Mecánico de Maquinaria Vial (req214179) - Permanente** — Manpower Argentina ·  · _2026-10-23_  
   https://ar.linkedin.com/jobs/view/mec%C3%A1nico-de-maquinaria-vial-req214179-permanente-at-manpower-argentina-4483145083
+- **Soporte técnico on site - Baradero** — Empleos IT ·  · _2026-10-22_  
+  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-baradero-at-empleos-it-4482763343
 - **National Service Manager** — Mindray ·  · _2026-10-21_  
   https://ar.linkedin.com/jobs/view/national-service-manager-at-mindray-4476852752
-- **Pool de talento - Ayudante de Pastelería - Buenos Aires, Argentina** — Minor Hotels Europe and Americas ·  · _2026-10-20_  
-  https://ar.linkedin.com/jobs/view/pool-de-talento-ayudante-de-pasteler%C3%ADa-buenos-aires-argentina-at-minor-hotels-europe-and-americas-4481760809
 - **Diseñador Gráfico Sr** — Mostaza y Pan S.A ·  · _2026-10-19_  
   https://ar.linkedin.com/jobs/view/dise%C3%B1ador-gr%C3%A1fico-sr-at-mostaza-y-pan-s-a-4478624248
-- **Customer Care Agent** — Sauce ·  · _2026-10-19_  
-  https://ar.linkedin.com/jobs/view/customer-care-agent-at-sauce-4481222063
+- **Industrial End User Support Specialist** — YEL Solutions ·  · _2026-10-26_  
+  https://ar.linkedin.com/jobs/view/industrial-end-user-support-specialist-at-yel-solutions-4483211239
+- **Soporte Técnico | Pompeya, CABA.** — Novatium - Consulting & Outsourcing ·  · _2026-10-22_  
+  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-pompeya-caba-at-novatium-consulting-outsourcing-4482754701
 - **Jovenes Profesionales para Atención al Cliente** — NeuralSoft ·  · _2026-10-21_  
   https://ar.linkedin.com/jobs/view/jovenes-profesionales-para-atenci%C3%B3n-al-cliente-at-neuralsoft-4481135824
 - **Community Associate** — HIT ·  · _2026-10-21_  
   https://ar.linkedin.com/jobs/view/community-associate-at-hit-4480762059
+- **Tester Manual** — Napse Global ·  · _2026-10-26_  
+  https://ar.linkedin.com/jobs/view/tester-manual-at-napse-global-4481454321
 - **QA Tester SAP – UAT y Casos de Prueba | Oil & Gas | Relación de dependencia** — MaxIT Consulting - Max Corporate Group ·  · _2026-10-24_  
   https://ar.linkedin.com/jobs/view/qa-tester-sap-%E2%80%93-uat-y-casos-de-prueba-oil-gas-relaci%C3%B3n-de-dependencia-at-maxit-consulting-max-corporate-group-4482615580
 - **Analista QA Atomatización Fintech** — Claro Argentina ·  · _2026-10-24_  
@@ -108,20 +72,6 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/qa-analyst-etl-automation-tester-at-craftlabs-4471109065
 - **Intermediate Test Engineer (Hybrid Manual & Automation) - OP02281** — Dev.Pro ·  · _2026-10-20_  
   https://ar.linkedin.com/jobs/view/intermediate-test-engineer-hybrid-manual-automation-op02281-at-dev-pro-4481582033
-- **AI Red Team Tester** — Alignerr ·  · _2026-10-19_  
-  https://ar.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4480917810
-- **QA Intern** — Sovos ·  · _2026-10-25_  
-  https://ar.linkedin.com/jobs/view/qa-intern-at-sovos-4410749864
-- **Analista I+D** — Rizobacter ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/analista-i%2Bd-at-rizobacter-4480697837
-- **Analista en control de calidad** — Nutrifarms ·  · _2026-10-22_  
-  https://ar.linkedin.com/jobs/view/analista-en-control-de-calidad-at-nutrifarms-4481382491
-- **Soporte de Calidad** — Cervecería y Maltería Quilmes ·  · _2026-10-21_  
-  https://ar.linkedin.com/jobs/view/soporte-de-calidad-at-cervecer%C3%ADa-y-malter%C3%ADa-quilmes-4464398615
-- **Analista de calidad** — SAI Medicine ·  · _2026-10-20_  
-  https://ar.linkedin.com/jobs/view/analista-de-calidad-at-sai-medicine-4481571735
-- **Pasante de calidad operacional** — SINERGIUM Biotech ·  · _2026-10-19_  
-  https://ar.linkedin.com/jobs/view/pasante-de-calidad-operacional-at-sinergium-biotech-4478632337
 - **Consultor/a Funcional SAP TM – Órdenes y Liquidación de Fletes | Freelance** — MaxIT Consulting - Max Corporate Group ·  · _2026-10-24_  
   https://ar.linkedin.com/jobs/view/consultor-a-funcional-sap-tm-%E2%80%93-%C3%B3rdenes-y-liquidaci%C3%B3n-de-fletes-freelance-at-maxit-consulting-max-corporate-group-4482344174
 - **Intermediate IT Specialist - OP02286** — Dev.Pro ·  · _2026-10-23_  
@@ -142,27 +92,23 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/estudiante-at-personal-4481717494
 - **Pasante de Analítica de Datos y Transformación Digital** — Louis Dreyfus Company ·  · _2026-10-20_  
   https://ar.linkedin.com/jobs/view/pasante-de-anal%C3%ADtica-de-datos-y-transformaci%C3%B3n-digital-at-louis-dreyfus-company-4478951150
-- **Mi Primer Empleo Técnico/a** — Personal ·  · _2026-10-20_  
-  https://ar.linkedin.com/jobs/view/mi-primer-empleo-t%C3%A9cnico-a-at-personal-4481719685
-- **Técnico de instalación** — Personal ·  · _2026-10-20_  
-  https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-instalaci%C3%B3n-at-personal-4481725522
-- **Technical Product Support Engineer (Remote): AMER** — Telnyx ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/technical-product-support-engineer-remote-amer-at-telnyx-4474744304
-- **Software Support Analyst II** — NCR Atleos ·  · _2026-10-19_  
-  https://ar.linkedin.com/jobs/view/software-support-analyst-ii-at-ncr-atleos-4471382785
-- **Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)** — Canonical ·  · _2026-10-18_  
-  https://ar.linkedin.com/jobs/view/linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels-at-canonical-4434624548
 - **Site Reliability Engineer - Senior Associate (Troubleshooting & Python)** — JPMorganChase ·  · _2026-10-24_  
   https://ar.linkedin.com/jobs/view/site-reliability-engineer-senior-associate-troubleshooting-python-at-jpmorganchase-4457072371
 - **Software Engineer Backend II** — Rappi ·  · _2026-10-24_  
   https://ar.linkedin.com/jobs/view/software-engineer-backend-ii-at-rappi-4481020352
+- **Site Reliability Engineering, Engineer II** — Medallia ·  · _2026-10-23_  
+  https://ar.linkedin.com/jobs/view/site-reliability-engineering-engineer-ii-at-medallia-4472888345
+- **Backend Software Engineer, DevOps** — Avature ·  · _2026-10-23_  
+  https://ar.linkedin.com/jobs/view/backend-software-engineer-devops-at-avature-4482861743
+- **Ingeniero de Nube** — Adecco ·  · _2026-10-22_  
+  https://ar.linkedin.com/jobs/view/ingeniero-de-nube-at-adecco-4480073306
+- **Google Cloud / GCP Specialist (Latin America)** — Productive Playhouse ·  · _2026-10-22_  
+  https://ar.linkedin.com/jobs/view/google-cloud-gcp-specialist-latin-america-at-productive-playhouse-4480078461
+- **DevSecOps** — G&L Group ·  · _2026-10-21_  
+  https://ar.linkedin.com/jobs/view/devsecops-at-g-l-group-4479417818
+- **Cloud DevOps & Technical Operations Engineer** — Monks ·  · _2026-10-21_  
+  https://ar.linkedin.com/jobs/view/cloud-devops-technical-operations-engineer-at-monks-4473589289
 - **Senior Site Reliability Engineer** — Techunting ·  · _2026-10-20_  
   https://ar.linkedin.com/jobs/view/senior-site-reliability-engineer-at-techunting-4480729781
-- **Tecplata- Systems and Network Administrator (L)** — Acciona IT ·  · _2026-10-23_  
-  https://ar.linkedin.com/jobs/view/tecplata-systems-and-network-administrator-l-at-acciona-it-4481647064
-- **Soporte técnico on site - Salto, Buenos Aires.** — Empleos IT ·  · _2026-10-22_  
-  https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-salto-buenos-aires-at-empleos-it-4482751896
-- **Network Administrator** — Accenture Argentina ·  · _2026-10-19_  
-  https://ar.linkedin.com/jobs/view/network-administrator-at-accenture-argentina-4478821179
-- **Técnico/a en Informática de Soporte en Infraestructura y Software** — American Consulting Group S.A. ·  · _2026-10-19_  
-  https://ar.linkedin.com/jobs/view/t%C3%A9cnico-a-en-inform%C3%A1tica-de-soporte-en-infraestructura-y-software-at-american-consulting-group-s-a-4478633430
+- **Devops Engineer (AWS)** — Particle41 ·  · _2026-10-19_  
+  https://ar.linkedin.com/jobs/view/devops-engineer-aws-at-particle41-4481273242
