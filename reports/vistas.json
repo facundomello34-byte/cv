@@ -991,7 +991,7 @@
       "title": "Administrador Cloud",
       "comp": "Claro Argentina",
       "date": "2026-10-22",
-      "score": 3,
+      "score": 2,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/technical-support-associate-at-assurant-4471769694": {
@@ -1537,7 +1537,7 @@
       "title": "Site Reliability Engineering, Engineer II",
       "comp": "Medallia",
       "date": "2026-10-23",
-      "score": 3,
+      "score": 2,
       "primera_vista": "2026-10-02"
     },
     "https://ar.linkedin.com/jobs/view/azure-devops-engineer-at-jbk-argentina-4472802465": {
@@ -1593,7 +1593,7 @@
       "title": "Administrative Assistant",
       "comp": "Moody's Corporation",
       "date": "2026-10-23",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-10-02"
     },
     "https://ar.linkedin.com/jobs/view/asesor-a-de-atenci%C3%B3n-ramos-mej%C3%ADa-at-avalian-4472993088": {
@@ -1670,7 +1670,7 @@
       "title": "Technical Product Support Engineer (Remote): AMER",
       "comp": "Telnyx",
       "date": "2026-10-23",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-02"
     },
     "https://ar.linkedin.com/jobs/view/soporte-y-desarrollo-at-la-celeste-4474745585": {
@@ -1831,7 +1831,7 @@
       "title": "QA Intern",
       "comp": "Sovos",
       "date": "2026-10-25",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-04"
     },
     "https://ar.linkedin.com/jobs/view/devops-engineer-at-ketos-delphin-chile-4474064399": {
@@ -3308,7 +3308,7 @@
       "title": "Cloud Engineer",
       "comp": "Renaiss",
       "date": "2026-10-20",
-      "score": 3,
+      "score": 2,
       "primera_vista": "2026-10-21"
     },
     "https://ar.linkedin.com/jobs/view/technical-consultant-intern-at-sovos-latinoam%C3%A9rica-4482090463": {
@@ -3532,7 +3532,7 @@
       "title": "Backend Software Engineer, DevOps",
       "comp": "Avature",
       "date": "2026-10-23",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-23"
     },
     "https://ar.linkedin.com/jobs/view/ingeniero-de-nube-at-adecco-4480073306": {
@@ -3630,14 +3630,14 @@
       "title": "Analista en control de calidad",
       "comp": "Nutrifarms",
       "date": "2026-10-22",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-23"
     },
     "https://ar.linkedin.com/jobs/view/intermediate-it-specialist-op02286-at-dev-pro-4482852130": {
       "title": "Intermediate IT Specialist - OP02286",
       "comp": "Dev.Pro",
       "date": "2026-10-23",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-10-23"
     },
     "https://ar.linkedin.com/jobs/view/technical-consultant-trainee-at-thales-4482786219": {
@@ -3658,7 +3658,7 @@
       "title": "Soporte técnico on site - Salto, Buenos Aires.",
       "comp": "Empleos IT",
       "date": "2026-10-22",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-23"
     },
     "https://ar.linkedin.com/jobs/view/infrastructure-engineer-at-acciona-it-4481941854": {
@@ -3686,7 +3686,7 @@
       "title": "Analista de Mesa de Ayuda",
       "comp": "Grupo Hasar",
       "date": "2026-10-23",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-10-24"
     },
     "https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-%E2%80%93-it-y-audiovisual-caba-at-novatium-consulting-outsourcing-4483149124": {
@@ -3756,7 +3756,7 @@
       "title": "Tecplata- Systems and Network Administrator (L)",
       "comp": "Acciona IT",
       "date": "2026-10-23",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-10-24"
     },
     "https://ar.linkedin.com/jobs/view/soporte-tecnico-jr-caba-at-megatech-s-a-4483340664": {
@@ -3770,7 +3770,7 @@
       "title": "SOPORTE TECNICO",
       "comp": "Radio Mitre",
       "date": "2026-10-24",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-25"
     },
     "https://ar.linkedin.com/jobs/view/technical-customer-care-at-mand%C3%BC-hr-4482664238": {
@@ -3807,6 +3807,90 @@
       "date": "2026-10-26",
       "score": 6,
       "primera_vista": "2026-10-26"
+    },
+    "https://ar.linkedin.com/jobs/view/devops-engineer-latam-remote-at-sunbytes-4483622305": {
+      "title": "DevOps Engineer (LatAm, Remote)",
+      "comp": "Sunbytes",
+      "date": "2026-10-27",
+      "score": 4,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/application-support-engineer-at-accenture-argentina-4483296473": {
+      "title": "Application Support Engineer",
+      "comp": "Accenture Argentina",
+      "date": "2026-10-27",
+      "score": 9,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-mesa-de-ayuda-at-ecosistemas-4483780550": {
+      "title": "Analista mesa de ayuda",
+      "comp": "Ecosistemas",
+      "date": "2026-10-27",
+      "score": 6,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-mda-con-portugu%C3%A9s-buenos-aires-at-ecosistemas-4483733446": {
+      "title": "Analista de MDA, con portugués- Buenos Aires",
+      "comp": "Ecosistemas",
+      "date": "2026-10-26",
+      "score": 2,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/account-developer-argentina-at-mendel-4483610115": {
+      "title": "Account Developer - Argentina",
+      "comp": "Mendel",
+      "date": "2026-10-27",
+      "score": 5,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/referente-de-mesa-de-ayuda-junior-at-empresa-confidencial-4483656379": {
+      "title": "Referente de Mesa de Ayuda Junior",
+      "comp": "Empresa Confidencial",
+      "date": "2026-10-27",
+      "score": 11,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-atenci%C3%B3n-al-cliente-at-lank-4481875982": {
+      "title": "Analista de atención al cliente",
+      "comp": "Lank",
+      "date": "2026-10-27",
+      "score": 2,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/junior-primary-data-analyst-at-rws-4481884411": {
+      "title": "Junior Primary Data Analyst",
+      "comp": "RWS",
+      "date": "2026-10-27",
+      "score": 7,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/1615-quality-engineer-at-nortal-4483733413": {
+      "title": "(1615) Quality Engineer",
+      "comp": "Nortal",
+      "date": "2026-10-26",
+      "score": 2,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/pasant%C3%ADa-en-calidad-laboratorio-at-autoneum-4481892391": {
+      "title": "Pasantía en Calidad - Laboratorio",
+      "comp": "Autoneum",
+      "date": "2026-10-27",
+      "score": 11,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-calidad-manual-qa-manual-at-lumina-consultora-de-talento-4481498985": {
+      "title": "Analista de Calidad Manual (QA Manual)",
+      "comp": "LUMINA Consultora de Talento",
+      "date": "2026-10-26",
+      "score": 6,
+      "primera_vista": "2026-10-27"
+    },
+    "https://ar.linkedin.com/jobs/view/industrial-intern-at-prysmian-4484078634": {
+      "title": "Industrial Intern",
+      "comp": "Prysmian",
+      "date": "2026-10-27",
+      "score": 2,
+      "primera_vista": "2026-10-27"
     }
   },
   "postuladas": {
