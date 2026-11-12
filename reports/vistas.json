@@ -990,8 +990,8 @@
     "https://ar.linkedin.com/jobs/view/administrador-cloud-at-claro-argentina-4463542065": {
       "title": "Administrador Cloud",
       "comp": "Claro Argentina",
-      "date": "2026-10-22",
-      "score": 2,
+      "date": "2026-11-12",
+      "score": 4,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/technical-support-associate-at-assurant-4471769694": {
@@ -1452,8 +1452,8 @@
     "https://ar.linkedin.com/jobs/view/qa-analyst-jr-13-a-22-hs-at-mrm-4465309976": {
       "title": "QA Analyst Jr - 13 a 22 hs",
       "comp": "MRM",
-      "date": "2026-10-22",
-      "score": 9,
+      "date": "2026-11-12",
+      "score": 11,
       "primera_vista": "2026-10-01"
     },
     "https://ar.linkedin.com/jobs/view/qa-automation-at-artax-4472340318": {
@@ -3517,7 +3517,7 @@
     "https://ar.linkedin.com/jobs/view/cloud-support-administrator-remote-latam-at-atmosera-4482431448": {
       "title": "Cloud Support Administrator (Remote LATAM)",
       "comp": "Atmosera",
-      "date": "2026-10-22",
+      "date": "2026-11-12",
       "score": 8,
       "primera_vista": "2026-10-22"
     },
@@ -3525,7 +3525,7 @@
       "title": "DevOps Engineer",
       "comp": "Accenture Argentina",
       "date": "2026-11-10",
-      "score": 7,
+      "score": 6,
       "primera_vista": "2026-10-23"
     },
     "https://ar.linkedin.com/jobs/view/backend-software-engineer-devops-at-avature-4482861743": {
@@ -5044,7 +5044,7 @@
       "title": "Junior Quality Assurance Tester - Remote",
       "comp": "Universia Argentina",
       "date": "2026-11-10",
-      "score": 11,
+      "score": 10,
       "primera_vista": "2026-11-09"
     },
     "https://ar.linkedin.com/jobs/view/product-management-intern-at-sezzle-4487943626": {
@@ -5093,7 +5093,7 @@
       "title": "Agentic GCP DevOps Engineer - Remote - Latin America",
       "comp": "FullStack",
       "date": "2026-11-07",
-      "score": 3,
+      "score": 2,
       "primera_vista": "2026-11-10"
     },
     "https://ar.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-argentina-at-sezzle-4487938682": {
@@ -5114,28 +5114,28 @@
       "title": "Software Support Specialist with Spanish/Portuguese - LATAM",
       "comp": "Acronis",
       "date": "2026-11-10",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-11-10"
     },
     "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-servicio-%E2%80%93-m%C3%A1quinas-cnc-at-cnc-insumos-4487821011": {
       "title": "Técnico de Servicio – Máquinas CNC",
       "comp": "CNC INSUMOS",
       "date": "2026-11-10",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-11-10"
     },
     "https://ar.linkedin.com/jobs/view/secure-access-operations-1badge-services-ey-global-delivery-services-at-ey-4487654760": {
       "title": "Secure Access Operations (1Badge Services) - EY Global Delivery Services",
       "comp": "EY",
       "date": "2026-11-09",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-11-10"
     },
     "https://ar.linkedin.com/jobs/view/business-analyst-%E2%80%93-lottery-systems-at-modum-services-4489471379": {
       "title": "Business Analyst – Lottery Systems",
       "comp": "Modum Services",
       "date": "2026-11-10",
-      "score": 2,
+      "score": 1,
       "primera_vista": "2026-11-10"
     },
     "https://ar.linkedin.com/jobs/view/qa-automation-appium-at-tata-consultancy-services-4487043637": {
@@ -5149,7 +5149,7 @@
       "title": "Operations Support",
       "comp": "DiDi",
       "date": "2026-11-10",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-11-10"
     },
     "https://ar.linkedin.com/jobs/view/associate-identity-access-management-cybersecurity-us-client-at-pwc-argentina-4435845749": {
@@ -5177,14 +5177,14 @@
       "title": "Software Engineer - DevOps - Bitnomial",
       "comp": "Kraken",
       "date": "2026-11-10",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-11-11"
     },
     "https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-quilmes-at-empleos-it-4488612462": {
       "title": "Soporte técnico on site - Quilmes",
       "comp": "Empleos IT",
       "date": "2026-11-10",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-11-11"
     },
     "https://ar.linkedin.com/jobs/view/medicos-para-emergencias-medicas-domiciliarias-at-mijal-salud-4488223758": {
@@ -5247,7 +5247,7 @@
       "title": "Ingeniero de Automatización e Integración de Datos",
       "comp": "AVANZARE RH - Consultora de Capital Humano (People, IT & IA)",
       "date": "2026-11-10",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-11-11"
     },
     "https://ar.linkedin.com/jobs/view/analista-t%C3%A9cnico-funcional-at-urbano-argentina-4487823154": {
@@ -5256,6 +5256,111 @@
       "date": "2026-11-10",
       "score": 6,
       "primera_vista": "2026-11-11"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-desarrollador-full-stack-soporte-t%C3%A9cnico%F0%9F%92%A5-at-bernardo-lew-e-hijos-srl-4488215703": {
+      "title": "Analista/Desarrollador Full Stack & Soporte Técnico💥",
+      "comp": "BERNARDO LEW E HIJOS SRL",
+      "date": "2026-11-11",
+      "score": 9,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/software-engineer-platform-experience-at-siena-ai-4489626360": {
+      "title": "Software Engineer, Platform Experience",
+      "comp": "Siena AI",
+      "date": "2026-11-10",
+      "score": 1,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/euc-level-1-engineer-at-sopliance-inc-4490358270": {
+      "title": "EUC - level -1 Engineer",
+      "comp": "SOPliance Inc.",
+      "date": "2026-11-12",
+      "score": 2,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/network-support-engineer-n1-at-experis-argentina-4490336941": {
+      "title": "Network Support Engineer N1",
+      "comp": "Experis Argentina",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/auxiliar-en-planificaci%C3%B3n-log%C3%ADstica-e-commerce-at-maman-4488516388": {
+      "title": "Auxiliar en Planificación Logística E-commerce",
+      "comp": "MAMAN",
+      "date": "2026-11-12",
+      "score": 2,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/asistente-ejecutivo-a-de-direcci%C3%B3n-4489255208": {
+      "title": "Asistente Ejecutivo/a de Dirección",
+      "comp": "Empresa desarrolladora de obras de infraestructura",
+      "date": "2026-11-12",
+      "score": 2,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/auxiliar-administrativo-a-proyecto-sap-la-reja-req209791-eventual-at-manpower-argentina-4490019440": {
+      "title": "Auxiliar Administrativo/a Proyecto SAP (La Reja) - Req209791 - Eventual",
+      "comp": "Manpower Argentina",
+      "date": "2026-11-11",
+      "score": 2,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/customer-support-dispatch-at-remote-jobs-4490068898": {
+      "title": "Customer Support & Dispatch",
+      "comp": "Remote Jobs",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/testing-evaluation-associate-at-jpmorganchase-4490085613": {
+      "title": "Testing & Evaluation Associate",
+      "comp": "JPMorganChase",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/visual-qa-at-monks-4490038673": {
+      "title": "Visual QA",
+      "comp": "Monks",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4490076628": {
+      "title": "AI Red Team Tester",
+      "comp": "Alignerr",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/pasante-de-producci%C3%B3n-publicitaria-at-publicis-groupe-argentina-4489035944": {
+      "title": "Pasante de Producción Publicitaria",
+      "comp": "Publicis Groupe Argentina",
+      "date": "2026-11-11",
+      "score": 7,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/aub-crp-intern-people-purpose-digital-hr-centre-of-excellence-at-deloitte-4488897534": {
+      "title": "AUB CRP Intern | People & Purpose | Digital HR Centre of Excellence",
+      "comp": "Deloitte",
+      "date": "2026-11-09",
+      "score": 1,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/it-support-specialist-part-time-intern-to-join-tiktok-tech-team-at-zonberation-group-4488030884": {
+      "title": "IT Support Specialist(Part Time/intern)- to join TikTok Tech Team",
+      "comp": "Zonberation Group",
+      "date": "2026-11-05",
+      "score": 4,
+      "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/administrador-de-linux-at-g-l-group-4488557154": {
+      "title": "Administrador de Linux",
+      "comp": "G&L Group",
+      "date": "2026-11-12",
+      "score": 7,
+      "primera_vista": "2026-11-12"
     }
   },
   "postuladas": {

@@ -1,11 +1,15 @@
-# 🔍 Búsqueda laboral — 2026-11-11
+# 🔍 Búsqueda laboral — 2026-11-12
 
 _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
 
 ## LinkedIn (últimos 7 días)
 
+- **Administrador Cloud** — Claro Argentina ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/administrador-cloud-at-claro-argentina-4463542065
 - **Cloud DevOps & Technical Operations Engineer** — Monks ·  · _2026-11-11_  
   https://ar.linkedin.com/jobs/view/cloud-devops-technical-operations-engineer-at-monks-4473589289
+- **Site Reliability Engineer (SRE)** — Semperti ·  · _2026-11-11_  
+  https://ar.linkedin.com/jobs/view/site-reliability-engineer-sre-at-semperti-4488255576
 - **DevOps Engineer** — Accenture Argentina ·  · _2026-11-10_  
   https://ar.linkedin.com/jobs/view/devops-engineer-at-accenture-argentina-4481657173
 - **Software Engineer - DevOps - Bitnomial** — Kraken ·  · _2026-11-10_  
@@ -14,24 +18,20 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/infrastructure-operations-engineer-at-jobgether-4487697922
 - **Agentic GCP DevOps Engineer - Remote - Latin America** — FullStack ·  · _2026-11-07_  
   https://ar.linkedin.com/jobs/view/agentic-gcp-devops-engineer-remote-latin-america-at-fullstack-4480522070
+- **Agentic GCP DevOps Engineer - Remote - Latin America** — FullStack ·  · _2026-11-07_  
+  https://ar.linkedin.com/jobs/view/agentic-gcp-devops-engineer-remote-latin-america-at-fullstack-4480523035
 - **DevOps Engineer** — Improving South America ·  · _2026-11-06_  
   https://ar.linkedin.com/jobs/view/devops-engineer-at-improving-south-america-4487363265
-- **Ingeniero DevOps Azure** — Sofre Digital SA ·  · _2026-11-06_  
-  https://ar.linkedin.com/jobs/view/ingeniero-devops-azure-at-sofre-digital-sa-4486243923
-- **DevOps and Data Engineer** — Proofpoint ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/devops-and-data-engineer-at-proofpoint-4470618934
 - **Platform Engineer** — Prex ·  · _2026-11-05_  
   https://ar.linkedin.com/jobs/view/platform-engineer-at-prex-4488074216
-- **DevOps Engineer** — Span ·  · _2026-11-04_  
-  https://ar.linkedin.com/jobs/view/devops-engineer-at-span-4487549909
+- **Analista/Desarrollador Full Stack & Soporte Técnico💥** — BERNARDO LEW E HIJOS SRL ·  · _2026-11-11_  
+  https://ar.linkedin.com/jobs/view/analista-desarrollador-full-stack-soporte-t%C3%A9cnico%F0%9F%92%A5-at-bernardo-lew-e-hijos-srl-4488215703
+- **Software Engineer, Platform Experience** — Siena AI ·  · _2026-11-10_  
+  https://ar.linkedin.com/jobs/view/software-engineer-platform-experience-at-siena-ai-4489626360
 - **Junior Software Engineer with Accounting Experience (Argentina)** — Sezzle ·  · _2026-11-09_  
   https://ar.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-argentina-at-sezzle-4487938682
-- **Analista de programación** — MOTORARG S.A. ·  · _2026-11-06_  
-  https://ar.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-motorarg-s-a-4486243502
-- **Software Engineer, Platform Experience** — Siena AI ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/software-engineer-platform-experience-at-siena-ai-4488002895
-- **Software Engineer, Platform Experience** — Siena AI ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/software-engineer-platform-experience-at-siena-ai-4488010636
+- **EUC - level -1 Engineer** — SOPliance Inc. ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/euc-level-1-engineer-at-sopliance-inc-4490358270
 - **Analista de Soporte al Cliente** — ADP ·  · _2026-11-11_  
   https://ar.linkedin.com/jobs/view/analista-de-soporte-al-cliente-at-adp-4478975611
 - **Software Support Specialist with Spanish/Portuguese - LATAM** — Acronis ·  · _2026-11-10_  
@@ -50,26 +50,30 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/data-support-analyst-jr-at-stefanini-latam-4486924481
 - **Data Support Analyst Trainee** — Stefanini LATAM ·  · _2026-11-05_  
   https://ar.linkedin.com/jobs/view/data-support-analyst-trainee-at-stefanini-latam-4486924518
-- **Security Operations Support Specialist (L2)** — BETBY ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/security-operations-support-specialist-l2-at-betby-4487738713
-- **Implementador de aplicaciones Jr / Ssr** — Enerminds ·  · _2026-11-10_  
-  https://ar.linkedin.com/jobs/view/implementador-de-aplicaciones-jr-ssr-at-enerminds-4489619079
+- **Network Support Engineer N1** — Experis Argentina ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/network-support-engineer-n1-at-experis-argentina-4490336941
 - **Técnico de Servicio – Máquinas CNC** — CNC INSUMOS ·  · _2026-11-10_  
   https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-servicio-%E2%80%93-m%C3%A1quinas-cnc-at-cnc-insumos-4487821011
+- **Customer Support & Field Engineer** — Motorola Solutions ·  · _2026-11-06_  
+  https://ar.linkedin.com/jobs/view/customer-support-field-engineer-at-motorola-solutions-4480141421
 - **Customer Support Coach** — Cloudbeds ·  · _2026-11-11_  
   https://ar.linkedin.com/jobs/view/customer-support-coach-at-cloudbeds-4482051620
 - **TTT - L2 - EY Global Delivery Services** — EY ·  · _2026-11-11_  
   https://ar.linkedin.com/jobs/view/ttt-l2-ey-global-delivery-services-at-ey-4462247430
 - **Analista de Soporte Ssr.** — Enerminds ·  · _2026-11-10_  
   https://ar.linkedin.com/jobs/view/analista-de-soporte-ssr-at-enerminds-4489643603
+- **Secure Access Operations (1Badge Services) - EY Global Delivery Services** — EY ·  · _2026-11-09_  
+  https://ar.linkedin.com/jobs/view/secure-access-operations-1badge-services-ey-global-delivery-services-at-ey-4487654760
 - **Analista de Client Service (atención a bancos)** — Fiserv ·  · _2026-11-06_  
   https://ar.linkedin.com/jobs/view/analista-de-client-service-atenci%C3%B3n-a-bancos-at-fiserv-4487364374
 - **Bilingual Application Support Analyst** — InvGate ·  · _2026-11-06_  
   https://ar.linkedin.com/jobs/view/bilingual-application-support-analyst-at-invgate-4486289172
-- **Soporte IT SR (L2/L3)** — Randstad Argentina ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/soporte-it-sr-l2-l3-at-randstad-argentina-4485866467
-- **MEDICOS PARA EMERGENCIAS MEDICAS DOMICILIARIAS** — Mijal Salud ·  · _2026-11-11_  
-  https://ar.linkedin.com/jobs/view/medicos-para-emergencias-medicas-domiciliarias-at-mijal-salud-4488223758
+- **Auxiliar en Planificación Logística E-commerce** — MAMAN ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/auxiliar-en-planificaci%C3%B3n-log%C3%ADstica-e-commerce-at-maman-4488516388
+- **Asistente Ejecutivo/a de Dirección** — Empresa desarrolladora de obras de infraestructura ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/asistente-ejecutivo-a-de-direcci%C3%B3n-4489255208
+- **Auxiliar Administrativo/a Proyecto SAP (La Reja) - Req209791 - Eventual** — Manpower Argentina ·  · _2026-11-11_  
+  https://ar.linkedin.com/jobs/view/auxiliar-administrativo-a-proyecto-sap-la-reja-req209791-eventual-at-manpower-argentina-4490019440
 - **Business Analyst – Lottery Systems** — Modum Services ·  · _2026-11-10_  
   https://ar.linkedin.com/jobs/view/business-analyst-%E2%80%93-lottery-systems-at-modum-services-4489471379
 - **Compliance Analyst** — Mendel ·  · _2026-11-09_  
@@ -84,78 +88,72 @@ _DevOps Jr / Cloud / SRE / Soporte IT · Argentina · últimos 7 días_
   https://ar.linkedin.com/jobs/view/l%C3%ADder-de-mantenimiento-edilicio-hurlingham-at-adecco-4486232610
 - **Backend Developer - Payments** — Mendel ·  · _2026-11-05_  
   https://ar.linkedin.com/jobs/view/backend-developer-payments-at-mendel-4486909848
-- **Vendedor/a Devre Neuquén** — Dikter SA (Macowens y Devré) ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/vendedor-a-devre-neuqu%C3%A9n-at-dikter-sa-macowens-y-devr%C3%A9-4488081080
-- **Service Delivery** — Manpower Argentina ·  · _2026-11-04_  
-  https://ar.linkedin.com/jobs/view/service-delivery-at-manpower-argentina-4487527880
+- **Customer Support & Dispatch** — Remote Jobs ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/customer-support-dispatch-at-remote-jobs-4490068898
 - **AUXILIAR EXPERIENCIA DEL CLIENTE** — Aeropuertos Argentina ·  · _2026-11-07_  
   https://ar.linkedin.com/jobs/view/auxiliar-experiencia-del-cliente-at-aeropuertos-argentina-4487395861
-- **Junior Backoffice Agent** — Kaizen Gaming ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/junior-backoffice-agent-at-kaizen-gaming-4486789966
+- **QA Analyst Jr - 13 a 22 hs** — MRM ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/qa-analyst-jr-13-a-22-hs-at-mrm-4465309976
+- **Testing & Evaluation Associate** — JPMorganChase ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/testing-evaluation-associate-at-jpmorganchase-4490085613
+- **Visual QA** — Monks ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/visual-qa-at-monks-4490038673
+- **AI Red Team Tester** — Alignerr ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4490076628
 - **QA Engineer Jr (Contable)** — Confidencial ·  · _2026-11-11_  
   https://ar.linkedin.com/jobs/view/qa-engineer-jr-contable-at-confidencial-4489973077
 - **QA Test Engineer (Manual + Automation)** — Bridgenext ·  · _2026-11-11_  
   https://ar.linkedin.com/jobs/view/qa-test-engineer-manual-%2B-automation-at-bridgenext-4489005638
-- **Distributed Systems Testing Software Engineer, Python / Go** — Canonical ·  · _2026-11-11_  
-  https://ar.linkedin.com/jobs/view/distributed-systems-testing-software-engineer-python-go-at-canonical-4464374595
 - **Junior Quality Assurance Tester - Remote** — Universia Argentina ·  · _2026-11-10_  
   https://ar.linkedin.com/jobs/view/junior-quality-assurance-tester-remote-at-universia-argentina-4488823660
-- **QA Automation Engineer** — Applaudo ·  · _2026-11-10_  
-  https://ar.linkedin.com/jobs/view/qa-automation-engineer-at-applaudo-4489168925
-- **QA Automation Engineer** — Applaudo ·  · _2026-11-10_  
-  https://ar.linkedin.com/jobs/view/qa-automation-engineer-at-applaudo-4489165947
 - **AI Growth Ops** — Kraken ·  · _2026-11-07_  
   https://ar.linkedin.com/jobs/view/ai-growth-ops-at-kraken-4479638159
 - **Freelance QA** — WPP Production ·  · _2026-11-05_  
   https://ar.linkedin.com/jobs/view/freelance-qa-at-wpp-production-4488056486
 - **Quality Assurance Engineer II - Argentina** — Built ·  · _2026-11-05_  
   https://ar.linkedin.com/jobs/view/quality-assurance-engineer-ii-argentina-at-built-4488057996
-- **Analista de calidad e inocuidad** — Indubol leones Srl ·  · _2026-11-11_  
-  https://ar.linkedin.com/jobs/view/analista-de-calidad-e-inocuidad-4488234582
 - **Analista de Calidad - Molinos** — Inspired Way ·  · _2026-11-06_  
   https://ar.linkedin.com/jobs/view/analista-de-calidad-molinos-at-inspired-way-4486939662
 - **Associate II, TMF Operations (LATAM)** — Worldwide Clinical Trials ·  · _2026-11-06_  
   https://ar.linkedin.com/jobs/view/associate-ii-tmf-operations-latam-at-worldwide-clinical-trials-4479357563
 - **Analista de control de calidad** — COTO ·  · _2026-11-05_  
   https://ar.linkedin.com/jobs/view/analista-de-control-de-calidad-at-coto-4485855822
-- **Analista de Calificaciones y Validaciones** — AKRIBIS ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/analista-de-calificaciones-y-validaciones-at-akribis-4486572361
-- **Analista de Calidad** — Cervecería y Maltería Quilmes ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/analista-de-calidad-at-cervecer%C3%ADa-y-malter%C3%ADa-quilmes-4451457745
+- **Pasante de Producción Publicitaria** — Publicis Groupe Argentina ·  · _2026-11-11_  
+  https://ar.linkedin.com/jobs/view/pasante-de-producci%C3%B3n-publicitaria-at-publicis-groupe-argentina-4489035944
+- **Business Analyst SR** — Sistemas Activos SRL ·  · _2026-11-11_  
+  https://ar.linkedin.com/jobs/view/business-analyst-sr-at-sistemas-activos-srl-4488239882
 - **Operations Support** — DiDi ·  · _2026-11-10_  
   https://ar.linkedin.com/jobs/view/operations-support-at-didi-4487998520
 - **Ingeniero de Automatización e Integración de Datos** — AVANZARE RH - Consultora de Capital Humano (People, IT & IA) ·  · _2026-11-10_  
   https://ar.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-e-integraci%C3%B3n-de-datos-at-avanzare-rh-consultora-de-capital-humano-people-it-ia-4489477318
 - **Product Management Intern** — Sezzle ·  · _2026-11-09_  
   https://ar.linkedin.com/jobs/view/product-management-intern-at-sezzle-4487943626
+- **Analista Funcional Senior SAP SuccessFactors Compensation – Mantenimiento AMS** — MaxIT Consulting - Max Corporate Group ·  · _2026-11-09_  
+  https://ar.linkedin.com/jobs/view/analista-funcional-senior-sap-successfactors-compensation-%E2%80%93-mantenimiento-ams-at-maxit-consulting-max-corporate-group-4487960598
 - **Pasantía - Project Management Office Substations** — Siemens Energy ·  · _2026-11-07_  
   https://ar.linkedin.com/jobs/view/pasant%C3%ADa-project-management-office-substations-at-siemens-energy-4487356647
 - **Senior Microsoft Dynamics GP Consultant** — Endeavour Solutions Inc. -Dynamics 365 ERP, CRM & Cloud ·  · _2026-11-07_  
   https://ar.linkedin.com/jobs/view/senior-microsoft-dynamics-gp-consultant-at-endeavour-solutions-inc-dynamics-365-erp-crm-cloud-4479663486
-- **Associate Identity & Access Management - Cybersecurity [US Client]** — PwC Argentina ·  · _2026-11-07_  
-  https://ar.linkedin.com/jobs/view/associate-identity-access-management-cybersecurity-us-client-at-pwc-argentina-4488473548
 - **Staff QS - IT - EY Global Delivery Services** — EY ·  · _2026-11-11_  
   https://ar.linkedin.com/jobs/view/staff-qs-it-ey-global-delivery-services-at-ey-4462988053
+- **AUB CRP Intern | People & Purpose | Digital HR Centre of Excellence** — Deloitte ·  · _2026-11-09_  
+  https://ar.linkedin.com/jobs/view/aub-crp-intern-people-purpose-digital-hr-centre-of-excellence-at-deloitte-4488897534
 - **Associate Identity & Access Management- Cybersecurity [US Client]** — PwC Argentina ·  · _2026-11-07_  
   https://ar.linkedin.com/jobs/view/associate-identity-access-management-cybersecurity-us-client-at-pwc-argentina-4435845749
-- **Consultor(a) Analytics – Delivery Center de Auditoría Latinoamérica | Rosario** — Deloitte ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/consultor-a-analytics-%E2%80%93-delivery-center-de-auditor%C3%ADa-latinoam%C3%A9rica-rosario-at-deloitte-4487764873
+- **IT Support Specialist(Part Time/intern)- to join TikTok Tech Team** — Zonberation Group ·  · _2026-11-05_  
+  https://ar.linkedin.com/jobs/view/it-support-specialist-part-time-intern-to-join-tiktok-tech-team-at-zonberation-group-4488030884
+- **Administrador de Linux** — G&L Group ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/administrador-de-linux-at-g-l-group-4488557154
 - **Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)** — Canonical ·  · _2026-11-11_  
   https://ar.linkedin.com/jobs/view/linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels-at-canonical-4487880029
-- **Analista Técnico Funcional** — Urbano Argentina ·  · _2026-11-10_  
-  https://ar.linkedin.com/jobs/view/analista-t%C3%A9cnico-funcional-at-urbano-argentina-4487823154
 - **Software Support Analyst II** — NCR Atleos ·  · _2026-11-09_  
   https://ar.linkedin.com/jobs/view/software-support-analyst-ii-at-ncr-atleos-4471382785
 - **Explotador de Plataforma** — TIVIT LATAM ·  · _2026-11-09_  
   https://ar.linkedin.com/jobs/view/explotador-de-plataforma-at-tivit-latam-4487169133
 - **Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)** — Canonical ·  · _2026-11-08_  
   https://ar.linkedin.com/jobs/view/linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels-at-canonical-4434624548
-- **Software Engineer, Platform Experience** — Siena AI ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/software-engineer-platform-experience-at-siena-ai-4488018302
-- **Software Engineer, Platform Experience** — Siena AI ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/software-engineer-platform-experience-at-siena-ai-4488018301
-- **Site Reliability Engineer** — Sur Global ·  · _2026-11-05_  
-  https://ar.linkedin.com/jobs/view/site-reliability-engineer-at-sur-global-4487777308
+- **Cloud Support Administrator (Remote LATAM)** — Atmosera ·  · _2026-11-12_  
+  https://ar.linkedin.com/jobs/view/cloud-support-administrator-remote-latam-at-atmosera-4482431448
 - **Ingeniero de Soporte** — NEC Argentina ·  · _2026-11-09_  
   https://ar.linkedin.com/jobs/view/ingeniero-de-soporte-at-nec-argentina-4487139871
 - **Network & Svcs Operations LAN/WLAN** — Accenture Argentina ·  · _2026-11-09_  
