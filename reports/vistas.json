@@ -984,7 +984,7 @@
       "title": "Cloud DevOps & Technical Operations Engineer",
       "comp": "Monks",
       "date": "2026-11-11",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/administrador-cloud-at-claro-argentina-4463542065": {
@@ -1362,7 +1362,7 @@
       "title": "Software Support Analyst II",
       "comp": "NCR Atleos",
       "date": "2026-11-09",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-09-30"
     },
     "https://ar.linkedin.com/jobs/view/platform-software-engineer-at-brivo-4471935458": {
@@ -1536,8 +1536,8 @@
     "https://ar.linkedin.com/jobs/view/site-reliability-engineering-engineer-ii-at-medallia-4472888345": {
       "title": "Site Reliability Engineering, Engineer II",
       "comp": "Medallia",
-      "date": "2026-10-23",
-      "score": 2,
+      "date": "2026-11-13",
+      "score": 4,
       "primera_vista": "2026-10-02"
     },
     "https://ar.linkedin.com/jobs/view/azure-devops-engineer-at-jbk-argentina-4472802465": {
@@ -1564,8 +1564,8 @@
     "https://ar.linkedin.com/jobs/view/technical-support-specialist-at-hornetsecurity-4398383457": {
       "title": "Technical Support Specialist",
       "comp": "Hornetsecurity",
-      "date": "2026-10-02",
-      "score": 5,
+      "date": "2026-11-13",
+      "score": 6,
       "primera_vista": "2026-10-02"
     },
     "https://ar.linkedin.com/jobs/view/operador-de-monitoreo-at-gestiona-servicios-4470897164": {
@@ -3329,7 +3329,7 @@
       "title": "Analista de Soporte al Cliente",
       "comp": "ADP",
       "date": "2026-11-11",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-10-21"
     },
     "https://ar.linkedin.com/jobs/view/atenci%C3%B3n-t%C3%A9cnica-acad%C3%A9mica-soporte-telef%C3%B3nico-at-evirtual-sa-4481796372": {
@@ -5030,7 +5030,7 @@
       "title": "Compliance Analyst",
       "comp": "Mendel",
       "date": "2026-11-09",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-11-09"
     },
     "https://ar.linkedin.com/jobs/view/auxiliar-experiencia-del-cliente-at-aeropuertos-argentina-4487395861": {
@@ -5058,21 +5058,21 @@
       "title": "Explotador de Plataforma",
       "comp": "TIVIT LATAM",
       "date": "2026-11-09",
-      "score": 1,
+      "score": 0,
       "primera_vista": "2026-11-09"
     },
     "https://ar.linkedin.com/jobs/view/ingeniero-de-soporte-at-nec-argentina-4487139871": {
       "title": "Ingeniero de Soporte",
       "comp": "NEC Argentina",
       "date": "2026-11-09",
-      "score": 5,
+      "score": 4,
       "primera_vista": "2026-11-09"
     },
     "https://ar.linkedin.com/jobs/view/network-svcs-operations-lan-wlan-at-accenture-argentina-4487688013": {
       "title": "Network & Svcs Operations LAN/WLAN",
       "comp": "Accenture Argentina",
       "date": "2026-11-09",
-      "score": 4,
+      "score": 3,
       "primera_vista": "2026-11-09"
     },
     "https://ar.linkedin.com/jobs/view/devops-engineer-con-certificaci%C3%B3n-aws-at-topgroup-4489495191": {
@@ -5100,7 +5100,7 @@
       "title": "Junior Software Engineer with Accounting Experience (Argentina)",
       "comp": "Sezzle",
       "date": "2026-11-09",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-11-10"
     },
     "https://ar.linkedin.com/jobs/view/software-engineer-platform-experience-at-siena-ai-4488010636": {
@@ -5198,14 +5198,14 @@
       "title": "QA Engineer Jr (Contable)",
       "comp": "Confidencial",
       "date": "2026-11-11",
-      "score": 11,
+      "score": 10,
       "primera_vista": "2026-11-11"
     },
     "https://ar.linkedin.com/jobs/view/qa-test-engineer-manual-%2B-automation-at-bridgenext-4489005638": {
       "title": "QA Test Engineer (Manual + Automation)",
       "comp": "Bridgenext",
       "date": "2026-11-11",
-      "score": 6,
+      "score": 5,
       "primera_vista": "2026-11-11"
     },
     "https://ar.linkedin.com/jobs/view/qa-automation-engineer-at-applaudo-4489168925": {
@@ -5361,6 +5361,160 @@
       "date": "2026-11-12",
       "score": 7,
       "primera_vista": "2026-11-12"
+    },
+    "https://ar.linkedin.com/jobs/view/devops-azure-docker-and-kubernetes-at-jalasoft-4489581920": {
+      "title": "Devops - Azure, Docker and Kubernetes.",
+      "comp": "Jalasoft",
+      "date": "2026-11-13",
+      "score": 4,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/cloud-engineer-at-accenture-argentina-4489582900": {
+      "title": "Cloud Engineer",
+      "comp": "Accenture Argentina",
+      "date": "2026-11-13",
+      "score": 7,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-jr-at-serbiznet-4484671691": {
+      "title": "Analista de Soporte Técnico Jr",
+      "comp": "Serbiznet",
+      "date": "2026-11-13",
+      "score": 11,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-de-soporte-it-at-hires-latam-4490513363": {
+      "title": "Analista de Soporte IT",
+      "comp": "Hires LATAM",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/soporte-t%C3%A9cnico-on-site-chacabuco-at-empleos-it-4490501882": {
+      "title": "Soporte Técnico On Site - Chacabuco",
+      "comp": "Empleos IT",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/it-support-engineer-at-lesaffre-4490506649": {
+      "title": "IT Support Engineer",
+      "comp": "Lesaffre",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/recepcionista-y-administrativa-4488938989": {
+      "title": "Recepcionista y administrativa",
+      "comp": "Residencia de Adultos Mayores",
+      "date": "2026-11-13",
+      "score": 2,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/auxiliar-administrativo-a-proyecto-sap-la-reja-req209791-eventual-at-manpower-argentina-4490731118": {
+      "title": "Auxiliar Administrativo/a Proyecto SAP (La Reja) - Req209791 - Eventual",
+      "comp": "Manpower Argentina",
+      "date": "2026-11-13",
+      "score": 2,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/phone-support-specialist-contract-at-petdesk-4490764505": {
+      "title": "Phone Support Specialist, Contract",
+      "comp": "PetDesk",
+      "date": "2026-11-13",
+      "score": 6,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/abogado-a-junior-avanzado-a-de-litigios-at-marval-o-farrell-mairal-4488584566": {
+      "title": "Abogado/a Junior Avanzado/a de Litigios",
+      "comp": "Marval O'Farrell, Mairal",
+      "date": "2026-11-12",
+      "score": 7,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/experiencia-del-cliente-administrativo-at-sipssa-medicina-personalizada-4489520156": {
+      "title": "Experiencia del cliente / Administrativo",
+      "comp": "SIPSSA Medicina Personalizada",
+      "date": "2026-11-13",
+      "score": 3,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/coordinador-de-asistencia-al-viajero-con-idioma-ingl%C3%A9s-at-universal-assistance-4489292588": {
+      "title": "Coordinador de Asistencia al Viajero con Idioma Inglés",
+      "comp": "Universal Assistance",
+      "date": "2026-11-12",
+      "score": 2,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/quality-assurance-engineer-intern-at-grid-dynamics-4490762059": {
+      "title": "Quality Assurance Engineer Intern",
+      "comp": "Grid Dynamics",
+      "date": "2026-11-13",
+      "score": 2,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/qa-automation-engineers-at-ampstek-4489285624": {
+      "title": "QA Automation Engineers",
+      "comp": "Ampstek",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/performance-tester-at-qualityai-4489299445": {
+      "title": "Performance Tester",
+      "comp": "QualityAI",
+      "date": "2026-11-12",
+      "score": 6,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/analista-jr-de-calidad-planta-autopartista-at-nergistalent-4490764082": {
+      "title": "Analista JR de Calidad (Planta Autopartista)",
+      "comp": "NergisTalent",
+      "date": "2026-11-13",
+      "score": 11,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/aux-calidad-laboratorio-at-grupo-arcor-4490743928": {
+      "title": "Aux. Calidad Laboratorio",
+      "comp": "Grupo Arcor",
+      "date": "2026-11-13",
+      "score": 6,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/android-developer-intern-at-grid-dynamics-4490595871": {
+      "title": "Android Developer Intern",
+      "comp": "Grid Dynamics",
+      "date": "2026-11-13",
+      "score": 5,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/technical-support-intern-at-sovos-latinoam%C3%A9rica-4490547356": {
+      "title": "Technical Support Intern",
+      "comp": "Sovos Latinoamérica",
+      "date": "2026-11-13",
+      "score": 6,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/data-engineer-trainee-at-digitas-argentina-4489296821": {
+      "title": "Data Engineer Trainee",
+      "comp": "Digitas Argentina",
+      "date": "2026-11-12",
+      "score": 7,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/ingeniero-de-software-at-mercado-libre-4488559711": {
+      "title": "Ingeniero de software",
+      "comp": "Mercado Libre",
+      "date": "2026-11-12",
+      "score": 5,
+      "primera_vista": "2026-11-13"
+    },
+    "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-it-at-empleos-it-4490517189": {
+      "title": "Técnico de Infraestructura IT",
+      "comp": "Empleos IT",
+      "date": "2026-11-12",
+      "score": 9,
+      "primera_vista": "2026-11-13"
     }
   },
   "postuladas": {
